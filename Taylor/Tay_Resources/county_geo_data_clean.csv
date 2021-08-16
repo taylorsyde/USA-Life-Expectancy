@@ -1,0 +1,185 @@
+County,county_fips,state_name,Location,lat,lng,population
+Ada,16001,Idaho,"Ada, Idaho",43.4511,-116.2412,456849
+Allegheny,42003,Pennsylvania,"Allegheny, Pennsylvania",40.4688,-79.9812,1221744
+Allen,18003,Indiana,"Allen, Indiana",41.0909,-85.0666,372575
+Anchorage,02020,Alaska,"Anchorage, Alaska",61.1508,-149.1091,293531
+Anne Arundel,24003,Maryland,"Anne Arundel, Maryland",39.0065,-76.6051,571275
+Anoka,27003,Minnesota,"Anoka, Minnesota",45.2733,-93.2465,350253
+Arapahoe,08005,Colorado,"Arapahoe, Colorado",39.6498,-104.3392,644560
+Baltimore,24005,Maryland,"Baltimore, Maryland",39.4627,-76.6393,828018
+Benton,05007,Arkansas,"Benton, Arkansas",36.3387,-94.2561,265759
+Bergen,34003,New Jersey,"Bergen, New Jersey",40.9596,-74.0742,930390
+Berkeley,54003,West Virginia,"Berkeley, West Virginia",39.4641,-78.0275,115329
+Bernalillo,35001,New Mexico,"Bernalillo, New Mexico",35.0513,-106.6701,677858
+Bexar,48029,Texas,"Bexar, Texas",29.4489,-98.52,1952843
+Bonneville,16019,Idaho,"Bonneville, Idaho",43.3877,-111.6148,114392
+Boone,21015,Kentucky,"Boone, Kentucky",38.9699,-84.7278,130820
+Broward,12011,Florida,"Broward, Florida",26.1523,-80.4871,1926205
+Brown,46013,South Dakota,"Brown, South Dakota",45.5898,-98.3516,38915
+Brown,55009,Wisconsin,"Brown, Wisconsin",44.4529,-88.0037,261368
+Bucks,42017,Pennsylvania,"Bucks, Pennsylvania",40.337,-75.1069,626806
+Burleigh,38015,North Dakota,"Burleigh, North Dakota",46.9775,-100.4687,94793
+Cabell,54011,West Virginia,"Cabell, West Virginia",38.4203,-82.2417,94339
+Campbell,56005,Wyoming,"Campbell, Wyoming",44.2482,-105.5482,47409
+Canadian,40017,Oklahoma,"Canadian, Oklahoma",35.5424,-97.9824,140455
+Canyon,16027,Idaho,"Canyon, Idaho",43.6251,-116.7093,217633
+Carson City,32510,Nevada,"Carson City, Nevada",39.1512,-119.7474,54773
+Cass,38017,North Dakota,"Cass, North Dakota",46.933,-97.248,176975
+Charleston,45019,South Carolina,"Charleston, South Carolina",32.8346,-79.9531,401165
+Chittenden,50007,Vermont,"Chittenden, Vermont",44.461,-73.0809,162646
+Clackamas,41005,Oregon,"Clackamas, Oregon",45.188,-122.2209,410463
+Clark,32003,Nevada,"Clark, Nevada",36.2152,-115.0135,2182004
+Cleveland,40027,Oklahoma,"Cleveland, Oklahoma",35.2031,-97.3265,279274
+Cobb,13067,Georgia,"Cobb, Georgia",33.9415,-84.5767,751218
+Cook,17031,Illinois,"Cook, Illinois",41.8401,-87.8168,5198275
+Cumberland,23005,Maine,"Cumberland, Maine",43.8464,-70.3988,292307
+Cuyahoga,39035,Ohio,"Cuyahoga, Ohio",41.4245,-81.6586,1247451
+Dakota,27037,Minnesota,"Dakota, Minnesota",44.6719,-93.0654,421453
+Dallas,48113,Texas,"Dallas, Texas",32.7666,-96.7779,2606868
+Dane,55025,Wisconsin,"Dane, Wisconsin",43.0673,-89.4181,536078
+Davidson,47037,Tennessee,"Davidson, Tennessee",36.1695,-86.7848,687488
+Davis,49011,Utah,"Davis, Utah",40.99,-112.1115,345767
+DeKalb,13089,Georgia,"DeKalb, Georgia",33.7715,-84.2264,749323
+Denver,08031,Colorado,"Denver, Colorado",39.7621,-104.8759,705576
+DeSoto,28033,Mississippi,"DeSoto, Mississippi",34.8754,-89.9918,178975
+District of Columbia,11001,District of Columbia,"District of Columbia, District of Columbia",38.9047,-77.0163,692683
+Doña Ana,35013,New Mexico,"Doña Ana, New Mexico",32.3526,-106.8328,216069
+Douglas,31055,Nebraska,"Douglas, Nebraska",41.2953,-96.1543,560617
+DuPage,17043,Illinois,"DuPage, Illinois",41.852,-88.0856,929060
+East Baton Rouge,22033,Louisiana,"East Baton Rouge, Louisiana",30.5383,-91.0956,443763
+El Paso,08041,Colorado,"El Paso, Colorado",38.8321,-104.5255,698974
+Essex,25009,Massachusetts,"Essex, Massachusetts",42.6731,-70.952,783676
+Fairbanks North Star,02090,Alaska,"Fairbanks North Star, Alaska",64.8078,-146.5654,99072
+Fairfax,51059,Virginia,"Fairfax, Virginia",38.8368,-77.277,1145862
+Fairfield,09001,Connecticut,"Fairfield, Connecticut",41.2708,-73.3894,943926
+Fayette,21067,Kentucky,"Fayette, Kentucky",38.0423,-84.4587,320601
+Flathead,30029,Montana,"Flathead, Montana",48.2951,-114.0497,99899
+Forsyth,37067,North Carolina,"Forsyth, North Carolina",36.1306,-80.2563,375195
+Franklin,39049,Ohio,"Franklin, Ohio",39.9695,-83.0093,1290360
+Fulton,13121,Georgia,"Fulton, Georgia",33.7903,-84.467,1036200
+Gallatin,30031,Montana,"Gallatin, Montana",45.5404,-111.1704,108063
+Grand Forks,38035,North Dakota,"Grand Forks, North Dakota",47.9219,-97.4569,70224
+Greenville,45045,South Carolina,"Greenville, South Carolina",34.8944,-82.3707,507003
+Guilford,37081,North Carolina,"Guilford, North Carolina",36.0795,-79.7889,527868
+Gwinnett,13135,Georgia,"Gwinnett, Georgia",33.9617,-84.0236,915046
+Hall,31079,Nebraska,"Hall, Nebraska",40.8726,-98.5022,61265
+Hamilton,18057,Indiana,"Hamilton, Indiana",40.0725,-86.052,323117
+Harris,48201,Texas,"Harris, Texas",29.8577,-95.3936,4646630
+Harrison,28047,Mississippi,"Harrison, Mississippi",30.5118,-89.1159,204502
+Hartford,09003,Connecticut,"Hartford, Connecticut",41.8064,-72.7329,893561
+Hawaii,15001,Hawaii,"Hawaii, Hawaii",19.5987,-155.5185,199459
+Hennepin,27053,Minnesota,"Hennepin, Minnesota",45.0046,-93.4769,1245837
+Hillsborough,12057,Florida,"Hillsborough, Florida",27.9291,-82.3092,1422278
+Hillsborough,33011,New Hampshire,"Hillsborough, New Hampshire",42.9153,-71.7161,413035
+Hinds,28049,Mississippi,"Hinds, Mississippi",32.2667,-90.4428,238797
+Honolulu,15003,Hawaii,"Honolulu, Hawaii",21.5008,-158.1053,984821
+Horry,45051,South Carolina,"Horry, South Carolina",33.9215,-78.9965,332172
+Hudson,34017,New Jersey,"Hudson, New Jersey",40.7351,-74.0777,670046
+Jackson,29095,Missouri,"Jackson, Missouri",39.0085,-94.3461,696216
+Jefferson,01073,Alabama,"Jefferson, Alabama",33.5543,-86.8964,659680
+Johnson,19103,Iowa,"Johnson, Iowa",41.6715,-91.5881,148577
+Johnson,20091,Kansas,"Johnson, Kansas",38.8838,-94.8223,591506
+Kanawha,54039,West Virginia,"Kanawha, West Virginia",38.3366,-81.5281,183279
+Kauai,15007,Hawaii,"Kauai, Hawaii",22.0396,-159.5963,71769
+Kenai Peninsula,02122,Alaska,"Kenai Peninsula, Alaska",60.2654,-151.5652,58464
+Kennebec,23011,Maine,"Kennebec, Maine",44.4091,-69.7673,121753
+Kent,10001,Delaware,"Kent, Delaware",39.0862,-75.5684,176699
+Kenton,21117,Kentucky,"Kenton, Kentucky",38.9334,-84.5333,165668
+King,53033,Washington,"King, Washington",47.4902,-121.8052,2195502
+Kings,36047,New York,"Kings, New York",40.6395,-73.9385,2589974
+Knox,47093,Tennessee,"Knox, Tennessee",35.9932,-83.9371,461104
+Kootenai,16055,Idaho,"Kootenai, Idaho",47.6744,-116.7018,157322
+Lake,17097,Illinois,"Lake, Illinois",42.3233,-88.0037,701473
+Lancaster,31109,Nebraska,"Lancaster, Nebraska",40.7842,-96.6878,313158
+Lane,41039,Oregon,"Lane, Oregon",43.9388,-122.8475,373340
+Laramie,56021,Wyoming,"Laramie, Wyoming",41.307,-104.6895,98320
+Lincoln,46083,South Dakota,"Lincoln, South Dakota",43.2789,-96.7218,56826
+Linn,19113,Iowa,"Linn, Iowa",42.079,-91.599,223861
+Los Angeles,06037,California,"Los Angeles, California",34.3207,-118.2248,10081570
+Loudoun,51107,Virginia,"Loudoun, Virginia",39.0907,-77.6357,395134
+Lyon,32019,Nevada,"Lyon, Nevada",39.0203,-119.1891,54380
+Macomb,26099,Michigan,"Macomb, Michigan",42.6955,-82.9323,870325
+Madison,01089,Alabama,"Madison, Alabama",34.7631,-86.5502,362276
+Maricopa,04013,Arizona,"Maricopa, Arizona",33.349,-112.4915,4328810
+Marion,18097,Indiana,"Marion, Indiana",39.7817,-86.1385,951869
+Matanuska-Susitna,02170,Alaska,"Matanuska-Susitna, Alaska",62.3162,-149.5714,105369
+Maui,15009,Hawaii,"Maui, Hawaii",20.8596,-156.5648,165979
+Mecklenburg,37119,North Carolina,"Mecklenburg, North Carolina",35.2467,-80.8328,1074475
+Merrimack,33013,New Hampshire,"Merrimack, New Hampshire",43.2975,-71.6802,149917
+Miami-Dade,12086,Florida,"Miami-Dade, Florida",25.615,-80.5623,2699428
+Middlesex,25017,Massachusetts,"Middlesex, Massachusetts",42.4856,-71.3918,1600842
+Milwaukee,55079,Wisconsin,"Milwaukee, Wisconsin",43.0072,-87.9668,951226
+Minnehaha,46099,South Dakota,"Minnehaha, South Dakota",43.6742,-96.7915,188674
+Missoula,30063,Montana,"Missoula, Montana",47.0365,-113.9237,117309
+Mobile,01097,Alabama,"Mobile, Alabama",30.7872,-88.2058,414114
+Monongalia,54061,West Virginia,"Monongalia, West Virginia",39.6303,-80.0466,105474
+Montgomery,01101,Alabama,"Montgomery, Alabama",32.2203,-86.2076,226941
+Multnomah,41051,Oregon,"Multnomah, Oregon",45.5468,-122.4147,804606
+Natrona,56025,Wyoming,"Natrona, Wyoming",42.9621,-106.7985,80333
+New Castle,10003,Delaware,"New Castle, Delaware",39.5768,-75.6527,556165
+New Haven,09009,Connecticut,"New Haven, Connecticut",41.4105,-72.9321,857513
+New London,09011,Connecticut,"New London, Connecticut",41.4866,-72.1015,267390
+New York,36061,New York,"New York, New York",40.7781,-73.9675,1631993
+Newport,44005,Rhode Island,"Newport, Rhode Island",41.5564,-71.2368,82801
+Oakland,26125,Michigan,"Oakland, Michigan",42.6604,-83.3858,1253185
+Oklahoma,40109,Oklahoma,"Oklahoma, Oklahoma",35.5515,-97.4072,787216
+Orange,06059,California,"Orange, California",33.703,-117.7611,3168044
+Orleans,22071,Louisiana,"Orleans, Louisiana",30.0687,-89.9288,390845
+Palm Beach,12099,Florida,"Palm Beach, Florida",26.6476,-80.4655,1465027
+Pennington,46103,South Dakota,"Pennington, South Dakota",44.0037,-102.8238,110685
+Penobscot,23019,Maine,"Penobscot, Maine",45.4006,-68.6495,151774
+Philadelphia,42101,Pennsylvania,"Philadelphia, Pennsylvania",40.0077,-75.1339,1579075
+Pierce,53053,Washington,"Pierce, Washington",47.0241,-122.1046,877013
+Pima,04019,Arizona,"Pima, Arizona",32.0974,-111.7899,1027207
+Pinal,04021,Arizona,"Pinal, Arizona",32.9044,-111.3448,432793
+Polk,19153,Iowa,"Polk, Iowa",41.6855,-93.5735,479612
+Prince George's,24033,Maryland,"Prince George's, Maryland",38.8295,-76.8473,908670
+Prince William,51153,Virginia,"Prince William, Virginia",38.703,-77.4809,461423
+Providence,44007,Rhode Island,"Providence, Rhode Island",41.8721,-71.58,635737
+Pulaski,05119,Arkansas,"Pulaski, Arkansas",34.77,-92.3119,392967
+Queens,36081,New York,"Queens, New York",40.7023,-73.8203,2287388
+Ramsey,27123,Minnesota,"Ramsey, Minnesota",45.0171,-93.0996,544442
+Rankin,28121,Mississippi,"Rankin, Mississippi",32.2641,-89.9458,152677
+Richland,45079,South Carolina,"Richland, South Carolina",34.0218,-80.9031,411357
+Riverside,06065,California,"Riverside, California",33.7437,-115.9938,2411439
+Rockingham,33015,New Hampshire,"Rockingham, New Hampshire",42.9876,-71.1254,306359
+Rutland,50021,Vermont,"Rutland, Vermont",43.5801,-73.0366,58892
+Salt Lake,49035,Utah,"Salt Lake, Utah",40.6673,-111.9236,1133646
+San Diego,06073,California,"San Diego, California",33.0341,-116.7353,3316073
+Sandoval,35043,New Mexico,"Sandoval, New Mexico",35.6886,-106.8659,142704
+Santa Fe,35049,New Mexico,"Santa Fe, New Mexico",35.5069,-105.9763,149293
+Sarpy,31153,Nebraska,"Sarpy, Nebraska",41.1129,-96.112,181232
+Scott,19163,Iowa,"Scott, Iowa",41.6371,-90.6232,172446
+Sebastian,05131,Arkansas,"Sebastian, Arkansas",35.1993,-94.2742,127591
+Sedgwick,20173,Kansas,"Sedgwick, Kansas",37.6848,-97.461,513375
+Shawnee,20177,Kansas,"Shawnee, Kansas",39.0415,-95.7565,177852
+Shelby,47157,Tennessee,"Shelby, Tennessee",35.184,-89.8955,936374
+Snohomish,53061,Washington,"Snohomish, Washington",48.0475,-121.6975,798808
+Spokane,53063,Washington,"Spokane, Washington",47.6207,-117.404,505505
+St. Charles,29183,Missouri,"St. Charles, Missouri",38.7819,-90.6749,394290
+St. Louis,29189,Missouri,"St. Louis, Missouri",38.6405,-90.4433,996919
+St. Tammany,22103,Louisiana,"St. Tammany, Louisiana",30.4102,-89.9583,255155
+Strafford,33017,New Hampshire,"Strafford, New Hampshire",43.297,-71.0289,129124
+Suffolk,25025,Massachusetts,"Suffolk, Massachusetts",42.3336,-71.0709,796605
+Suffolk,36103,New York,"Suffolk, New York",40.8686,-72.8448,1483832
+Summit,39153,Ohio,"Summit, Ohio",41.126,-81.5322,541334
+Sussex,10005,Delaware,"Sussex, Delaware",38.6606,-75.39,224384
+Sweetwater,56037,Wyoming,"Sweetwater, Wyoming",41.6595,-108.8796,43521
+Tarrant,48439,Texas,"Tarrant, Texas",32.7716,-97.2912,2049770
+Tulsa,40143,Oklahoma,"Tulsa, Oklahoma",36.1211,-95.9415,646419
+Utah,49049,Utah,"Utah, Utah",40.1199,-111.6703,605490
+Virginia Beach,51810,Virginia,"Virginia Beach, Virginia",36.7335,-76.0435,450201
+Wake,37183,North Carolina,"Wake, North Carolina",35.7903,-78.6503,1069079
+Ward,38101,North Dakota,"Ward, North Dakota",48.2217,-101.5418,68812
+Washington,05143,Arkansas,"Washington, Arkansas",35.9791,-94.2156,232289
+Washoe,32031,Nevada,"Washoe, Nevada",40.6657,-119.6643,456936
+Waukesha,55133,Wisconsin,"Waukesha, Wisconsin",43.0182,-88.3045,400475
+Wayne,26163,Michigan,"Wayne, Michigan",42.2819,-83.2821,1757299
+Weber,49057,Utah,"Weber, Utah",41.2698,-111.9134,251498
+Will,17197,Illinois,"Will, Illinois",41.445,-87.9786,689315
+Windsor,50027,Vermont,"Windsor, Vermont",43.58,-72.5862,55275
+Worcester,25027,Massachusetts,"Worcester, Massachusetts",42.3514,-71.9077,824772
+Wyandotte,20209,Kansas,"Wyandotte, Kansas",39.1146,-94.7646,164861
+Yavapai,04025,Arizona,"Yavapai, Arizona",34.5999,-112.554,228067
+Yellowstone,30111,Montana,"Yellowstone, Montana",45.9373,-108.2744,159008
+York,23031,Maine,"York, Maine",43.4782,-70.7144,204316

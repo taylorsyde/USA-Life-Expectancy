@@ -1,0 +1,3143 @@
+county,state_name,Location,lat,lng,population
+Los Angeles,California,"Los Angeles, California",34.3207,-118.2248,10081570
+Cook,Illinois,"Cook, Illinois",41.8401,-87.8168,5198275
+Harris,Texas,"Harris, Texas",29.8577,-95.3936,4646630
+Maricopa,Arizona,"Maricopa, Arizona",33.349,-112.4915,4328810
+San Diego,California,"San Diego, California",33.0341,-116.7353,3316073
+Orange,California,"Orange, California",33.703,-117.7611,3168044
+Miami-Dade,Florida,"Miami-Dade, Florida",25.615,-80.5623,2699428
+Dallas,Texas,"Dallas, Texas",32.7666,-96.7779,2606868
+Kings,New York,"Kings, New York",40.6395,-73.9385,2589974
+Riverside,California,"Riverside, California",33.7437,-115.9938,2411439
+Queens,New York,"Queens, New York",40.7023,-73.8203,2287388
+King,Washington,"King, Washington",47.4902,-121.8052,2195502
+Clark,Nevada,"Clark, Nevada",36.2152,-115.0135,2182004
+San Bernardino,California,"San Bernardino, California",34.8414,-116.1784,2149031
+Tarrant,Texas,"Tarrant, Texas",32.7716,-97.2912,2049770
+Bexar,Texas,"Bexar, Texas",29.4489,-98.52,1952843
+Santa Clara,California,"Santa Clara, California",37.2318,-121.6951,1927470
+Broward,Florida,"Broward, Florida",26.1523,-80.4871,1926205
+Wayne,Michigan,"Wayne, Michigan",42.2819,-83.2821,1757299
+Alameda,California,"Alameda, California",37.6469,-121.8889,1656754
+New York,New York,"New York, New York",40.7781,-73.9675,1631993
+Middlesex,Massachusetts,"Middlesex, Massachusetts",42.4856,-71.3918,1600842
+Philadelphia,Pennsylvania,"Philadelphia, Pennsylvania",40.0077,-75.1339,1579075
+Sacramento,California,"Sacramento, California",38.4493,-121.3443,1524553
+Suffolk,New York,"Suffolk, New York",40.8686,-72.8448,1483832
+Palm Beach,Florida,"Palm Beach, Florida",26.6476,-80.4655,1465027
+Bronx,New York,"Bronx, New York",40.85,-73.866,1435068
+Hillsborough,Florida,"Hillsborough, Florida",27.9291,-82.3092,1422278
+Nassau,New York,"Nassau, New York",40.7328,-73.5864,1356509
+Orange,Florida,"Orange, Florida",28.5144,-81.3235,1349746
+Franklin,Ohio,"Franklin, Ohio",39.9695,-83.0093,1290360
+Oakland,Michigan,"Oakland, Michigan",42.6604,-83.3858,1253185
+Cuyahoga,Ohio,"Cuyahoga, Ohio",41.4245,-81.6586,1247451
+Hennepin,Minnesota,"Hennepin, Minnesota",45.0046,-93.4769,1245837
+Travis,Texas,"Travis, Texas",30.3347,-97.782,1226805
+Allegheny,Pennsylvania,"Allegheny, Pennsylvania",40.4688,-79.9812,1221744
+Fairfax,Virginia,"Fairfax, Virginia",38.8368,-77.277,1145862
+Contra Costa,California,"Contra Costa, California",37.9191,-121.9278,1142251
+Salt Lake,Utah,"Salt Lake, Utah",40.6673,-111.9236,1133646
+Mecklenburg,North Carolina,"Mecklenburg, North Carolina",35.2467,-80.8328,1074475
+Wake,North Carolina,"Wake, North Carolina",35.7903,-78.6503,1069079
+Montgomery,Maryland,"Montgomery, Maryland",39.1363,-77.2042,1043530
+Fulton,Georgia,"Fulton, Georgia",33.7903,-84.467,1036200
+Pima,Arizona,"Pima, Arizona",32.0974,-111.7899,1027207
+St. Louis,Missouri,"St. Louis, Missouri",38.6405,-90.4433,996919
+Honolulu,Hawaii,"Honolulu, Hawaii",21.5008,-158.1053,984821
+Fresno,California,"Fresno, California",36.7582,-119.6493,984521
+Collin,Texas,"Collin, Texas",33.1879,-96.5724,973977
+Westchester,New York,"Westchester, New York",41.1623,-73.7561,968890
+Pinellas,Florida,"Pinellas, Florida",27.9196,-82.7256,964666
+Marion,Indiana,"Marion, Indiana",39.7817,-86.1385,951869
+Milwaukee,Wisconsin,"Milwaukee, Wisconsin",43.0072,-87.9668,951226
+Fairfield,Connecticut,"Fairfield, Connecticut",41.2708,-73.3894,943926
+Shelby,Tennessee,"Shelby, Tennessee",35.184,-89.8955,936374
+Duval,Florida,"Duval, Florida",30.3316,-81.6708,936186
+Bergen,New Jersey,"Bergen, New Jersey",40.9596,-74.0742,930390
+DuPage,Illinois,"DuPage, Illinois",41.852,-88.0856,929060
+Erie,New York,"Erie, New York",42.764,-78.7323,919355
+Gwinnett,Georgia,"Gwinnett, Georgia",33.9617,-84.0236,915046
+Prince George's,Maryland,"Prince George's, Maryland",38.8295,-76.8473,908670
+Hartford,Connecticut,"Hartford, Connecticut",41.8064,-72.7329,893561
+Kern,California,"Kern, California",35.3429,-118.7299,887641
+Pierce,Washington,"Pierce, Washington",47.0241,-122.1046,877013
+San Francisco,California,"San Francisco, California",37.7562,-122.443,874961
+Macomb,Michigan,"Macomb, Michigan",42.6955,-82.9323,870325
+New Haven,Connecticut,"New Haven, Connecticut",41.4105,-72.9321,857513
+Hidalgo,Texas,"Hidalgo, Texas",26.3969,-98.1812,855176
+Ventura,California,"Ventura, California",34.4565,-119.0836,847263
+El Paso,Texas,"El Paso, Texas",31.7686,-106.2348,836062
+Denton,Texas,"Denton, Texas",33.2052,-97.117,833822
+Baltimore,Maryland,"Baltimore, Maryland",39.4627,-76.6393,828018
+Middlesex,New Jersey,"Middlesex, New Jersey",40.4391,-74.4117,825920
+Worcester,Massachusetts,"Worcester, Massachusetts",42.3514,-71.9077,824772
+Montgomery,Pennsylvania,"Montgomery, Pennsylvania",40.2108,-75.3673,823823
+Hamilton,Ohio,"Hamilton, Ohio",39.1955,-84.5428,813589
+Multnomah,Oregon,"Multnomah, Oregon",45.5468,-122.4147,804606
+Snohomish,Washington,"Snohomish, Washington",48.0475,-121.6975,798808
+Suffolk,Massachusetts,"Suffolk, Massachusetts",42.3336,-71.0709,796605
+Essex,New Jersey,"Essex, New Jersey",40.7872,-74.247,795404
+Oklahoma,Oklahoma,"Oklahoma, Oklahoma",35.5515,-97.4072,787216
+Essex,Massachusetts,"Essex, Massachusetts",42.6731,-70.952,783676
+San Mateo,California,"San Mateo, California",37.4229,-122.329,767423
+Jefferson,Kentucky,"Jefferson, Kentucky",38.1872,-85.6591,767419
+Fort Bend,Texas,"Fort Bend, Texas",29.5275,-95.7709,765394
+Cobb,Georgia,"Cobb, Georgia",33.9415,-84.5767,751218
+DeKalb,Georgia,"DeKalb, Georgia",33.7715,-84.2264,749323
+Monroe,New York,"Monroe, New York",43.1464,-77.6961,743341
+San Joaquin,California,"San Joaquin, California",37.9348,-121.2714,742603
+Lee,Florida,"Lee, Florida",26.5778,-81.8337,737468
+Denver,Colorado,"Denver, Colorado",39.7621,-104.8759,705576
+Lake,Illinois,"Lake, Illinois",42.3233,-88.0037,701473
+Norfolk,Massachusetts,"Norfolk, Massachusetts",42.1607,-71.2111,700437
+El Paso,Colorado,"El Paso, Colorado",38.8321,-104.5255,698974
+Jackson,Missouri,"Jackson, Missouri",39.0085,-94.3461,696216
+District of Columbia,District of Columbia,"District of Columbia, District of Columbia",38.9047,-77.0163,692683
+Will,Illinois,"Will, Illinois",41.445,-87.9786,689315
+Davidson,Tennessee,"Davidson, Tennessee",36.1695,-86.7848,687488
+Polk,Florida,"Polk, Florida",27.9489,-81.6976,686218
+Bernalillo,New Mexico,"Bernalillo, New Mexico",35.0513,-106.6701,677858
+Hudson,New Jersey,"Hudson, New Jersey",40.7351,-74.0777,670046
+Jefferson,Alabama,"Jefferson, Alabama",33.5543,-86.8964,659680
+Kent,Michigan,"Kent, Michigan",43.0322,-85.5493,648121
+Tulsa,Oklahoma,"Tulsa, Oklahoma",36.1211,-95.9415,646419
+Arapahoe,Colorado,"Arapahoe, Colorado",39.6498,-104.3392,644560
+Providence,Rhode Island,"Providence, Rhode Island",41.8721,-71.58,635737
+Bucks,Pennsylvania,"Bucks, Pennsylvania",40.337,-75.1069,626806
+Monmouth,New Jersey,"Monmouth, New Jersey",40.2603,-74.2213,621659
+Baltimore,Maryland,"Baltimore, Maryland",39.3051,-76.6144,609032
+Utah,Utah,"Utah, Utah",40.1199,-111.6703,605490
+Ocean,New Jersey,"Ocean, New Jersey",39.8855,-74.2813,596415
+Johnson,Kansas,"Johnson, Kansas",38.8838,-94.8223,591506
+Washington,Oregon,"Washington, Oregon",45.5601,-123.0984,589481
+Brevard,Florida,"Brevard, Florida",28.2937,-80.7323,585507
+Jefferson,Colorado,"Jefferson, Colorado",39.5864,-105.2505,574798
+Montgomery,Texas,"Montgomery, Texas",30.3002,-95.503,571949
+Anne Arundel,Maryland,"Anne Arundel, Maryland",39.0065,-76.6051,571275
+Delaware,Pennsylvania,"Delaware, Pennsylvania",39.9167,-75.3991,564554
+Bristol,Massachusetts,"Bristol, Massachusetts",41.7972,-71.1144,561037
+Douglas,Nebraska,"Douglas, Nebraska",41.2953,-96.1543,560617
+New Castle,Delaware,"New Castle, Delaware",39.5768,-75.6527,556165
+Union,New Jersey,"Union, New Jersey",40.66,-74.3085,554033
+Williamson,Texas,"Williamson, Texas",30.648,-97.6008,547604
+Ramsey,Minnesota,"Ramsey, Minnesota",45.0171,-93.0996,544442
+Stanislaus,California,"Stanislaus, California",37.5591,-120.9977,543194
+Summit,Ohio,"Summit, Ohio",41.126,-81.5322,541334
+Lancaster,Pennsylvania,"Lancaster, Pennsylvania",40.0424,-76.2477,540999
+Volusia,Florida,"Volusia, Florida",29.0584,-81.1819,536487
+Dane,Wisconsin,"Dane, Wisconsin",43.0673,-89.4181,536078
+Montgomery,Ohio,"Montgomery, Ohio",39.7546,-84.2906,531670
+Kane,Illinois,"Kane, Illinois",41.9388,-88.4286,531376
+Guilford,North Carolina,"Guilford, North Carolina",36.0795,-79.7889,527868
+Pasco,Florida,"Pasco, Florida",28.3091,-82.3932,524602
+Chester,Pennsylvania,"Chester, Pennsylvania",39.9731,-75.7484,519560
+Plymouth,Massachusetts,"Plymouth, Massachusetts",41.9512,-70.8114,515303
+Sedgwick,Kansas,"Sedgwick, Kansas",37.6848,-97.461,513375
+Greenville,South Carolina,"Greenville, South Carolina",34.8944,-82.3707,507003
+Camden,New Jersey,"Camden, New Jersey",39.8035,-74.9597,506738
+Spokane,Washington,"Spokane, Washington",47.6207,-117.404,505505
+Adams,Colorado,"Adams, Colorado",39.8736,-104.3378,504108
+Passaic,New Jersey,"Passaic, New Jersey",41.0344,-74.3008,503637
+Sonoma,California,"Sonoma, California",38.5283,-122.8874,499772
+Morris,New Jersey,"Morris, New Jersey",40.862,-74.5445,493379
+Lake,Indiana,"Lake, Indiana",41.4171,-87.3822,485707
+Polk,Iowa,"Polk, Iowa",41.6855,-93.5735,479612
+Richmond,New York,"Richmond, New York",40.5808,-74.1524,474893
+Clark,Washington,"Clark, Washington",45.7793,-122.4825,473252
+Hampden,Massachusetts,"Hampden, Massachusetts",42.1351,-72.6316,467871
+Onondaga,New York,"Onondaga, New York",43.0058,-76.1946,462872
+Tulare,California,"Tulare, California",36.2201,-118.8005,461898
+Prince William,Virginia,"Prince William, Virginia",38.703,-77.4809,461423
+Seminole,Florida,"Seminole, Florida",28.717,-81.2363,461402
+Knox,Tennessee,"Knox, Tennessee",35.9932,-83.9371,461104
+Washoe,Nevada,"Washoe, Nevada",40.6657,-119.6643,456936
+Ada,Idaho,"Ada, Idaho",43.4511,-116.2412,456849
+Virginia Beach,Virginia,"Virginia Beach, Virginia",36.7335,-76.0435,450201
+Burlington,New Jersey,"Burlington, New Jersey",39.8777,-74.6681,445702
+York,Pennsylvania,"York, Pennsylvania",39.92,-76.7265,445565
+Santa Barbara,California,"Santa Barbara, California",34.6729,-120.0165,444829
+East Baton Rouge,Louisiana,"East Baton Rouge, Louisiana",30.5383,-91.0956,443763
+Solano,California,"Solano, California",38.27,-121.9329,441829
+Jefferson,Louisiana,"Jefferson, Louisiana",29.7872,-90.1274,434850
+Monterey,California,"Monterey, California",36.2172,-121.2392,433410
+Pinal,Arizona,"Pinal, Arizona",32.9044,-111.3448,432793
+Lucas,Ohio,"Lucas, Ohio",41.6199,-83.6583,431102
+Cameron,Texas,"Cameron, Texas",26.1334,-97.5181,421666
+Dakota,Minnesota,"Dakota, Minnesota",44.6719,-93.0654,421453
+Sarasota,Florida,"Sarasota, Florida",27.1845,-82.3315,419496
+Berks,Pennsylvania,"Berks, Pennsylvania",40.4163,-75.926,418025
+Mobile,Alabama,"Mobile, Alabama",30.7872,-88.2058,414114
+Hillsborough,New Hampshire,"Hillsborough, New Hampshire",42.9153,-71.7161,413035
+Richland,South Carolina,"Richland, South Carolina",34.0218,-80.9031,411357
+Clackamas,Oregon,"Clackamas, Oregon",45.188,-122.2209,410463
+Genesee,Michigan,"Genesee, Michigan",43.0217,-83.7067,407875
+Charleston,South Carolina,"Charleston, South Carolina",32.8346,-79.9531,401165
+Waukesha,Wisconsin,"Waukesha, Wisconsin",43.0182,-88.3045,400475
+Loudoun,Virginia,"Loudoun, Virginia",39.0907,-77.6357,395134
+St. Charles,Missouri,"St. Charles, Missouri",38.7819,-90.6749,394290
+Pulaski,Arkansas,"Pulaski, Arkansas",34.77,-92.3119,392967
+Orleans,Louisiana,"Orleans, Louisiana",30.0687,-89.9288,390845
+Placer,California,"Placer, California",39.0635,-120.7175,385512
+Manatee,Florida,"Manatee, Florida",27.4719,-82.3153,384213
+Orange,New York,"Orange, New York",41.4021,-74.3055,380085
+Butler,Ohio,"Butler, Ohio",39.4386,-84.5756,380019
+Forsyth,North Carolina,"Forsyth, North Carolina",36.1306,-80.2563,375195
+Lane,Oregon,"Lane, Oregon",43.9388,-122.8475,373340
+Allen,Indiana,"Allen, Indiana",41.0909,-85.0666,372575
+Stark,Ohio,"Stark, Ohio",40.8139,-81.3656,372404
+Collier,Florida,"Collier, Florida",26.1107,-81.3476,371453
+Mercer,New Jersey,"Mercer, New Jersey",40.2834,-74.7018,367922
+Washtenaw,Michigan,"Washtenaw, Michigan",42.2532,-83.8388,367000
+Lehigh,Pennsylvania,"Lehigh, Pennsylvania",40.6127,-75.5923,365052
+Madison,Alabama,"Madison, Alabama",34.7631,-86.5502,362276
+Nueces,Texas,"Nueces, Texas",27.7255,-97.6132,361540
+Hamilton,Tennessee,"Hamilton, Tennessee",35.1808,-85.1648,360919
+Brazoria,Texas,"Brazoria, Texas",29.1897,-95.4519,360677
+Marion,Florida,"Marion, Florida",29.2102,-82.0567,353526
+Westmoreland,Pennsylvania,"Westmoreland, Pennsylvania",40.3107,-79.467,352590
+Osceola,Florida,"Osceola, Florida",28.0627,-81.1495,351955
+Anoka,Minnesota,"Anoka, Minnesota",45.2733,-93.2465,350253
+Bell,Texas,"Bell, Texas",31.0377,-97.4782,348574
+Lake,Florida,"Lake, Florida",28.7615,-81.7113,345867
+Davis,Utah,"Davis, Utah",40.99,-112.1115,345767
+Larimer,Colorado,"Larimer, Colorado",40.6664,-105.4611,344786
+Chesterfield,Virginia,"Chesterfield, Virginia",37.3785,-77.587,343551
+Marion,Oregon,"Marion, Oregon",44.9033,-122.5849,339641
+Douglas,Colorado,"Douglas, Colorado",39.3297,-104.9296,336041
+Galveston,Texas,"Galveston, Texas",29.3931,-94.9629,332885
+Cumberland,North Carolina,"Cumberland, North Carolina",35.0486,-78.8276,332861
+Horry,South Carolina,"Horry, South Carolina",33.9215,-78.9965,332172
+Somerset,New Jersey,"Somerset, New Jersey",40.5635,-74.6163,329838
+Henrico,Virginia,"Henrico, Virginia",37.538,-77.4058,327535
+Rockland,New York,"Rockland, New York",41.1524,-74.0241,324422
+Hamilton,Indiana,"Hamilton, Indiana",40.0725,-86.052,323117
+Boulder,Colorado,"Boulder, Colorado",40.0925,-105.3577,322510
+Fayette,Kentucky,"Fayette, Kentucky",38.0423,-84.4587,320601
+Howard,Maryland,"Howard, Maryland",39.2507,-76.9312,318855
+Luzerne,Pennsylvania,"Luzerne, Pennsylvania",41.177,-75.989,317663
+Rutherford,Tennessee,"Rutherford, Tennessee",35.8427,-86.4167,315815
+Escambia,Florida,"Escambia, Florida",30.6689,-87.3628,313491
+Lancaster,Nebraska,"Lancaster, Nebraska",40.7842,-96.6878,313158
+St. Lucie,Florida,"St. Lucie, Florida",27.3773,-80.472,312947
+Durham,North Carolina,"Durham, North Carolina",36.036,-78.8766,311848
+St. Louis,Missouri,"St. Louis, Missouri",38.6358,-90.2451,308174
+McHenry,Illinois,"McHenry, Illinois",42.3244,-88.4523,307714
+Lorain,Ohio,"Lorain, Ohio",41.2956,-82.1512,307670
+Spartanburg,South Carolina,"Spartanburg, South Carolina",34.9312,-81.9908,307617
+Albany,New York,"Albany, New York",42.6002,-73.9736,306968
+Rockingham,New Hampshire,"Rockingham, New Hampshire",42.9876,-71.1254,306359
+Weld,Colorado,"Weld, Colorado",40.5548,-104.3925,305345
+Lubbock,Texas,"Lubbock, Texas",33.6102,-101.8205,304808
+Northampton,Pennsylvania,"Northampton, Pennsylvania",40.7542,-75.3076,302809
+Dutchess,New York,"Dutchess, New York",41.7651,-73.7429,293754
+Anchorage,Alaska,"Anchorage, Alaska",61.1508,-149.1091,293531
+Cumberland,Maine,"Cumberland, Maine",43.8464,-70.3988,292307
+Gloucester,New Jersey,"Gloucester, New Jersey",39.7173,-75.1414,291165
+Ingham,Michigan,"Ingham, Michigan",42.5971,-84.3735,290587
+Lexington,South Carolina,"Lexington, South Carolina",33.9023,-81.2722,290278
+Leon,Florida,"Leon, Florida",30.458,-84.2779,289770
+Greene,Missouri,"Greene, Missouri",37.258,-93.342,289756
+Chatham,Georgia,"Chatham, Georgia",32.0042,-81.1328,288496
+Ottawa,Michigan,"Ottawa, Michigan",42.9598,-85.9961,286558
+Winnebago,Illinois,"Winnebago, Illinois",42.3363,-89.1609,284819
+Clayton,Georgia,"Clayton, Georgia",33.5419,-84.3576,283538
+San Luis Obispo,California,"San Luis Obispo, California",35.3871,-120.4045,282165
+Thurston,Washington,"Thurston, Washington",46.9258,-122.8332,279711
+Cleveland,Oklahoma,"Cleveland, Oklahoma",35.2031,-97.3265,279274
+Dauphin,Pennsylvania,"Dauphin, Pennsylvania",40.4155,-76.7795,275632
+Santa Cruz,California,"Santa Cruz, California",37.0562,-122.0018,273962
+Erie,Pennsylvania,"Erie, Pennsylvania",41.9926,-80.0328,273835
+Webb,Texas,"Webb, Texas",27.7611,-99.3315,273526
+Merced,California,"Merced, California",37.1919,-120.7177,271382
+St. Joseph,Indiana,"St. Joseph, Indiana",41.6167,-86.2899,270216
+New London,Connecticut,"New London, Connecticut",41.4866,-72.1015,267390
+Atlantic,New Jersey,"Atlantic, New Jersey",39.4777,-74.661,266105
+Kitsap,Washington,"Kitsap, Washington",47.6132,-122.6717,265882
+York,South Carolina,"York, South Carolina",34.9747,-81.1844,265872
+Benton,Arkansas,"Benton, Arkansas",36.3387,-94.2561,265759
+Alachua,Florida,"Alachua, Florida",29.6747,-82.3577,265443
+Madison,Illinois,"Madison, Illinois",38.8297,-89.9049,264776
+Kalamazoo,Michigan,"Kalamazoo, Michigan",42.2455,-85.5312,262745
+St. Clair,Illinois,"St. Clair, Illinois",38.4703,-89.9284,262338
+Brown,Wisconsin,"Brown, Wisconsin",44.4529,-88.0037,261368
+Marin,California,"Marin, California",38.0734,-122.7234,259943
+Buncombe,North Carolina,"Buncombe, North Carolina",35.6112,-82.5301,256886
+Washington,Minnesota,"Washington, Minnesota",45.0387,-92.8839,255938
+St. Tammany,Louisiana,"St. Tammany, Louisiana",30.4102,-89.9583,255155
+Jefferson,Texas,"Jefferson, Texas",29.8841,-94.1629,254340
+Harford,Maryland,"Harford, Maryland",39.5611,-76.3171,252222
+Weber,Utah,"Weber, Utah",41.2698,-111.9134,251498
+Frederick,Maryland,"Frederick, Maryland",39.4722,-77.398,251422
+McLennan,Texas,"McLennan, Texas",31.5524,-97.2018,251089
+Yakima,Washington,"Yakima, Washington",46.4571,-120.7384,249697
+Cumberland,Pennsylvania,"Cumberland, Pennsylvania",40.1636,-77.2655,249328
+Cherokee,Georgia,"Cherokee, Georgia",34.2439,-84.4762,247515
+Caddo,Louisiana,"Caddo, Louisiana",32.5801,-93.8823,245831
+St. Johns,Florida,"St. Johns, Florida",29.9016,-81.4407,244674
+Norfolk,Virginia,"Norfolk, Virginia",36.8945,-76.259,244601
+Clay,Missouri,"Clay, Missouri",39.3105,-94.4209,242516
+Lafayette,Louisiana,"Lafayette, Louisiana",30.2068,-92.0639,241973
+Chesapeake,Virginia,"Chesapeake, Virginia",36.6778,-76.3024,239982
+Hinds,Mississippi,"Hinds, Mississippi",32.2667,-90.4428,238797
+Arlington,Virginia,"Arlington, Virginia",38.8786,-77.1011,233464
+Washington,Arkansas,"Washington, Arkansas",35.9791,-94.2156,232289
+Union,North Carolina,"Union, North Carolina",34.9884,-80.5307,231053
+Mahoning,Ohio,"Mahoning, Ohio",41.0146,-80.7763,229961
+Oneida,New York,"Oneida, New York",43.2417,-75.4359,229959
+Lake,Ohio,"Lake, Ohio",41.6966,-81.2373,229954
+Warren,Ohio,"Warren, Ohio",39.4276,-84.1668,229132
+Saratoga,New York,"Saratoga, New York",43.1074,-73.8639,228502
+Forsyth,Georgia,"Forsyth, Georgia",34.2255,-84.125,228383
+Yavapai,Arizona,"Yavapai, Arizona",34.5999,-112.554,228067
+New Hanover,North Carolina,"New Hanover, North Carolina",34.2328,-77.8847,227938
+Smith,Texas,"Smith, Texas",32.375,-95.2692,227449
+Montgomery,Alabama,"Montgomery, Alabama",32.2203,-86.2076,226941
+Richmond,Virginia,"Richmond, Virginia",37.5295,-77.4756,226622
+Butte,California,"Butte, California",39.6669,-121.6007,225817
+Williamson,Tennessee,"Williamson, Tennessee",35.8938,-86.8986,225389
+Henry,Georgia,"Henry, Georgia",33.453,-84.1542,225356
+Sussex,Delaware,"Sussex, Delaware",38.6606,-75.39,224384
+Jefferson,Missouri,"Jefferson, Missouri",38.2611,-90.5377,223951
+Linn,Iowa,"Linn, Iowa",42.079,-91.599,223861
+Brazos,Texas,"Brazos, Texas",30.6608,-96.3024,222981
+Whatcom,Washington,"Whatcom, Washington",48.8259,-121.7199,220821
+Gaston,North Carolina,"Gaston, North Carolina",35.2944,-81.1803,219271
+Canyon,Idaho,"Canyon, Idaho",43.6251,-116.7093,217633
+Yolo,California,"Yolo, California",38.6866,-121.9016,217352
+Jackson,Oregon,"Jackson, Oregon",42.4322,-122.7285,216574
+Doña Ana,New Mexico,"Doña Ana, New Mexico",32.3526,-106.8328,216069
+Berkeley,South Carolina,"Berkeley, South Carolina",33.1973,-79.9522,215044
+Barnstable,Massachusetts,"Barnstable, Massachusetts",41.7242,-70.2915,213496
+Shelby,Alabama,"Shelby, Alabama",33.2643,-86.6607,213432
+Hays,Texas,"Hays, Texas",30.0581,-98.0311,213366
+Baldwin,Alabama,"Baldwin, Alabama",30.7275,-87.7226,212830
+Clay,Florida,"Clay, Florida",29.9831,-81.8579,211405
+Niagara,New York,"Niagara, New York",43.2001,-78.7452,210820
+Lackawanna,Pennsylvania,"Lackawanna, Pennsylvania",41.4368,-75.6092,210652
+Champaign,Illinois,"Champaign, Illinois",40.1401,-88.1992,209922
+Yuma,Arizona,"Yuma, Arizona",32.7695,-113.9056,209468
+Mohave,Arizona,"Mohave, Arizona",35.7041,-113.758,207695
+Tuscaloosa,Alabama,"Tuscaloosa, Alabama",33.2896,-87.5251,207305
+Washington,Pennsylvania,"Washington, Pennsylvania",40.1894,-80.2482,207212
+Cabarrus,North Carolina,"Cabarrus, North Carolina",35.3868,-80.5519,206615
+Elkhart,Indiana,"Elkhart, Indiana",41.5974,-85.8587,204558
+Harrison,Mississippi,"Harrison, Mississippi",30.5118,-89.1159,204502
+York,Maine,"York, Maine",43.4782,-70.7144,204316
+Clermont,Ohio,"Clermont, Ohio",39.0475,-84.1519,204275
+Okaloosa,Florida,"Okaloosa, Florida",30.6913,-86.5917,203794
+Richmond,Georgia,"Richmond, Georgia",33.3596,-82.0735,201852
+Calcasieu,Louisiana,"Calcasieu, Louisiana",30.2292,-93.3579,201619
+Delaware,Ohio,"Delaware, Ohio",40.2784,-83.0049,201135
+Trumbull,Ohio,"Trumbull, Ohio",41.3172,-80.7611,200367
+Montgomery,Tennessee,"Montgomery, Tennessee",36.4969,-87.3828,200180
+St. Louis,Minnesota,"St. Louis, Minnesota",47.6032,-92.4706,199759
+Hawaii,Hawaii,"Hawaii, Hawaii",19.5987,-155.5185,199459
+Hall,Georgia,"Hall, Georgia",34.3169,-83.8197,198667
+Anderson,South Carolina,"Anderson, South Carolina",34.5193,-82.6378,198064
+Benton,Washington,"Benton, Washington",46.2398,-119.5112,197518
+Johnston,North Carolina,"Johnston, North Carolina",35.5178,-78.3657,196870
+Sangamon,Illinois,"Sangamon, Illinois",39.7582,-89.6589,196861
+Muscogee,Georgia,"Muscogee, Georgia",32.51,-84.8771,195739
+Racine,Wisconsin,"Racine, Wisconsin",42.7475,-88.0612,195602
+Onslow,North Carolina,"Onslow, North Carolina",34.7321,-77.4321,195069
+Broome,New York,"Broome, New York",42.1602,-75.8196,193188
+Saginaw,Michigan,"Saginaw, Michigan",43.335,-84.0532,191821
+Tippecanoe,Indiana,"Tippecanoe, Indiana",40.3886,-86.8941,191553
+Livingston,Michigan,"Livingston, Michigan",42.6029,-83.9115,189754
+Minnehaha,South Dakota,"Minnehaha, South Dakota",43.6742,-96.7915,188674
+El Dorado,California,"El Dorado, California",38.7787,-120.5247,188563
+Butler,Pennsylvania,"Butler, Pennsylvania",40.9118,-79.9133,186899
+Hernando,Florida,"Hernando, Florida",28.5536,-82.425,186313
+Deschutes,Oregon,"Deschutes, Oregon",43.9151,-121.2281,186251
+Beaufort,South Carolina,"Beaufort, South Carolina",32.3855,-80.7302,186095
+Outagamie,Wisconsin,"Outagamie, Wisconsin",44.4161,-88.4649,185700
+Sumner,Tennessee,"Sumner, Tennessee",36.4694,-86.4604,183437
+Kanawha,West Virginia,"Kanawha, West Virginia",38.3366,-81.5281,183279
+Peoria,Illinois,"Peoria, Illinois",40.788,-89.76,182770
+Bay,Florida,"Bay, Florida",30.2652,-85.6203,182161
+Litchfield,Connecticut,"Litchfield, Connecticut",41.7925,-73.2453,182002
+Vanderburgh,Indiana,"Vanderburgh, Indiana",38.025,-87.5858,181291
+Sarpy,Nebraska,"Sarpy, Nebraska",41.1129,-96.112,181232
+Charlotte,Florida,"Charlotte, Florida",26.9055,-81.9123,181067
+Imperial,California,"Imperial, California",33.0395,-115.3654,180701
+Newport News,Virginia,"Newport News, Virginia",37.1051,-76.5185,179673
+Shasta,California,"Shasta, California",40.7637,-122.0405,179212
+DeSoto,Mississippi,"DeSoto, Mississippi",34.8754,-89.9918,178975
+Ulster,New York,"Ulster, New York",41.8881,-74.2586,178665
+Pitt,North Carolina,"Pitt, North Carolina",35.5933,-77.3745,178433
+Medina,Ohio,"Medina, Ohio",41.1176,-81.8997,177980
+Shawnee,Kansas,"Shawnee, Kansas",39.0415,-95.7565,177852
+Boone,Missouri,"Boone, Missouri",38.9906,-92.3097,177651
+Cass,North Dakota,"Cass, North Dakota",46.933,-97.248,176975
+Kent,Delaware,"Kent, Delaware",39.0862,-75.5684,176699
+Iredell,North Carolina,"Iredell, North Carolina",35.807,-80.8734,175538
+Santa Rosa,Florida,"Santa Rosa, Florida",30.7004,-87.022,174755
+Ellis,Texas,"Ellis, Texas",32.3484,-96.7945,173772
+Licking,Ohio,"Licking, Ohio",40.0916,-82.4831,173750
+Muskegon,Michigan,"Muskegon, Michigan",43.2912,-86.152,173297
+McLean,Illinois,"McLean, Illinois",40.4909,-88.8473,172578
+Scott,Iowa,"Scott, Iowa",41.6371,-90.6232,172446
+Winnebago,Wisconsin,"Winnebago, Wisconsin",44.0689,-88.6446,170411
+Porter,Indiana,"Porter, Indiana",41.4605,-87.0673,168636
+Kenosha,Wisconsin,"Kenosha, Wisconsin",42.5769,-88.0424,168524
+Aiken,South Carolina,"Aiken, South Carolina",33.5443,-81.6347,168301
+Midland,Texas,"Midland, Texas",31.8691,-102.0316,168167
+Monroe,Pennsylvania,"Monroe, Pennsylvania",41.0581,-75.3395,168032
+Carroll,Maryland,"Carroll, Maryland",39.5629,-77.0225,167699
+Johnson,Texas,"Johnson, Texas",32.379,-97.3663,167212
+Greene,Ohio,"Greene, Ohio",39.6915,-83.8899,166502
+Pueblo,Colorado,"Pueblo, Colorado",38.1735,-104.5128,165982
+Maui,Hawaii,"Maui, Hawaii",20.8596,-156.5648,165979
+Beaver,Pennsylvania,"Beaver, Pennsylvania",40.6823,-80.3493,165833
+Washington,Utah,"Washington, Utah",37.2804,-113.5048,165811
+Kenton,Kentucky,"Kenton, Kentucky",38.9334,-84.5333,165668
+Davidson,North Carolina,"Davidson, North Carolina",35.7934,-80.2127,165381
+Wyandotte,Kansas,"Wyandotte, Kansas",39.1146,-94.7646,164861
+Kent,Rhode Island,"Kent, Rhode Island",41.6722,-71.593,163869
+Hendricks,Indiana,"Hendricks, Indiana",39.7695,-86.51,163799
+Alamance,North Carolina,"Alamance, North Carolina",36.0437,-79.3994,163324
+Middlesex,Connecticut,"Middlesex, Connecticut",41.4632,-72.5351,163053
+Chittenden,Vermont,"Chittenden, Vermont",44.461,-73.0809,162646
+Portage,Ohio,"Portage, Ohio",41.1677,-81.1974,162511
+Rock,Wisconsin,"Rock, Wisconsin",42.6712,-89.0716,162152
+Centre,Pennsylvania,"Centre, Pennsylvania",40.9193,-77.82,161960
+Lee,Alabama,"Lee, Alabama",32.6011,-85.3555,161152
+Hampshire,Massachusetts,"Hampshire, Massachusetts",42.3402,-72.6638,161032
+Ector,Texas,"Ector, Texas",31.8692,-102.5429,160579
+Paulding,Georgia,"Paulding, Georgia",33.9205,-84.8673,159825
+Charles,Maryland,"Charles, Maryland",38.5073,-76.9922,159428
+St. Clair,Michigan,"St. Clair, Michigan",42.9341,-82.6805,159247
+Rensselaer,New York,"Rensselaer, New York",42.7111,-73.5097,159185
+Martin,Florida,"Martin, Florida",27.0775,-80.4315,159065
+Yellowstone,Montana,"Yellowstone, Montana",45.9373,-108.2744,159008
+Guadalupe,Texas,"Guadalupe, Texas",29.5831,-97.9486,158966
+Jackson,Michigan,"Jackson, Michigan",42.2485,-84.4234,158636
+Stearns,Minnesota,"Stearns, Minnesota",45.5521,-94.613,158452
+Dorchester,South Carolina,"Dorchester, South Carolina",33.0793,-80.4067,158299
+Alexandria,Virginia,"Alexandria, Virginia",38.8185,-77.0861,157613
+Catawba,North Carolina,"Catawba, North Carolina",35.662,-81.2151,157613
+Kootenai,Idaho,"Kootenai, Idaho",47.6744,-116.7018,157322
+Sullivan,Tennessee,"Sullivan, Tennessee",36.5129,-82.3042,157050
+Ouachita,Louisiana,"Ouachita, Louisiana",32.4783,-92.1549,155494
+Madera,California,"Madera, California",37.218,-119.7627,155433
+Schenectady,New York,"Schenectady, New York",42.8181,-74.0586,154859
+Olmsted,Minnesota,"Olmsted, Minnesota",44.0038,-92.4018,154809
+Fairfield,Ohio,"Fairfield, Ohio",39.7516,-82.6306,154457
+Franklin,Pennsylvania,"Franklin, Pennsylvania",39.9274,-77.7213,154147
+Berrien,Michigan,"Berrien, Michigan",41.9547,-86.4123,154133
+Indian River,Florida,"Indian River, Florida",27.6943,-80.6062,153989
+Johnson,Indiana,"Johnson, Indiana",39.49,-86.1016,153716
+Houston,Georgia,"Houston, Georgia",32.459,-83.6662,153507
+Bibb,Georgia,"Bibb, Georgia",32.8065,-83.6974,153200
+Rankin,Mississippi,"Rankin, Mississippi",32.2641,-89.9458,152677
+Cumberland,New Jersey,"Cumberland, New Jersey",39.3738,-75.1108,151906
+Penobscot,Maine,"Penobscot, Maine",45.4006,-68.6495,151774
+Mesa,Colorado,"Mesa, Colorado",39.0183,-108.4664,151218
+Tolland,Connecticut,"Tolland, Connecticut",41.855,-72.3365,151063
+Columbia,Georgia,"Columbia, Georgia",33.5441,-82.264,150705
+Kings,California,"Kings, California",36.0753,-119.8155,150691
+Washington,Maryland,"Washington, Maryland",39.6036,-77.814,150109
+Merrimack,New Hampshire,"Merrimack, New Hampshire",43.2975,-71.6802,149917
+Monroe,Michigan,"Monroe, Michigan",41.9287,-83.5375,149727
+Santa Fe,New Mexico,"Santa Fe, New Mexico",35.5069,-105.9763,149293
+Johnson,Iowa,"Johnson, Iowa",41.6715,-91.5881,148577
+Stafford,Virginia,"Stafford, Virginia",38.4207,-77.458,146773
+Monroe,Indiana,"Monroe, Indiana",39.1609,-86.5231,146461
+Scott,Minnesota,"Scott, Minnesota",44.6485,-93.5359,145275
+Citrus,Florida,"Citrus, Florida",28.8489,-82.4794,145169
+Orange,North Carolina,"Orange, North Carolina",36.0611,-79.1207,144836
+Rock Island,Illinois,"Rock Island, Illinois",41.4673,-90.5674,143873
+Douglas,Georgia,"Douglas, Georgia",33.7018,-84.768,143316
+Coweta,Georgia,"Coweta, Georgia",33.3535,-84.7634,143260
+Randolph,North Carolina,"Randolph, North Carolina",35.7103,-79.806,143118
+Sandoval,New Mexico,"Sandoval, New Mexico",35.6886,-106.8659,142704
+Schuylkill,Pennsylvania,"Schuylkill, Pennsylvania",40.7058,-76.216,142674
+Jackson,Mississippi,"Jackson, Mississippi",30.5423,-88.6357,142376
+Comal,Texas,"Comal, Texas",29.8082,-98.2783,141642
+Sussex,New Jersey,"Sussex, New Jersey",41.1393,-74.6909,141483
+Coconino,Arizona,"Coconino, Arizona",35.8387,-111.7705,141274
+Canadian,Oklahoma,"Canadian, Oklahoma",35.5424,-97.9824,140455
+Rowan,North Carolina,"Rowan, North Carolina",35.6395,-80.5248,140296
+Lebanon,Pennsylvania,"Lebanon, Pennsylvania",40.3672,-76.4577,139729
+Napa,California,"Napa, California",38.5065,-122.3305,139623
+Livingston,Louisiana,"Livingston, Louisiana",30.4401,-90.7279,138928
+Florence,South Carolina,"Florence, South Carolina",34.0245,-79.703,138475
+Taylor,Texas,"Taylor, Texas",32.3015,-99.8901,136870
+Wilson,Tennessee,"Wilson, Tennessee",36.1549,-86.2978,136666
+Humboldt,California,"Humboldt, California",40.6993,-123.8756,135940
+Marathon,Wisconsin,"Marathon, Wisconsin",44.8983,-89.7591,135396
+Hampton,Virginia,"Hampton, Virginia",37.0551,-76.363,135041
+Washington,Wisconsin,"Washington, Wisconsin",43.3685,-88.2307,134925
+Clark,Ohio,"Clark, Ohio",39.9168,-83.7838,134726
+Wright,Minnesota,"Wright, Minnesota",45.174,-93.9631,134438
+Calhoun,Michigan,"Calhoun, Michigan",42.2465,-85.0056,134212
+Randall,Texas,"Randall, Texas",34.9659,-101.897,134026
+Parker,Texas,"Parker, Texas",32.7777,-97.8051,133811
+Tazewell,Illinois,"Tazewell, Illinois",40.5075,-89.5134,133195
+Cambria,Pennsylvania,"Cambria, Pennsylvania",40.4953,-78.7137,133009
+Spotsylvania,Virginia,"Spotsylvania, Virginia",38.185,-77.6561,132833
+Robeson,North Carolina,"Robeson, North Carolina",34.6402,-79.1039,132596
+Black Hawk,Iowa,"Black Hawk, Iowa",42.4701,-92.3088,132393
+Harnett,North Carolina,"Harnett, North Carolina",35.3686,-78.8694,132283
+Tangipahoa,Louisiana,"Tangipahoa, Louisiana",30.6266,-90.4057,132057
+Brunswick,North Carolina,"Brunswick, North Carolina",34.071,-78.2377,131815
+Wichita,Texas,"Wichita, Texas",33.9879,-98.7036,131596
+Fayette,Pennsylvania,"Fayette, Pennsylvania",39.9199,-79.6473,131302
+Grayson,Texas,"Grayson, Texas",33.6268,-96.6777,131014
+Rapides,Louisiana,"Rapides, Louisiana",31.1986,-92.5332,130970
+Boone,Kentucky,"Boone, Kentucky",38.9699,-84.7278,130820
+Wood,Ohio,"Wood, Ohio",41.3617,-83.623,130150
+Blount,Tennessee,"Blount, Tennessee",35.6872,-83.9255,129927
+Madison,Indiana,"Madison, Indiana",40.1616,-85.7194,129455
+Strafford,New Hampshire,"Strafford, New Hampshire",43.297,-71.0289,129124
+Warren,Kentucky,"Warren, Kentucky",36.9936,-86.4238,128652
+Chautauqua,New York,"Chautauqua, New York",42.2282,-79.3663,128496
+Washington,Tennessee,"Washington, Tennessee",36.2933,-82.4974,127805
+Sebastian,Arkansas,"Sebastian, Arkansas",35.1993,-94.2742,127591
+San Juan,New Mexico,"San Juan, New Mexico",36.5085,-108.3206,126515
+Bossier,Louisiana,"Bossier, Louisiana",32.6789,-93.605,126499
+Berkshire,Massachusetts,"Berkshire, Massachusetts",42.3707,-73.2064,126425
+Clarke,Georgia,"Clarke, Georgia",33.9512,-83.3673,126176
+Washington,Rhode Island,"Washington, Rhode Island",41.4697,-71.6226,126060
+Kendall,Illinois,"Kendall, Illinois",41.5906,-88.4288,126054
+Cochise,Arizona,"Cochise, Arizona",31.8796,-109.7512,125867
+Skagit,Washington,"Skagit, Washington",48.4794,-121.7302,125612
+Linn,Oregon,"Linn, Oregon",44.4889,-122.535,125048
+Sumter,Florida,"Sumter, Florida",28.7048,-82.081,125044
+Hunterdon,New Jersey,"Hunterdon, New Jersey",40.5673,-74.9122,124823
+Cache,Utah,"Cache, Utah",41.7224,-111.7436,124165
+Pickens,South Carolina,"Pickens, South Carolina",34.8873,-82.7252,124029
+Kaufman,Texas,"Kaufman, Texas",32.5993,-96.2878,123804
+Faulkner,Arkansas,"Faulkner, Arkansas",35.147,-92.332,123624
+Wayne,North Carolina,"Wayne, North Carolina",35.364,-78.004,123603
+Gregg,Texas,"Gregg, Texas",32.4805,-94.817,123443
+Blair,Pennsylvania,"Blair, Pennsylvania",40.481,-78.3486,123157
+Ascension,Louisiana,"Ascension, Louisiana",30.2036,-90.9113,123114
+Comanche,Oklahoma,"Comanche, Oklahoma",34.6621,-98.4717,121762
+Kennebec,Maine,"Kennebec, Maine",44.4091,-69.7673,121753
+Richland,Ohio,"Richland, Ohio",40.7747,-82.5365,121100
+Douglas,Kansas,"Douglas, Kansas",38.8847,-95.2926,120290
+Jasper,Missouri,"Jasper, Missouri",37.2036,-94.3406,119920
+Potter,Texas,"Potter, Texas",35.4013,-101.8939,119674
+Saline,Arkansas,"Saline, Arkansas",34.6466,-92.6765,119415
+Morgan,Alabama,"Morgan, Alabama",34.4535,-86.8529,119213
+Oswego,New York,"Oswego, New York",43.4269,-76.1414,118339
+Tom Green,Texas,"Tom Green, Texas",31.4045,-100.4621,117986
+La Crosse,Wisconsin,"La Crosse, Wisconsin",43.9066,-91.1152,117894
+Missoula,Montana,"Missoula, Montana",47.0365,-113.9237,117309
+Carroll,Georgia,"Carroll, Georgia",33.5828,-85.0798,117183
+Windham,Connecticut,"Windham, Connecticut",41.83,-71.9874,116566
+Clark,Indiana,"Clark, Indiana",38.4772,-85.7073,116507
+Allegan,Michigan,"Allegan, Michigan",42.5913,-85.8884,116143
+Wayne,Ohio,"Wayne, Ohio",40.8289,-81.888,116099
+Lowndes,Georgia,"Lowndes, Georgia",30.8338,-83.2677,115364
+Berkeley,West Virginia,"Berkeley, West Virginia",39.4641,-78.0275,115329
+Sheboygan,Wisconsin,"Sheboygan, Wisconsin",43.7212,-87.9454,115178
+Delaware,Indiana,"Delaware, Indiana",40.2275,-85.3969,115020
+Henderson,North Carolina,"Henderson, North Carolina",35.3363,-82.48,114913
+Calhoun,Alabama,"Calhoun, Alabama",33.7714,-85.826,114618
+Bonneville,Idaho,"Bonneville, Idaho",43.3877,-111.6148,114392
+Lycoming,Pennsylvania,"Lycoming, Pennsylvania",41.3434,-77.0645,114330
+Jefferson,New York,"Jefferson, New York",44.0494,-75.921,112842
+Fayette,Georgia,"Fayette, Georgia",33.414,-84.4942,112303
+St. Mary's,Maryland,"St. Mary's, Maryland",38.3024,-76.6058,112290
+Terrebonne,Louisiana,"Terrebonne, Louisiana",29.4148,-90.8663,112054
+Mercer,Pennsylvania,"Mercer, Pennsylvania",41.3022,-80.2577,111518
+Pennington,South Dakota,"Pennington, South Dakota",44.0037,-102.8238,110685
+Kankakee,Illinois,"Kankakee, Illinois",41.1377,-87.8618,110637
+LaPorte,Indiana,"LaPorte, Indiana",41.546,-86.74,110154
+Flagler,Florida,"Flagler, Florida",29.4614,-81.3136,109801
+LaSalle,Illinois,"LaSalle, Illinois",41.344,-88.8859,109737
+Ontario,New York,"Ontario, New York",42.8528,-77.2998,109511
+Eaton,Michigan,"Eaton, Michigan",42.5961,-84.8383,109456
+Navajo,Arizona,"Navajo, Arizona",35.3997,-110.3214,109270
+Douglas,Oregon,"Douglas, Oregon",43.2797,-123.1665,109114
+St. Lawrence,New York,"St. Lawrence, New York",44.4964,-75.0691,108913
+Hardin,Kentucky,"Hardin, Kentucky",37.6979,-85.9634,108527
+Newton,Georgia,"Newton, Georgia",33.555,-83.8502,108079
+Gallatin,Montana,"Gallatin, Montana",45.5404,-111.1704,108063
+Androscoggin,Maine,"Androscoggin, Maine",44.1658,-70.2065,107602
+Vigo,Indiana,"Vigo, Indiana",39.4306,-87.39,107459
+Albemarle,Virginia,"Albemarle, Virginia",38.0229,-78.5567,107405
+Craighead,Arkansas,"Craighead, Arkansas",35.8308,-90.6328,107345
+Cowlitz,Washington,"Cowlitz, Washington",46.1932,-122.681,106778
+Sumter,South Carolina,"Sumter, South Carolina",33.9162,-80.3823,106757
+Warren,New Jersey,"Warren, New Jersey",40.8572,-74.9973,105862
+Bradley,Tennessee,"Bradley, Tennessee",35.1541,-84.8596,105749
+Hanover,Virginia,"Hanover, Virginia",37.7601,-77.4912,105537
+Macon,Illinois,"Macon, Illinois",39.86,-88.9616,105528
+Monongalia,West Virginia,"Monongalia, West Virginia",39.6303,-80.0466,105474
+Miami,Ohio,"Miami, Ohio",40.0535,-84.2289,105371
+Matanuska-Susitna,Alaska,"Matanuska-Susitna, Alaska",62.3162,-149.5714,105369
+Bartow,Georgia,"Bartow, Georgia",34.2377,-84.8403,104919
+Yamhill,Oregon,"Yamhill, Oregon",45.2326,-123.3081,104831
+Houston,Alabama,"Houston, Alabama",31.1532,-85.3025,104702
+Madison,Mississippi,"Madison, Mississippi",32.6347,-90.0337,104562
+DeKalb,Illinois,"DeKalb, Illinois",41.8935,-88.7703,104366
+Whitfield,Georgia,"Whitfield, Georgia",34.8056,-84.9672,104237
+Bay,Michigan,"Bay, Michigan",43.708,-83.9916,104104
+Cass,Missouri,"Cass, Missouri",38.647,-94.3549,103597
+Eau Claire,Wisconsin,"Eau Claire, Wisconsin",44.7268,-91.286,103514
+Highlands,Florida,"Highlands, Florida",27.3433,-81.341,103437
+Franklin,Missouri,"Franklin, Missouri",38.4111,-91.075,103191
+Columbiana,Ohio,"Columbiana, Ohio",40.7684,-80.7772,103190
+Allen,Ohio,"Allen, Ohio",40.7715,-84.1058,103175
+Walworth,Wisconsin,"Walworth, Wisconsin",42.6685,-88.5419,103074
+Etowah,Alabama,"Etowah, Alabama",34.0453,-86.0348,102748
+Tompkins,New York,"Tompkins, New York",42.452,-76.4736,102642
+Fond du Lac,Wisconsin,"Fond du Lac, Wisconsin",43.7536,-88.4883,102597
+Woodbury,Iowa,"Woodbury, Iowa",42.3897,-96.0448,102586
+Cecil,Maryland,"Cecil, Maryland",39.5712,-75.9407,102552
+Wicomico,Maryland,"Wicomico, Maryland",38.3733,-75.6208,102539
+Craven,North Carolina,"Craven, North Carolina",35.1249,-77.0939,102491
+Adams,Pennsylvania,"Adams, Pennsylvania",39.8715,-77.2179,102470
+Carver,Minnesota,"Carver, Minnesota",44.8208,-93.8026,101949
+Platte,Missouri,"Platte, Missouri",39.3803,-94.7738,100682
+Daviess,Kentucky,"Daviess, Kentucky",37.7318,-87.0873,100474
+Flathead,Montana,"Flathead, Montana",48.2951,-114.0497,99899
+Nevada,California,"Nevada, California",39.3014,-120.7685,99244
+Roanoke,Virginia,"Roanoke, Virginia",37.2785,-79.958,99229
+Fairbanks North Star,Alaska,"Fairbanks North Star, Alaska",64.8078,-146.5654,99072
+Putnam,New York,"Putnam, New York",41.4267,-73.7495,98787
+Garland,Arkansas,"Garland, Arkansas",34.5767,-93.1504,98555
+Lenawee,Michigan,"Lenawee, Michigan",41.8951,-84.0664,98381
+Laramie,Wyoming,"Laramie, Wyoming",41.307,-104.6895,98320
+Montgomery,Virginia,"Montgomery, Virginia",37.1743,-80.3872,98140
+Lafourche,Louisiana,"Lafourche, Louisiana",29.5662,-90.4258,98108
+Ashtabula,Ohio,"Ashtabula, Ohio",41.7075,-80.7483,97830
+Madison,Tennessee,"Madison, Tennessee",35.6081,-88.8385,97625
+Floyd,Georgia,"Floyd, Georgia",34.2632,-85.2143,97369
+Moore,North Carolina,"Moore, North Carolina",35.3106,-79.4814,97294
+Cleveland,North Carolina,"Cleveland, North Carolina",35.3341,-81.5555,97282
+Rockwall,Texas,"Rockwall, Texas",32.8977,-96.4078,97175
+Sevier,Tennessee,"Sevier, Tennessee",35.7846,-83.5242,97068
+Dubuque,Iowa,"Dubuque, Iowa",42.4688,-90.8825,96982
+Story,Iowa,"Story, Iowa",42.0362,-93.465,96941
+Steuben,New York,"Steuben, New York",42.2678,-77.3838,96422
+Sutter,California,"Sutter, California",39.0346,-121.6948,96109
+Marshall,Alabama,"Marshall, Alabama",34.367,-86.3066,95643
+Grant,Washington,"Grant, Washington",47.2057,-119.4518,95502
+Portsmouth,Virginia,"Portsmouth, Virginia",36.8468,-76.354,95097
+Burleigh,North Dakota,"Burleigh, North Dakota",46.9775,-100.4687,94793
+Limestone,Alabama,"Limestone, Alabama",34.8101,-86.9814,94727
+Sherburne,Minnesota,"Sherburne, Minnesota",45.4439,-93.7746,94463
+Cabell,West Virginia,"Cabell, West Virginia",38.4203,-82.2417,94339
+Hunt,Texas,"Hunt, Texas",33.1236,-96.0855,94162
+Nash,North Carolina,"Nash, North Carolina",35.9673,-77.9864,94030
+Geauga,Ohio,"Geauga, Ohio",41.4996,-81.1786,93843
+Roanoke,Virginia,"Roanoke, Virginia",37.2693,-80.068,93823
+Pottawattamie,Iowa,"Pottawattamie, Iowa",41.3366,-95.5423,93393
+Bowie,Texas,"Bowie, Texas",33.4458,-94.4234,93373
+Cape May,New Jersey,"Cape May, New Jersey",39.149,-74.8002,93086
+Campbell,Kentucky,"Campbell, Kentucky",38.9465,-84.3795,92861
+Lauderdale,Alabama,"Lauderdale, Alabama",34.9014,-87.654,92556
+Tuscarawas,Ohio,"Tuscarawas, Ohio",40.4409,-81.4738,92335
+Lancaster,South Carolina,"Lancaster, South Carolina",34.6867,-80.7054,92308
+Grand Traverse,Michigan,"Grand Traverse, Michigan",44.6688,-85.5605,92181
+Victoria,Texas,"Victoria, Texas",28.7964,-96.9715,92109
+Franklin,Washington,"Franklin, Washington",46.5347,-118.8989,92009
+Maury,Tennessee,"Maury, Tennessee",35.6169,-87.077,91976
+Northumberland,Pennsylvania,"Northumberland, Pennsylvania",40.852,-76.7093,91761
+Calvert,Maryland,"Calvert, Maryland",38.5434,-76.5687,91511
+Walton,Georgia,"Walton, Georgia",33.7816,-83.7339,91442
+Rogers,Oklahoma,"Rogers, Oklahoma",36.3716,-95.6044,91353
+Benton,Oregon,"Benton, Oregon",44.4918,-123.4293,91107
+Rockingham,North Carolina,"Rockingham, North Carolina",36.396,-79.775,91077
+Madison,Kentucky,"Madison, Kentucky",37.7202,-84.278,90802
+Wayne,New York,"Wayne, New York",43.1566,-77.0294,90519
+Suffolk,Virginia,"Suffolk, Virginia",36.6953,-76.6398,90093
+Burke,North Carolina,"Burke, North Carolina",35.7496,-81.7048,89968
+Grafton,New Hampshire,"Grafton, New Hampshire",43.9406,-71.8208,89777
+Rockdale,Georgia,"Rockdale, Georgia",33.6542,-84.0266,89717
+Dougherty,Georgia,"Dougherty, Georgia",31.5335,-84.2164,89703
+St. Croix,Wisconsin,"St. Croix, Wisconsin",45.0341,-92.4528,88732
+Ozaukee,Wisconsin,"Ozaukee, Wisconsin",43.384,-87.9509,88597
+Buchanan,Missouri,"Buchanan, Missouri",39.6598,-94.8059,88460
+Lapeer,Michigan,"Lapeer, Michigan",43.0901,-83.2218,88038
+St. Clair,Alabama,"St. Clair, Alabama",33.7157,-86.3146,87989
+Dodge,Wisconsin,"Dodge, Wisconsin",43.4163,-88.7075,87715
+Orangeburg,South Carolina,"Orangeburg, South Carolina",33.439,-80.8003,87687
+Angelina,Texas,"Angelina, Texas",31.2548,-94.6119,87322
+Mendocino,California,"Mendocino, California",39.4402,-123.3915,87224
+Dallas,Iowa,"Dallas, Iowa",41.6849,-94.0398,87099
+Lawrence,Pennsylvania,"Lawrence, Pennsylvania",40.9912,-80.3347,86727
+Frederick,Virginia,"Frederick, Virginia",39.2046,-78.2625,86415
+Josephine,Oregon,"Josephine, Oregon",42.3655,-123.5555,86251
+Muskingum,Ohio,"Muskingum, Ohio",39.9654,-81.9444,86131
+Bannock,Idaho,"Bannock, Idaho",42.6685,-112.2246,85765
+Crawford,Pennsylvania,"Crawford, Pennsylvania",41.6847,-80.1063,85665
+Christian,Missouri,"Christian, Missouri",36.9696,-93.1889,85658
+Lee,Mississippi,"Lee, Mississippi",34.2899,-88.6804,85072
+Indiana,Pennsylvania,"Indiana, Pennsylvania",40.6521,-79.0875,85032
+Wood,West Virginia,"Wood, West Virginia",39.2112,-81.515,84960
+Chemung,New York,"Chemung, New York",42.1413,-76.76,84895
+Twin Falls,Idaho,"Twin Falls, Idaho",42.356,-114.6672,84869
+Jefferson,Wisconsin,"Jefferson, Wisconsin",43.0208,-88.7759,84701
+Bastrop,Texas,"Bastrop, Texas",30.1036,-97.312,84522
+Glynn,Georgia,"Glynn, Georgia",31.2309,-81.5407,84470
+Orange,Texas,"Orange, Texas",30.1213,-93.8939,84069
+Liberty,Texas,"Liberty, Texas",30.1516,-94.8122,83702
+Midland,Michigan,"Midland, Michigan",43.6468,-84.3881,83355
+St. Landry,Louisiana,"St. Landry, Louisiana",30.5988,-92.0059,83172
+Nassau,Florida,"Nassau, Florida",30.6106,-81.8016,83098
+Polk,Oregon,"Polk, Oregon",44.9035,-123.4132,83037
+Lincoln,North Carolina,"Lincoln, North Carolina",35.4856,-81.2235,82919
+Island,Washington,"Island, Washington",48.163,-122.5481,82866
+Cullman,Alabama,"Cullman, Alabama",34.1319,-86.8676,82853
+Newport,Rhode Island,"Newport, Rhode Island",41.5564,-71.2368,82801
+Bartholomew,Indiana,"Bartholomew, Indiana",39.206,-85.8976,82481
+Howard,Indiana,"Howard, Indiana",40.4836,-86.117,82331
+Caldwell,North Carolina,"Caldwell, North Carolina",35.953,-81.5464,81884
+Payne,Oklahoma,"Payne, Oklahoma",36.0773,-96.9756,81815
+Cascade,Montana,"Cascade, Montana",47.308,-111.347,81625
+Wilson,North Carolina,"Wilson, North Carolina",35.7051,-77.9187,81435
+Elmore,Alabama,"Elmore, Alabama",32.5966,-86.1492,81144
+Henderson,Texas,"Henderson, Texas",32.2119,-95.8536,81070
+Leavenworth,Kansas,"Leavenworth, Kansas",39.1993,-95.038,80745
+Clinton,New York,"Clinton, New York",44.7462,-73.6782,80583
+Lynchburg,Virginia,"Lynchburg, Virginia",37.4003,-79.1909,80569
+Talladega,Alabama,"Talladega, Alabama",33.3801,-86.1659,80387
+Natrona,Wyoming,"Natrona, Wyoming",42.9621,-106.7985,80333
+Rockingham,Virginia,"Rockingham, Virginia",38.512,-78.8758,80284
+Bullitt,Kentucky,"Bullitt, Kentucky",37.9701,-85.6959,80171
+Clearfield,Pennsylvania,"Clearfield, Pennsylvania",41.0002,-78.4741,79908
+Manitowoc,Wisconsin,"Manitowoc, Wisconsin",44.1199,-87.8097,79185
+Kosciusko,Indiana,"Kosciusko, Indiana",41.2441,-85.8607,79035
+Barrow,Georgia,"Barrow, Georgia",33.9932,-83.7127,78991
+Wagoner,Oklahoma,"Wagoner, Oklahoma",35.9611,-95.5212,78958
+White,Arkansas,"White, Arkansas",35.2563,-91.7455,78762
+Cape Girardeau,Missouri,"Cape Girardeau, Missouri",37.384,-89.6845,78491
+Clinton,Michigan,"Clinton, Michigan",42.9437,-84.6015,78389
+Bedford,Virginia,"Bedford, Virginia",37.3152,-79.5242,78376
+Lewis,Washington,"Lewis, Washington",46.5778,-122.3927,78145
+Vermilion,Illinois,"Vermilion, Illinois",40.1834,-87.7328,77563
+Oconee,South Carolina,"Oconee, South Carolina",34.7534,-83.0658,77528
+Putnam,Tennessee,"Putnam, Tennessee",36.1408,-85.4952,77447
+Cayuga,New York,"Cayuga, New York",42.9175,-76.5545,77425
+Floyd,Indiana,"Floyd, Indiana",38.3189,-85.9068,77320
+Umatilla,Oregon,"Umatilla, Oregon",45.5919,-118.7368,77129
+Cattaraugus,New York,"Cattaraugus, New York",42.2486,-78.6789,77121
+Ross,Ohio,"Ross, Ohio",39.3376,-83.057,76948
+Cole,Missouri,"Cole, Missouri",38.5054,-92.2816,76723
+Yuba,California,"Yuba, California",39.269,-121.3513,76360
+Lauderdale,Mississippi,"Lauderdale, Mississippi",32.4043,-88.6625,76279
+Chelan,Washington,"Chelan, Washington",47.8692,-120.619,76229
+Bulloch,Georgia,"Bulloch, Georgia",32.3968,-81.7432,76120
+Anderson,Tennessee,"Anderson, Tennessee",36.1185,-84.1985,76061
+Cheshire,New Hampshire,"Cheshire, New Hampshire",42.9194,-72.2512,76042
+Scioto,Ohio,"Scioto, Ohio",38.804,-82.9928,76040
+Valencia,New Mexico,"Valencia, New Mexico",34.7155,-106.809,76027
+Hancock,Ohio,"Hancock, Ohio",41.0019,-83.6665,75837
+Monroe,Florida,"Monroe, Florida",25.3156,-81.1106,75798
+Clallam,Washington,"Clallam, Washington",48.0493,-123.928,75392
+Van Buren,Michigan,"Van Buren, Michigan",42.2513,-86.0189,75358
+Coryell,Texas,"Coryell, Texas",31.3909,-97.7992,75280
+Raleigh,West Virginia,"Raleigh, West Virginia",37.7714,-81.2486,75252
+Forrest,Mississippi,"Forrest, Mississippi",31.1889,-89.2579,75224
+Hancock,Indiana,"Hancock, Indiana",39.8236,-85.7733,75164
+Sullivan,New York,"Sullivan, New York",41.7164,-74.7681,75116
+Augusta,Virginia,"Augusta, Virginia",38.1644,-79.1338,75079
+Riley,Kansas,"Riley, Kansas",39.2966,-96.7352,75056
+James City,Virginia,"James City, Virginia",37.3288,-76.7788,74916
+Erie,Ohio,"Erie, Ohio",41.3632,-82.6192,74780
+Somerset,Pennsylvania,"Somerset, Pennsylvania",39.9725,-79.0283,74361
+Putnam,Florida,"Putnam, Florida",29.6087,-81.7443,73252
+Wood,Wisconsin,"Wood, Wisconsin",44.4553,-90.0416,73112
+Grays Harbor,Washington,"Grays Harbor, Washington",47.1503,-123.7735,72779
+Lonoke,Arkansas,"Lonoke, Arkansas",34.7542,-91.8888,72528
+McKinley,New Mexico,"McKinley, New Mexico",35.5807,-108.2618,72438
+Walker,Texas,"Walker, Texas",30.739,-95.5723,72321
+Pottawatomie,Oklahoma,"Pottawatomie, Oklahoma",35.2066,-96.9484,72154
+Surry,North Carolina,"Surry, North Carolina",36.4148,-80.6881,71971
+Iberia,Louisiana,"Iberia, Louisiana",29.8965,-91.73,71887
+Kauai,Hawaii,"Kauai, Hawaii",22.0396,-159.5963,71769
+Apache,Arizona,"Apache, Arizona",35.3955,-109.4888,71511
+Allegany,Maryland,"Allegany, Maryland",39.6215,-78.6976,71445
+Creek,Oklahoma,"Creek, Oklahoma",35.9026,-96.3708,71427
+Christian,Kentucky,"Christian, Kentucky",36.8942,-87.4905,71414
+Chatham,North Carolina,"Chatham, North Carolina",35.7026,-79.2553,71338
+DeKalb,Alabama,"DeKalb, Alabama",34.4598,-85.8041,71310
+Madison,New York,"Madison, New York",42.9128,-75.6696,71205
+Isabella,Michigan,"Isabella, Michigan",43.6406,-84.8468,70688
+Portage,Wisconsin,"Portage, Wisconsin",44.476,-89.5014,70632
+Franklin,Massachusetts,"Franklin, Massachusetts",42.5831,-72.5918,70577
+Greenwood,South Carolina,"Greenwood, South Carolina",34.1538,-82.1259,70411
+Robertson,Tennessee,"Robertson, Tennessee",36.5255,-86.8706,70280
+Lea,New Mexico,"Lea, New Mexico",32.7921,-103.4125,70277
+Grand Forks,North Dakota,"Grand Forks, North Dakota",47.9219,-97.4569,70224
+Columbia,Florida,"Columbia, Florida",30.2242,-82.6215,69968
+Morgan,Indiana,"Morgan, Indiana",39.4816,-86.4462,69922
+Troup,Georgia,"Troup, Georgia",33.0335,-85.0284,69919
+Fauquier,Virginia,"Fauquier, Virginia",38.7386,-77.8092,69728
+Jefferson,Arkansas,"Jefferson, Arkansas",34.2688,-91.9315,69282
+Carteret,North Carolina,"Carteret, North Carolina",34.8357,-76.6589,69070
+Walker,Georgia,"Walker, Georgia",34.7356,-85.301,69039
+Greene,Tennessee,"Greene, Tennessee",36.1753,-82.8458,68834
+Ward,North Dakota,"Ward, North Dakota",48.2217,-101.5418,68812
+Muskogee,Oklahoma,"Muskogee, Oklahoma",35.6161,-95.3795,68736
+Wilkes,North Carolina,"Wilkes, North Carolina",36.2063,-81.1634,68469
+Jones,Mississippi,"Jones, Mississippi",31.6226,-89.1688,68352
+Shiawassee,Michigan,"Shiawassee, Michigan",42.9537,-84.1467,68340
+Walton,Florida,"Walton, Florida",30.6436,-86.1697,68262
+Belmont,Ohio,"Belmont, Ohio",40.0158,-80.9885,68024
+York,Virginia,"York, Virginia",37.2432,-76.5636,67982
+Harrison,West Virginia,"Harrison, West Virginia",39.2835,-80.3799,67908
+Broomfield,Colorado,"Broomfield, Colorado",39.9541,-105.0527,67886
+Jackson,Georgia,"Jackson, Georgia",34.1339,-83.5664,67885
+Aroostook,Maine,"Aroostook, Maine",46.6589,-68.5989,67809
+Lewis and Clark,Montana,"Lewis and Clark, Montana",47.1224,-112.3904,67805
+Tooele,Utah,"Tooele, Utah",40.4488,-113.1311,67397
+Williamson,Illinois,"Williamson, Illinois",37.7303,-88.9299,67102
+Darlington,South Carolina,"Darlington, South Carolina",34.3325,-79.9577,67027
+San Patricio,Texas,"San Patricio, Texas",28.0091,-97.5186,67008
+Klamath,Oregon,"Klamath, Oregon",42.6864,-121.6502,66921
+Laurens,South Carolina,"Laurens, South Carolina",34.4836,-82.0059,66846
+Blue Earth,Minnesota,"Blue Earth, Minnesota",44.0346,-94.067,66795
+Catoosa,Georgia,"Catoosa, Georgia",34.9036,-85.1382,66700
+Butler,Kansas,"Butler, Kansas",37.7812,-96.839,66698
+Marquette,Michigan,"Marquette, Michigan",46.4314,-87.6416,66686
+St. Francois,Missouri,"St. Francois, Missouri",37.8102,-90.4722,66643
+Rutherford,North Carolina,"Rutherford, North Carolina",35.4026,-81.9198,66599
+Harrison,Texas,"Harrison, Texas",32.5481,-94.3715,66580
+Grant,Indiana,"Grant, Indiana",40.5158,-85.6547,66452
+Jefferson,Ohio,"Jefferson, Ohio",40.385,-80.761,66371
+Franklin,North Carolina,"Franklin, North Carolina",36.0828,-78.2857,66362
+Wayne,Indiana,"Wayne, Indiana",39.8644,-85.0098,66342
+Wise,Texas,"Wise, Texas",33.2159,-97.6545,66290
+Rice,Minnesota,"Rice, Minnesota",44.3543,-93.2967,66185
+Otero,New Mexico,"Otero, New Mexico",32.6132,-105.7415,66137
+Adams,Illinois,"Adams, Illinois",39.9879,-91.1885,66085
+Oldham,Kentucky,"Oldham, Kentucky",38.3994,-85.4483,65967
+Athens,Ohio,"Athens, Ohio",39.3339,-82.0452,65917
+Armstrong,Pennsylvania,"Armstrong, Pennsylvania",40.8123,-79.4645,65867
+Columbia,Pennsylvania,"Columbia, Pennsylvania",41.0487,-76.4052,65715
+Boone,Indiana,"Boone, Indiana",40.0508,-86.4687,65544
+Nacogdoches,Texas,"Nacogdoches, Texas",31.616,-94.6159,65339
+Spalding,Georgia,"Spalding, Georgia",33.2609,-84.2841,65306
+Marion,Ohio,"Marion, Ohio",40.5872,-83.1609,65299
+McCracken,Kentucky,"McCracken, Kentucky",37.054,-88.7127,65268
+Chaves,New Mexico,"Chaves, New Mexico",33.3633,-104.4669,65144
+Kershaw,South Carolina,"Kershaw, South Carolina",34.3388,-80.5902,65112
+Pulaski,Kentucky,"Pulaski, Kentucky",37.1039,-84.5773,64350
+Ionia,Michigan,"Ionia, Michigan",42.9451,-85.0746,64300
+Warren,New York,"Warren, New York",43.561,-73.846,64276
+Crow Wing,Minnesota,"Crow Wing, Minnesota",46.4824,-94.0709,64217
+Lake,California,"Lake, California",39.0996,-122.7532,64195
+Hamblen,Tennessee,"Hamblen, Tennessee",36.2171,-83.2667,64132
+Walker,Alabama,"Walker, Alabama",33.8033,-87.2973,64110
+Starr,Texas,"Starr, Texas",26.5621,-98.7387,64078
+Sauk,Wisconsin,"Sauk, Wisconsin",43.4267,-89.9482,63922
+Tehama,California,"Tehama, California",40.1256,-122.2341,63912
+Chippewa,Wisconsin,"Chippewa, Wisconsin",45.0694,-91.2798,63892
+Carbon,Pennsylvania,"Carbon, Pennsylvania",40.9182,-75.7088,63887
+Mason,Washington,"Mason, Washington",47.3484,-123.1927,63804
+Pope,Arkansas,"Pope, Arkansas",35.4476,-93.0342,63761
+Coos,Oregon,"Coos, Oregon",43.1742,-124.0594,63686
+Livingston,New York,"Livingston, New York",42.7281,-77.7755,63591
+Clay,Minnesota,"Clay, Minnesota",46.8924,-96.4907,63446
+Montcalm,Michigan,"Montcalm, Michigan",43.311,-85.1525,63413
+Sampson,North Carolina,"Sampson, North Carolina",34.9915,-78.3714,63385
+Salem,New Jersey,"Salem, New Jersey",39.5876,-75.3491,62990
+Reno,Kansas,"Reno, Kansas",37.953,-98.086,62765
+Crawford,Arkansas,"Crawford, Arkansas",35.5885,-94.2429,62739
+Acadia,Louisiana,"Acadia, Louisiana",30.2905,-92.412,62457
+Warrick,Indiana,"Warrick, Indiana",38.0922,-87.2721,62280
+Herkimer,New York,"Herkimer, New York",43.4197,-74.9625,62057
+Lamar,Mississippi,"Lamar, Mississippi",31.206,-89.5087,61969
+Georgetown,South Carolina,"Georgetown, South Carolina",33.4343,-79.3323,61952
+Garfield,Oklahoma,"Garfield, Oklahoma",36.3791,-97.7827,61898
+Washington,New York,"Washington, New York",43.3137,-73.4308,61616
+Stanly,North Carolina,"Stanly, North Carolina",35.312,-80.251,61588
+Knox,Ohio,"Knox, Ohio",40.3988,-82.4215,61481
+Tipton,Tennessee,"Tipton, Tennessee",35.4969,-89.7592,61447
+Liberty,Georgia,"Liberty, Georgia",31.8281,-81.4947,61349
+Hall,Nebraska,"Hall, Nebraska",40.8726,-98.5022,61265
+Pittsylvania,Virginia,"Pittsylvania, Virginia",36.8213,-79.3971,61256
+Haywood,North Carolina,"Haywood, North Carolina",35.556,-82.9822,61053
+Bradford,Pennsylvania,"Bradford, Pennsylvania",41.7887,-76.5154,60963
+Belknap,New Hampshire,"Belknap, New Hampshire",43.5179,-71.4227,60887
+St. Joseph,Michigan,"St. Joseph, Michigan",41.9144,-85.5278,60836
+Barry,Michigan,"Barry, Michigan",42.595,-85.309,60540
+Lee,North Carolina,"Lee, North Carolina",35.4752,-79.1715,60481
+Effingham,Georgia,"Effingham, Georgia",32.3673,-81.3413,60477
+Washington,Ohio,"Washington, Ohio",39.4553,-81.4953,60426
+Pender,North Carolina,"Pender, North Carolina",34.5248,-77.9051,60399
+San Benito,California,"San Benito, California",36.6057,-121.075,60376
+Columbia,New York,"Columbia, New York",42.2501,-73.6318,60371
+Walla Walla,Washington,"Walla Walla, Washington",46.2298,-118.4784,60365
+Laurel,Kentucky,"Laurel, Kentucky",37.1107,-84.1178,60357
+Lawrence,Ohio,"Lawrence, Ohio",38.5984,-82.5368,60184
+Otsego,New York,"Otsego, New York",42.6338,-75.0326,59972
+Mercer,West Virginia,"Mercer, West Virginia",37.4055,-81.1114,59919
+Vermilion,Louisiana,"Vermilion, Louisiana",29.8465,-92.3238,59865
+Pike,Kentucky,"Pike, Kentucky",37.4691,-82.3958,59497
+Granville,North Carolina,"Granville, North Carolina",36.3041,-78.6527,59328
+Cumberland,Tennessee,"Cumberland, Tennessee",35.9504,-84.9984,59216
+Lowndes,Mississippi,"Lowndes, Mississippi",33.4729,-88.4433,59150
+Garfield,Colorado,"Garfield, Colorado",39.5993,-107.904,59055
+Sandusky,Ohio,"Sandusky, Ohio",41.3563,-83.1462,59029
+Duplin,North Carolina,"Duplin, North Carolina",34.9365,-77.933,58967
+Rutland,Vermont,"Rutland, Vermont",43.5801,-73.0366,58892
+Kenai Peninsula,Alaska,"Kenai Peninsula, Alaska",60.2654,-151.5652,58464
+Washington,Vermont,"Washington, Vermont",44.2734,-72.6149,58350
+Huron,Ohio,"Huron, Ohio",41.1462,-82.5984,58339
+Hood,Texas,"Hood, Texas",32.43,-97.8323,58318
+Otter Tail,Minnesota,"Otter Tail, Minnesota",46.4088,-95.708,58195
+Newton,Missouri,"Newton, Missouri",36.9055,-94.3393,58180
+Maverick,Texas,"Maverick, Texas",28.7425,-100.3145,58174
+Jackson,Illinois,"Jackson, Illinois",37.7851,-89.3821,57977
+Russell,Alabama,"Russell, Alabama",32.2884,-85.1849,57952
+Anderson,Texas,"Anderson, Texas",31.8133,-95.6525,57810
+Genesee,New York,"Genesee, New York",43.0009,-78.1938,57808
+Pickaway,Ohio,"Pickaway, Ohio",39.6419,-83.0244,57762
+Eddy,New Mexico,"Eddy, New Mexico",32.4715,-104.3043,57732
+Blount,Alabama,"Blount, Alabama",33.9809,-86.5674,57681
+Oxford,Maine,"Oxford, Maine",44.4999,-70.7566,57550
+Gordon,Georgia,"Gordon, Georgia",34.5032,-84.8759,57202
+Columbia,Wisconsin,"Columbia, Wisconsin",43.4666,-89.3337,57133
+Cherokee,South Carolina,"Cherokee, South Carolina",35.0481,-81.6205,56895
+Lincoln,South Dakota,"Lincoln, South Dakota",43.2789,-96.7218,56826
+Hardin,Texas,"Hardin, Texas",30.3324,-94.3902,56765
+Lenoir,North Carolina,"Lenoir, North Carolina",35.2388,-77.6412,56756
+Union,Ohio,"Union, Ohio",40.2994,-83.3716,56707
+Hawkins,Tennessee,"Hawkins, Tennessee",36.4412,-82.9447,56611
+Putnam,West Virginia,"Putnam, West Virginia",38.5086,-81.909,56610
+Jefferson,West Virginia,"Jefferson, West Virginia",39.3076,-77.8628,56506
+Lincoln,Missouri,"Lincoln, Missouri",39.058,-90.9601,56477
+Carter,Tennessee,"Carter, Tennessee",36.2928,-82.1275,56433
+Marion,West Virginia,"Marion, West Virginia",39.51,-80.2434,56355
+Franklin,Virginia,"Franklin, Virginia",36.992,-79.8811,56187
+Columbus,North Carolina,"Columbus, North Carolina",34.2656,-78.655,56068
+Whiteside,Illinois,"Whiteside, Illinois",41.7562,-89.9141,56016
+La Plata,Colorado,"La Plata, Colorado",37.2866,-107.8433,55617
+Pike,Pennsylvania,"Pike, Pennsylvania",41.332,-75.0338,55453
+Autauga,Alabama,"Autauga, Alabama",32.5349,-86.6427,55380
+Seneca,Ohio,"Seneca, Ohio",41.1239,-83.1277,55351
+Chisago,Minnesota,"Chisago, Minnesota",45.5025,-92.9083,55315
+Windsor,Vermont,"Windsor, Vermont",43.58,-72.5862,55275
+Campbell,Virginia,"Campbell, Virginia",37.2053,-79.0966,55225
+Pearl River,Mississippi,"Pearl River, Mississippi",30.7688,-89.5896,55219
+Coffee,Tennessee,"Coffee, Tennessee",35.4906,-86.0748,55209
+Taney,Missouri,"Taney, Missouri",36.6548,-93.0411,55114
+Van Zandt,Texas,"Van Zandt, Texas",32.5637,-95.8365,55103
+Grady,Oklahoma,"Grady, Oklahoma",35.0169,-97.8841,55071
+Watauga,North Carolina,"Watauga, North Carolina",36.2311,-81.6964,54925
+Carson City,Nevada,"Carson City, Nevada",39.1512,-119.7474,54773
+Colbert,Alabama,"Colbert, Alabama",34.7005,-87.8049,54771
+Saline,Kansas,"Saline, Kansas",38.7838,-97.65,54701
+Eagle,Colorado,"Eagle, Colorado",39.6278,-106.6954,54681
+Scott,Kentucky,"Scott, Kentucky",38.2915,-84.5839,54667
+Hancock,Maine,"Hancock, Maine",44.6642,-68.3586,54601
+Lyon,Nevada,"Lyon, Nevada",39.0203,-119.1891,54380
+Washington,Virginia,"Washington, Virginia",36.7244,-81.9598,54071
+Tuolumne,California,"Tuolumne, California",38.0276,-119.9548,54045
+Hoke,North Carolina,"Hoke, North Carolina",35.0175,-79.2373,53957
+Box Elder,Utah,"Box Elder, Utah",41.521,-113.0821,53946
+Rusk,Texas,"Rusk, Texas",32.1077,-94.7619,53755
+St. Martin,Louisiana,"St. Martin, Louisiana",30.1291,-91.6083,53732
+Johnson,Missouri,"Johnson, Missouri",38.7441,-93.8064,53682
+Jefferson,Tennessee,"Jefferson, Tennessee",36.051,-83.4463,53679
+Fulton,New York,"Fulton, New York",43.1138,-74.4222,53646
+Lafayette,Mississippi,"Lafayette, Mississippi",34.3567,-89.4849,53590
+Gila,Arizona,"Gila, Arizona",33.7997,-110.8117,53546
+Boone,Illinois,"Boone, Illinois",42.3231,-88.8234,53537
+Ashland,Ohio,"Ashland, Ohio",40.846,-82.2707,53536
+Harrisonburg,Virginia,"Harrisonburg, Virginia",38.4361,-78.8735,53273
+Camden,Georgia,"Camden, Georgia",30.9306,-81.67,53231
+Roane,Tennessee,"Roane, Tennessee",35.8479,-84.5232,53075
+McMinn,Tennessee,"McMinn, Tennessee",35.4248,-84.6175,53053
+Jessamine,Kentucky,"Jessamine, Kentucky",37.8721,-84.5809,53032
+Tuscola,Michigan,"Tuscola, Michigan",43.4645,-83.4169,52939
+St. Charles,Louisiana,"St. Charles, Louisiana",29.9055,-90.3582,52773
+Dickson,Tennessee,"Dickson, Tennessee",36.149,-87.3567,52680
+Edgecombe,North Carolina,"Edgecombe, North Carolina",35.9129,-77.5971,52648
+Pulaski,Missouri,"Pulaski, Missouri",37.8246,-92.2076,52425
+Loudon,Tennessee,"Loudon, Tennessee",35.7348,-84.3118,52340
+Elko,Nevada,"Elko, Nevada",41.1458,-115.3577,52297
+Cherokee,Texas,"Cherokee, Texas",31.837,-95.1652,52118
+Washington,Oklahoma,"Washington, Oklahoma",36.7152,-95.9044,51886
+Jackson,Alabama,"Jackson, Alabama",34.7795,-85.9994,51852
+Kerr,Texas,"Kerr, Texas",30.0615,-99.35,51843
+Waller,Texas,"Waller, Texas",30.0108,-95.9877,51832
+Venango,Pennsylvania,"Venango, Pennsylvania",41.401,-79.758,51818
+Worcester,Maryland,"Worcester, Maryland",38.2128,-75.334,51765
+Grant,Wisconsin,"Grant, Wisconsin",42.8675,-90.7062,51733
+Coffee,Alabama,"Coffee, Alabama",31.4027,-85.9882,51662
+Cass,Michigan,"Cass, Michigan",41.9154,-85.9935,51523
+Darke,Ohio,"Darke, Ohio",40.1333,-84.6194,51513
+Wayne,Pennsylvania,"Wayne, Pennsylvania",41.6487,-75.3033,51422
+Columbia,Oregon,"Columbia, Oregon",45.9438,-123.0883,51375
+Coles,Illinois,"Coles, Illinois",39.5203,-88.2218,51353
+Henry,Virginia,"Henry, Virginia",36.6828,-79.874,51308
+Waupaca,Wisconsin,"Waupaca, Wisconsin",44.4705,-88.9648,51245
+Iron,Utah,"Iron, Utah",37.8592,-113.2895,51213
+Halifax,North Carolina,"Halifax, North Carolina",36.2575,-77.6517,51190
+Culpeper,Virginia,"Culpeper, Virginia",38.486,-77.9558,51101
+Ogle,Illinois,"Ogle, Illinois",42.0426,-89.3207,51025
+St. Mary,Louisiana,"St. Mary, Louisiana",29.7047,-91.4432,50968
+Winona,Minnesota,"Winona, Minnesota",43.9869,-91.7792,50725
+Grundy,Illinois,"Grundy, Illinois",41.2851,-88.4185,50666
+Franklin,Kentucky,"Franklin, Kentucky",38.2392,-84.8771,50529
+Somerset,Maine,"Somerset, Maine",45.5139,-69.9589,50520
+Knox,Illinois,"Knox, Illinois",40.9318,-90.2132,50508
+Franklin,New York,"Franklin, New York",44.5929,-74.3038,50477
+Warren,Iowa,"Warren, Iowa",41.3344,-93.5614,50076
+Medina,Texas,"Medina, Texas",29.3557,-99.1102,50057
+Le Flore,Oklahoma,"Le Flore, Oklahoma",34.9003,-94.7034,50026
+Calumet,Wisconsin,"Calumet, Wisconsin",44.0816,-88.2181,49928
+Curry,New Mexico,"Curry, New Mexico",34.5742,-103.347,49732
+Vernon,Louisiana,"Vernon, Louisiana",31.1083,-93.1842,49646
+Queen Anne's,Maryland,"Queen Anne's, Maryland",39.068,-76.0203,49632
+Lamar,Texas,"Lamar, Texas",33.6673,-95.5712,49611
+Atascosa,Texas,"Atascosa, Texas",28.8935,-98.5272,49528
+Oktibbeha,Mississippi,"Oktibbeha, Mississippi",33.425,-88.8793,49512
+Dearborn,Indiana,"Dearborn, Indiana",39.1452,-84.9732,49479
+Montgomery,New York,"Montgomery, New York",42.9023,-74.4397,49302
+Dale,Alabama,"Dale, Alabama",31.4318,-85.611,49277
+Henry,Illinois,"Henry, Illinois",41.3531,-90.1314,49267
+Whitman,Washington,"Whitman, Washington",46.9012,-117.523,49231
+Gibson,Tennessee,"Gibson, Tennessee",35.9966,-88.9326,49228
+Buffalo,Nebraska,"Buffalo, Nebraska",40.8552,-99.075,49209
+Wilson,Texas,"Wilson, Texas",29.174,-98.0866,49173
+Franklin,Vermont,"Franklin, Vermont",44.8575,-72.912,49116
+Navarro,Texas,"Navarro, Texas",32.0469,-96.4725,48995
+Val Verde,Texas,"Val Verde, Texas",29.8929,-101.1517,48969
+Polk,Texas,"Polk, Texas",30.7927,-94.83,48913
+Bristol,Rhode Island,"Bristol, Rhode Island",41.7173,-71.284,48764
+Shelby,Ohio,"Shelby, Ohio",40.3316,-84.2048,48749
+Tioga,New York,"Tioga, New York",42.1703,-76.3063,48686
+Crittenden,Arkansas,"Crittenden, Arkansas",35.2079,-90.3089,48672
+Cherokee,Oklahoma,"Cherokee, Oklahoma",35.9067,-94.9997,48664
+Lincoln,Oregon,"Lincoln, Oregon",44.642,-123.8682,48547
+Newaygo,Michigan,"Newaygo, Michigan",43.5542,-85.8009,48366
+Bedford,Pennsylvania,"Bedford, Pennsylvania",40.0065,-78.4903,48337
+Carter,Oklahoma,"Carter, Oklahoma",34.2509,-97.2858,48319
+Bedford,Tennessee,"Bedford, Tennessee",35.5138,-86.4589,48292
+Henry,Indiana,"Henry, Indiana",39.9311,-85.3964,48255
+Carroll,New Hampshire,"Carroll, New Hampshire",43.8738,-71.2031,48138
+Douglas,Nevada,"Douglas, Nevada",38.9122,-119.6164,48132
+Jackson,Florida,"Jackson, Florida",30.7954,-85.2155,47945
+Chenango,New York,"Chenango, New York",42.4935,-75.6116,47909
+Cortland,New York,"Cortland, New York",42.595,-76.0703,47865
+Boyd,Kentucky,"Boyd, Kentucky",38.3596,-82.6878,47682
+Noble,Indiana,"Noble, Indiana",41.3986,-85.4175,47506
+Greene,New York,"Greene, New York",42.2765,-74.1227,47424
+Campbell,Wyoming,"Campbell, Wyoming",44.2482,-105.5482,47409
+Laurens,Georgia,"Laurens, Georgia",32.4637,-82.9222,47405
+Shelby,Kentucky,"Shelby, Kentucky",38.2155,-85.1948,47325
+Fremont,Colorado,"Fremont, Colorado",38.473,-105.4397,47321
+Lincoln,Louisiana,"Lincoln, Louisiana",32.6016,-92.6648,47246
+Osage,Oklahoma,"Osage, Oklahoma",36.6292,-96.3985,47226
+Beaufort,North Carolina,"Beaufort, North Carolina",35.494,-76.8598,47168
+Charlottesville,Virginia,"Charlottesville, Virginia",38.0375,-78.4855,47096
+Hancock,Mississippi,"Hancock, Mississippi",30.416,-89.4885,46961
+Clinton,Iowa,"Clinton, Iowa",41.898,-90.532,46909
+Allegany,New York,"Allegany, New York",42.2574,-78.0276,46688
+Logan,Oklahoma,"Logan, Oklahoma",35.9193,-97.4433,46683
+Burnet,Texas,"Burnet, Texas",30.7883,-98.1824,46530
+Warren,Mississippi,"Warren, Mississippi",32.3573,-90.852,46519
+Santa Cruz,Arizona,"Santa Cruz, Arizona",31.5259,-110.8465,46480
+Marshall,Indiana,"Marshall, Indiana",41.3248,-86.2618,46461
+Bryan,Oklahoma,"Bryan, Oklahoma",33.9623,-96.2598,46457
+Washington,Louisiana,"Washington, Louisiana",30.8533,-90.0405,46435
+Beltrami,Minnesota,"Beltrami, Minnesota",47.9738,-94.9377,46403
+Mifflin,Pennsylvania,"Mifflin, Pennsylvania",40.6104,-77.617,46276
+St. Bernard,Louisiana,"St. Bernard, Louisiana",29.8693,-89.5552,46266
+Goodhue,Minnesota,"Goodhue, Minnesota",44.4097,-92.7229,46246
+Monroe,Tennessee,"Monroe, Tennessee",35.4427,-84.2527,46064
+Washington,Mississippi,"Washington, Mississippi",33.2838,-90.9475,46057
+Perry,Pennsylvania,"Perry, Pennsylvania",40.3984,-77.2623,46053
+Chesterfield,South Carolina,"Chesterfield, South Carolina",34.6398,-80.1587,45953
+Gadsden,Florida,"Gadsden, Florida",30.5795,-84.6136,45945
+Kittitas,Washington,"Kittitas, Washington",47.1244,-120.6799,45897
+Bingham,Idaho,"Bingham, Idaho",43.2166,-112.3981,45839
+Henderson,Kentucky,"Henderson, Kentucky",37.7958,-87.573,45829
+Stokes,North Carolina,"Stokes, North Carolina",36.4019,-80.2395,45781
+Monroe,Wisconsin,"Monroe, Wisconsin",43.9457,-90.6178,45771
+Hillsdale,Michigan,"Hillsdale, Michigan",41.8878,-84.5929,45757
+Auglaize,Ohio,"Auglaize, Ohio",40.5609,-84.2217,45729
+Nelson,Kentucky,"Nelson, Kentucky",37.8052,-85.466,45650
+Lawrence,Indiana,"Lawrence, Indiana",38.8412,-86.4835,45548
+Calaveras,California,"Calaveras, California",38.2046,-120.5541,45514
+Colquitt,Georgia,"Colquitt, Georgia",31.1884,-83.7688,45486
+Camden,Missouri,"Camden, Missouri",38.027,-92.766,45466
+Macoupin,Illinois,"Macoupin, Illinois",39.261,-89.9245,45463
+Huntingdon,Pennsylvania,"Huntingdon, Pennsylvania",40.417,-77.9812,45369
+Hopkins,Kentucky,"Hopkins, Kentucky",37.3088,-87.5408,45331
+Logan,Ohio,"Logan, Ohio",40.3885,-83.7658,45316
+Barron,Wisconsin,"Barron, Wisconsin",45.4237,-91.8483,45229
+McDowell,North Carolina,"McDowell, North Carolina",35.6817,-82.0493,45227
+Itasca,Minnesota,"Itasca, Minnesota",47.5095,-93.632,45141
+Baldwin,Georgia,"Baldwin, Georgia",33.0692,-83.2496,45111
+Union,Pennsylvania,"Union, Pennsylvania",40.963,-77.0622,45111
+Stephenson,Illinois,"Stephenson, Illinois",42.3518,-89.6623,45093
+Richmond,North Carolina,"Richmond, North Carolina",35.0059,-79.7478,44997
+Delaware,New York,"Delaware, New York",42.1981,-74.9665,44995
+Greene,Arkansas,"Greene, Arkansas",36.1176,-90.559,44937
+Callaway,Missouri,"Callaway, Missouri",38.8355,-91.926,44889
+Dunn,Wisconsin,"Dunn, Wisconsin",44.9466,-91.8964,44759
+Stevens,Washington,"Stevens, Washington",48.3991,-117.8552,44655
+Thomas,Georgia,"Thomas, Georgia",30.8638,-83.9193,44630
+Phelps,Missouri,"Phelps, Missouri",37.8772,-91.7923,44630
+Habersham,Georgia,"Habersham, Georgia",34.631,-83.5311,44626
+Vance,North Carolina,"Vance, North Carolina",36.3649,-78.4079,44479
+Shelby,Indiana,"Shelby, Indiana",39.5237,-85.7917,44438
+Kay,Oklahoma,"Kay, Oklahoma",36.818,-97.1439,44402
+Nye,Nevada,"Nye, Nevada",38.0423,-116.4719,44380
+Wood,Texas,"Wood, Texas",32.7864,-95.3821,44366
+Pittsburg,Oklahoma,"Pittsburg, Oklahoma",34.9239,-95.7484,44146
+Madison,Ohio,"Madison, Ohio",39.894,-83.4002,44135
+Chilton,Alabama,"Chilton, Alabama",32.8479,-86.7188,44055
+Suwannee,Florida,"Suwannee, Florida",30.1956,-82.9915,44046
+Jackson,Indiana,"Jackson, Indiana",38.9064,-86.0375,44025
+Holmes,Ohio,"Holmes, Ohio",40.5612,-81.9293,43901
+Barren,Kentucky,"Barren, Kentucky",36.9656,-85.9337,43884
+Jefferson,Pennsylvania,"Jefferson, Pennsylvania",41.1282,-78.9994,43846
+Kendall,Texas,"Kendall, Texas",29.9447,-98.7116,43769
+Stephens,Oklahoma,"Stephens, Oklahoma",34.4856,-97.8515,43647
+Bonner,Idaho,"Bonner, Idaho",48.3,-116.6011,43611
+Fayette,West Virginia,"Fayette, West Virginia",38.0288,-81.0812,43576
+Miller,Arkansas,"Miller, Arkansas",33.3121,-93.8916,43572
+Brown,Ohio,"Brown, Ohio",38.934,-83.8674,43572
+Sweetwater,Wyoming,"Sweetwater, Wyoming",41.6595,-108.8796,43521
+Branch,Michigan,"Branch, Michigan",41.9161,-85.059,43513
+Siskiyou,California,"Siskiyou, California",41.5927,-122.5404,43468
+Polk,Wisconsin,"Polk, Wisconsin",45.4614,-92.4414,43438
+Lawrence,Tennessee,"Lawrence, Tennessee",35.2173,-87.3956,43390
+Douglas,Wisconsin,"Douglas, Wisconsin",46.4329,-91.9162,43295
+Mecosta,Michigan,"Mecosta, Michigan",43.6408,-85.3246,43251
+St. John the Baptist,Louisiana,"St. John the Baptist, Louisiana",30.1265,-90.4709,43242
+Shenandoah,Virginia,"Shenandoah, Virginia",38.8583,-78.5708,43224
+Sullivan,New Hampshire,"Sullivan, New Hampshire",43.3614,-72.2222,43104
+Coffee,Georgia,"Coffee, Georgia",31.5493,-82.8492,43021
+Highland,Ohio,"Highland, Ohio",39.1847,-83.601,43016
+Jackson,North Carolina,"Jackson, North Carolina",35.2875,-83.1408,42938
+DeKalb,Indiana,"DeKalb, Indiana",41.3976,-84.9991,42927
+Muscatine,Iowa,"Muscatine, Iowa",41.4839,-91.1127,42889
+Kandiyohi,Minnesota,"Kandiyohi, Minnesota",45.1524,-95.0047,42841
+Cerro Gordo,Iowa,"Cerro Gordo, Iowa",43.0816,-93.2608,42834
+Windham,Vermont,"Windham, Vermont",42.9906,-72.7138,42823
+Butler,Missouri,"Butler, Missouri",36.7164,-90.4066,42656
+Dubois,Indiana,"Dubois, Indiana",38.3643,-86.8798,42543
+Ravalli,Montana,"Ravalli, Montana",46.0817,-114.1207,42512
+Delaware,Oklahoma,"Delaware, Oklahoma",36.4082,-94.8026,42433
+Pettis,Missouri,"Pettis, Missouri",38.7283,-93.2851,42355
+Davie,North Carolina,"Davie, North Carolina",35.9291,-80.5445,42257
+Fulton,Ohio,"Fulton, Ohio",41.6018,-84.1301,42253
+Caldwell,Texas,"Caldwell, Texas",29.8371,-97.62,42144
+Ohio,West Virginia,"Ohio, West Virginia",40.0969,-80.6189,42143
+Mississippi,Arkansas,"Mississippi, Arkansas",35.7638,-90.0542,42126
+Douglas,Washington,"Douglas, Washington",47.7361,-119.6918,42023
+Pierce,Wisconsin,"Pierce, Wisconsin",44.7194,-92.4224,41977
+Clinton,Ohio,"Clinton, Ohio",39.415,-83.8084,41957
+Polk,Georgia,"Polk, Georgia",34.0018,-85.1881,41908
+Okanogan,Washington,"Okanogan, Washington",48.5488,-119.7408,41842
+Erath,Texas,"Erath, Texas",32.2363,-98.2179,41841
+Crawford,Ohio,"Crawford, Ohio",40.8508,-82.9198,41821
+Franklin,Tennessee,"Franklin, Tennessee",35.155,-86.0922,41725
+Sequoyah,Oklahoma,"Sequoyah, Oklahoma",35.4954,-94.7552,41709
+Montrose,Colorado,"Montrose, Colorado",38.4022,-108.2693,41686
+Tazewell,Virginia,"Tazewell, Virginia",37.125,-81.5606,41603
+Wharton,Texas,"Wharton, Texas",29.2779,-96.2221,41577
+Baxter,Arkansas,"Baxter, Arkansas",36.2872,-92.337,41427
+McKean,Pennsylvania,"McKean, Pennsylvania",41.8077,-78.569,41401
+Chambers,Texas,"Chambers, Texas",29.7386,-94.611,41305
+Sanilac,Michigan,"Sanilac, Michigan",43.4236,-82.8201,41295
+Manassas,Virginia,"Manassas, Virginia",38.7479,-77.4839,41174
+Okeechobee,Florida,"Okeechobee, Florida",27.3864,-80.8886,41144
+Summit,Utah,"Summit, Utah",40.8682,-110.9557,41103
+Preble,Ohio,"Preble, Ohio",39.7415,-84.648,41093
+Danville,Virginia,"Danville, Virginia",36.5831,-79.4087,41070
+Mayes,Oklahoma,"Mayes, Oklahoma",36.3019,-95.2308,41044
+Upshur,Texas,"Upshur, Texas",32.7363,-94.9415,41018
+Jim Wells,Texas,"Jim Wells, Texas",27.7314,-98.0899,40972
+Susquehanna,Pennsylvania,"Susquehanna, Pennsylvania",41.8214,-75.8007,40970
+Tioga,Pennsylvania,"Tioga, Pennsylvania",41.7722,-77.2543,40944
+Gratiot,Michigan,"Gratiot, Michigan",43.2927,-84.6049,40916
+Orleans,New York,"Orleans, New York",43.2521,-78.2312,40904
+Shawano,Wisconsin,"Shawano, Wisconsin",44.7892,-88.7654,40904
+Mercer,Ohio,"Mercer, Ohio",40.5399,-84.6294,40884
+Hendry,Florida,"Hendry, Florida",26.5535,-81.1659,40732
+Warren,Tennessee,"Warren, Tennessee",35.6787,-85.7785,40702
+Avoyelles,Louisiana,"Avoyelles, Louisiana",31.0762,-92.0014,40669
+Ottawa,Ohio,"Ottawa, Ohio",41.5381,-83.1409,40632
+Tallapoosa,Alabama,"Tallapoosa, Alabama",32.8624,-85.7975,40541
+Tift,Georgia,"Tift, Georgia",31.4574,-83.5266,40541
+Snyder,Pennsylvania,"Snyder, Pennsylvania",40.7698,-77.0702,40483
+Levy,Florida,"Levy, Florida",29.3184,-82.7436,40403
+Marinette,Wisconsin,"Marinette, Wisconsin",45.383,-88.0334,40391
+Wyoming,New York,"Wyoming, New York",42.7024,-78.2245,40305
+Wayne,West Virginia,"Wayne, West Virginia",38.1459,-82.427,40303
+Nez Perce,Idaho,"Nez Perce, Idaho",46.3268,-116.7502,40217
+Cheatham,Tennessee,"Cheatham, Tennessee",36.2611,-87.0867,40181
+Fayette,Tennessee,"Fayette, Tennessee",35.1971,-89.4144,40164
+Benton,Minnesota,"Benton, Minnesota",45.6991,-93.9988,40129
+Howell,Missouri,"Howell, Missouri",36.774,-91.8865,40104
+Cooke,Texas,"Cooke, Texas",33.6393,-97.2126,40041
+Marshall,Iowa,"Marshall, Iowa",42.0358,-92.9988,39964
+Harrison,Indiana,"Harrison, Indiana",38.1952,-86.1113,39940
+Fremont,Wyoming,"Fremont, Wyoming",43.0405,-108.6305,39812
+Mower,Minnesota,"Mower, Minnesota",43.6714,-92.7525,39807
+Campbell,Tennessee,"Campbell, Tennessee",36.4035,-84.1494,39797
+Knox,Maine,"Knox, Maine",44.141,-69.1686,39759
+Warren,Pennsylvania,"Warren, Pennsylvania",41.8145,-79.2741,39756
+Murray,Georgia,"Murray, Georgia",34.7884,-84.7481,39724
+Waldo,Maine,"Waldo, Maine",44.5028,-69.1454,39539
+Pike,Mississippi,"Pike, Mississippi",31.1749,-90.4042,39532
+Pasquotank,North Carolina,"Pasquotank, North Carolina",36.2955,-76.284,39514
+Latah,Idaho,"Latah, Idaho",46.8162,-116.7117,39505
+Warren,Virginia,"Warren, Virginia",38.9087,-78.2085,39492
+Union,Arkansas,"Union, Arkansas",33.1713,-92.5972,39449
+Isanti,Minnesota,"Isanti, Minnesota",45.5615,-93.2951,39430
+Des Moines,Iowa,"Des Moines, Iowa",40.9232,-91.1815,39386
+Person,North Carolina,"Person, North Carolina",36.39,-78.9718,39345
+McClain,Oklahoma,"McClain, Oklahoma",35.0093,-97.4443,39247
+Webster,Louisiana,"Webster, Louisiana",32.7135,-93.335,39242
+LaGrange,Indiana,"LaGrange, Indiana",41.6426,-85.4265,39193
+Rio Arriba,New Mexico,"Rio Arriba, New Mexico",36.5096,-106.6931,39159
+Dallas,Alabama,"Dallas, Alabama",32.326,-87.1065,39149
+Guernsey,Ohio,"Guernsey, Ohio",40.052,-81.4943,39111
+Clatsop,Oregon,"Clatsop, Oregon",45.9951,-123.6558,39102
+Madison,Idaho,"Madison, Idaho",43.7841,-111.6592,39100
+Crawford,Kansas,"Crawford, Kansas",37.5073,-94.8518,38968
+Franklin,Illinois,"Franklin, Illinois",37.9923,-88.9242,38923
+Brown,South Dakota,"Brown, South Dakota",45.5898,-98.3516,38915
+Clinton,Pennsylvania,"Clinton, Pennsylvania",41.2341,-77.6382,38915
+Champaign,Ohio,"Champaign, Ohio",40.1377,-83.7695,38845
+Calloway,Kentucky,"Calloway, Kentucky",36.621,-88.2722,38837
+Natchitoches,Louisiana,"Natchitoches, Louisiana",31.7235,-93.0962,38769
+Okmulgee,Oklahoma,"Okmulgee, Oklahoma",35.6466,-95.9643,38749
+Clarion,Pennsylvania,"Clarion, Pennsylvania",41.1924,-79.421,38715
+Woodford,Illinois,"Woodford, Illinois",40.7882,-89.2111,38700
+Webster,Missouri,"Webster, Missouri",37.2809,-92.8759,38655
+Scott,Missouri,"Scott, Missouri",37.053,-89.5685,38633
+Wise,Virginia,"Wise, Virginia",36.9752,-82.6212,38486
+Amador,California,"Amador, California",38.4464,-120.6511,38429
+Albany,Wyoming,"Albany, Wyoming",41.6545,-105.7238,38390
+Pontotoc,Oklahoma,"Pontotoc, Oklahoma",34.7281,-96.6844,38355
+Montgomery,Indiana,"Montgomery, Indiana",40.0404,-86.8933,38287
+Lawrence,Missouri,"Lawrence, Missouri",37.1064,-93.833,38204
+Newberry,South Carolina,"Newberry, South Carolina",34.2898,-81.6001,38194
+Defiance,Ohio,"Defiance, Ohio",41.3239,-84.4905,38160
+Oconee,Georgia,"Oconee, Georgia",33.835,-83.4371,38132
+Prince George,Virginia,"Prince George, Virginia",37.1865,-77.2242,38114
+Graham,Arizona,"Graham, Arizona",32.9326,-109.8875,37996
+Jefferson,Illinois,"Jefferson, Illinois",38.3005,-88.924,37985
+Cass,Indiana,"Cass, Indiana",40.7615,-86.346,37880
+Brown,Texas,"Brown, Texas",31.7743,-98.9998,37855
+Marion,Illinois,"Marion, Illinois",38.6496,-88.919,37743
+Oconto,Wisconsin,"Oconto, Wisconsin",45.0262,-88.2692,37646
+Clinton,Illinois,"Clinton, Illinois",38.6065,-89.4225,37634
+Chippewa,Michigan,"Chippewa, Michigan",46.3053,-84.5777,37629
+Yadkin,North Carolina,"Yadkin, North Carolina",36.1605,-80.6652,37602
+Colleton,South Carolina,"Colleton, South Carolina",32.8636,-80.6669,37585
+Douglas,Minnesota,"Douglas, Minnesota",45.9337,-95.4535,37513
+Essex,New York,"Essex, New York",44.1172,-73.7726,37459
+Independence,Arkansas,"Independence, Arkansas",35.7415,-91.5697,37427
+Dyer,Tennessee,"Dyer, Tennessee",36.0591,-89.4138,37416
+Putnam,Indiana,"Putnam, Indiana",39.6663,-86.845,37384
+Boone,Arkansas,"Boone, Arkansas",36.3086,-93.0915,37331
+Graves,Kentucky,"Graves, Kentucky",36.7231,-88.6512,37248
+Gloucester,Virginia,"Gloucester, Virginia",37.416,-76.5434,37222
+Alexander,North Carolina,"Alexander, North Carolina",35.921,-81.177,37213
+Covington,Alabama,"Covington, Alabama",31.2485,-86.4513,37200
+Talbot,Maryland,"Talbot, Maryland",38.7713,-76.0971,37167
+Alcorn,Mississippi,"Alcorn, Mississippi",34.8808,-88.5803,37090
+Knox,Indiana,"Knox, Indiana",38.6891,-87.418,37065
+Bryan,Georgia,"Bryan, Georgia",32.0145,-81.4436,37063
+Escambia,Alabama,"Escambia, Alabama",31.1261,-87.1616,37057
+Beauregard,Louisiana,"Beauregard, Louisiana",30.6484,-93.3434,37043
+Jasper,Iowa,"Jasper, Iowa",41.686,-93.0538,36971
+DeSoto,Florida,"DeSoto, Florida",27.1864,-81.8095,36903
+Green,Wisconsin,"Green, Wisconsin",42.68,-89.6022,36896
+Addison,Vermont,"Addison, Vermont",44.0309,-73.1408,36882
+Greene,Pennsylvania,"Greene, Pennsylvania",39.8538,-80.2229,36870
+Williams,Ohio,"Williams, Ohio",41.5603,-84.5882,36816
+Matagorda,Texas,"Matagorda, Texas",28.8212,-96.011,36774
+Finney,Kansas,"Finney, Kansas",38.0443,-100.737,36750
+Steele,Minnesota,"Steele, Minnesota",44.0223,-93.226,36683
+Dodge,Nebraska,"Dodge, Nebraska",41.5779,-96.654,36665
+Isle of Wight,Virginia,"Isle of Wight, Virginia",36.8913,-76.7258,36627
+Coshocton,Ohio,"Coshocton, Ohio",40.3017,-81.92,36585
+Webster,Iowa,"Webster, Iowa",42.4279,-94.1818,36545
+Hopkins,Texas,"Hopkins, Texas",33.1496,-95.564,36486
+Floyd,Kentucky,"Floyd, Kentucky",37.5571,-82.7457,36456
+Huntington,Indiana,"Huntington, Indiana",40.8292,-85.4881,36359
+Howard,Texas,"Howard, Texas",32.3062,-101.4356,36349
+Dare,North Carolina,"Dare, North Carolina",35.7795,-75.798,36222
+Whitley,Kentucky,"Whitley, Kentucky",36.7581,-84.1452,36131
+Uintah,Utah,"Uintah, Utah",40.1248,-109.5186,36084
+Scotts Bluff,Nebraska,"Scotts Bluff, Nebraska",41.8506,-103.708,36074
+Houghton,Michigan,"Houghton, Michigan",46.8978,-88.6874,36070
+Louisa,Virginia,"Louisa, Virginia",37.9782,-77.9629,36040
+Livingston,Illinois,"Livingston, Illinois",40.8916,-88.5577,36040
+Delta,Michigan,"Delta, Michigan",45.9191,-86.9242,36026
+Perry,Ohio,"Perry, Ohio",39.7371,-82.2361,36022
+Orange,Virginia,"Orange, Virginia",38.2462,-78.0137,36010
+Clark,Kentucky,"Clark, Kentucky",37.9708,-84.1474,35971
+McLeod,Minnesota,"McLeod, Minnesota",44.8236,-94.2724,35832
+Miami,Indiana,"Miami, Indiana",40.7695,-86.045,35815
+Bennington,Vermont,"Bennington, Vermont",43.0354,-73.093,35746
+Hill,Texas,"Hill, Texas",31.9907,-97.1324,35689
+Monroe,Mississippi,"Monroe, Mississippi",33.8923,-88.4805,35673
+Carlton,Minnesota,"Carlton, Minnesota",46.5924,-92.677,35633
+Marshall,Mississippi,"Marshall, Mississippi",34.7623,-89.5031,35599
+Ware,Georgia,"Ware, Georgia",31.0538,-82.4237,35593
+Greenup,Kentucky,"Greenup, Kentucky",38.5457,-82.9223,35555
+Cocke,Tennessee,"Cocke, Tennessee",35.9254,-83.1212,35552
+Laclede,Missouri,"Laclede, Missouri",37.6583,-92.5903,35531
+Barry,Missouri,"Barry, Missouri",36.7099,-93.8291,35530
+Jasper,Texas,"Jasper, Texas",30.744,-94.0251,35506
+Sagadahoc,Maine,"Sagadahoc, Maine",43.9598,-69.8546,35452
+Oneida,Wisconsin,"Oneida, Wisconsin",45.7056,-89.5218,35381
+Adams,Indiana,"Adams, Indiana",40.7457,-84.9366,35376
+Cowley,Kansas,"Cowley, Kansas",37.2377,-96.8375,35351
+Lincoln,Nebraska,"Lincoln, Nebraska",41.0477,-100.7453,35263
+Williams,North Dakota,"Williams, North Dakota",48.3437,-103.4802,35208
+Washington,Texas,"Washington, Texas",30.2145,-96.4034,35163
+Greenbrier,West Virginia,"Greenbrier, West Virginia",37.947,-80.453,35155
+Wapello,Iowa,"Wapello, Iowa",41.0306,-92.4095,35141
+Fulton,Illinois,"Fulton, Illinois",40.4728,-90.2075,35092
+Madison,Nebraska,"Madison, Nebraska",41.9167,-97.6008,35080
+Scotland,North Carolina,"Scotland, North Carolina",34.8409,-79.4804,35076
+Morrow,Ohio,"Morrow, Ohio",40.5241,-82.7941,35043
+Lincoln,Oklahoma,"Lincoln, Oklahoma",35.703,-96.8809,34895
+Sioux,Iowa,"Sioux, Iowa",43.0826,-96.1779,34827
+Macon,North Carolina,"Macon, North Carolina",35.1505,-83.4221,34813
+Silver Bow,Montana,"Silver Bow, Montana",45.9024,-112.6567,34770
+Brookings,South Dakota,"Brookings, South Dakota",44.3697,-96.7905,34601
+Clark,Wisconsin,"Clark, Wisconsin",44.7347,-90.6121,34579
+Halifax,Virginia,"Halifax, Virginia",36.7669,-78.9366,34552
+Fannin,Texas,"Fannin, Texas",33.5938,-96.1069,34537
+Harvey,Kansas,"Harvey, Kansas",38.0432,-97.4272,34503
+Steuben,Indiana,"Steuben, Indiana",41.6439,-85.0009,34453
+Warren,Missouri,"Warren, Missouri",38.7646,-91.1607,34453
+Seneca,New York,"Seneca, New York",42.7811,-76.8238,34390
+Lee,Illinois,"Lee, Illinois",41.7461,-89.3003,34389
+Lincoln,Mississippi,"Lincoln, Mississippi",31.5324,-90.454,34320
+Morgan,Illinois,"Morgan, Illinois",39.7156,-90.2015,34247
+Lee,Iowa,"Lee, Iowa",40.642,-91.4793,34227
+Lincoln,Maine,"Lincoln, Maine",44.0664,-69.5435,34201
+Panola,Mississippi,"Panola, Mississippi",34.3639,-89.9506,34190
+Pulaski,Virginia,"Pulaski, Virginia",37.0636,-80.7144,34182
+Ford,Kansas,"Ford, Kansas",37.6917,-99.888,34179
+Monroe,Illinois,"Monroe, Illinois",38.2784,-90.1773,34168
+Effingham,Illinois,"Effingham, Illinois",39.0598,-88.5899,34137
+Harris,Georgia,"Harris, Georgia",32.736,-84.9089,34105
+Geary,Kansas,"Geary, Kansas",39.0024,-96.7525,34025
+Becker,Minnesota,"Becker, Minnesota",46.9347,-95.674,34011
+Clarendon,South Carolina,"Clarendon, South Carolina",33.6658,-80.2164,33957
+Nicollet,Minnesota,"Nicollet, Minnesota",44.3499,-94.2474,33954
+Lincoln,Tennessee,"Lincoln, Tennessee",35.1405,-86.589,33924
+Putnam,Ohio,"Putnam, Ohio",41.0221,-84.1317,33911
+Hale,Texas,"Hale, Texas",34.0705,-101.8269,33826
+Transylvania,North Carolina,"Transylvania, North Carolina",35.2021,-82.7982,33775
+Whitley,Indiana,"Whitley, Indiana",41.1394,-85.5051,33730
+Preston,West Virginia,"Preston, West Virginia",39.4693,-79.6682,33683
+Chambers,Alabama,"Chambers, Alabama",32.9143,-85.392,33660
+Gibson,Indiana,"Gibson, Indiana",38.3119,-87.5846,33656
+Hot Spring,Arkansas,"Hot Spring, Arkansas",34.3176,-92.946,33597
+Evangeline,Louisiana,"Evangeline, Louisiana",30.729,-92.4059,33589
+Weakley,Tennessee,"Weakley, Tennessee",36.2983,-88.7178,33510
+Jasper,Indiana,"Jasper, Indiana",41.023,-87.1161,33447
+Miami,Kansas,"Miami, Kansas",38.5635,-94.8381,33417
+Bladen,North Carolina,"Bladen, North Carolina",34.6146,-78.5636,33407
+Botetourt,Virginia,"Botetourt, Virginia",37.5571,-79.8123,33343
+Pike,Alabama,"Pike, Alabama",31.8027,-85.9409,33333
+Wexford,Michigan,"Wexford, Michigan",44.3383,-85.5784,33256
+Lyon,Kansas,"Lyon, Kansas",38.4562,-96.1526,33251
+Platte,Nebraska,"Platte, Nebraska",41.5713,-97.5211,33174
+Marion,Iowa,"Marion, Iowa",41.3344,-93.0994,33172
+Logan,West Virginia,"Logan, West Virginia",37.8315,-81.9353,33154
+Bureau,Illinois,"Bureau, Illinois",41.4041,-89.5287,33122
+Daviess,Indiana,"Daviess, Indiana",38.7024,-87.072,33120
+Emmet,Michigan,"Emmet, Michigan",45.521,-84.8908,33104
+Morrison,Minnesota,"Morrison, Minnesota",46.0126,-94.2684,33064
+Lawrence,Alabama,"Lawrence, Alabama",34.5217,-87.311,33058
+Caroline,Maryland,"Caroline, Maryland",38.8717,-75.8316,33049
+McCurtain,Oklahoma,"McCurtain, Oklahoma",34.1154,-94.7713,33016
+Marshall,Tennessee,"Marshall, Tennessee",35.4689,-86.765,32965
+Christian,Illinois,"Christian, Illinois",39.5458,-89.2773,32931
+Iberville,Louisiana,"Iberville, Louisiana",30.2585,-91.3493,32822
+Taos,New Mexico,"Taos, New Mexico",36.5783,-105.631,32786
+Rhea,Tennessee,"Rhea, Tennessee",35.6087,-84.9244,32719
+Accomack,Virginia,"Accomack, Virginia",37.7643,-75.6333,32673
+Titus,Texas,"Titus, Texas",33.2166,-94.9657,32640
+Bee,Texas,"Bee, Texas",28.4174,-97.7412,32611
+Lafayette,Missouri,"Lafayette, Missouri",39.0656,-93.7855,32597
+Montgomery,Kansas,"Montgomery, Kansas",37.1925,-95.7429,32521
+Jackson,Ohio,"Jackson, Ohio",39.0196,-82.6184,32450
+Lumpkin,Georgia,"Lumpkin, Georgia",34.5722,-84.0027,32402
+Wakulla,Florida,"Wakulla, Florida",30.1673,-84.4007,32321
+Chester,South Carolina,"Chester, South Carolina",34.692,-81.1595,32311
+Randolph,Illinois,"Randolph, Illinois",38.0521,-89.8252,32295
+Henry,Tennessee,"Henry, Tennessee",36.3318,-88.3013,32284
+Clinton,Indiana,"Clinton, Indiana",40.3017,-86.4751,32273
+Juneau,Alaska,"Juneau, Alaska",58.4546,-134.1739,32227
+Jefferson,Indiana,"Jefferson, Indiana",38.7858,-85.4385,32201
+Greene,Indiana,"Greene, Indiana",39.0364,-86.962,32159
+Dorchester,Maryland,"Dorchester, Maryland",38.4829,-76.0125,32138
+Bolivar,Mississippi,"Bolivar, Mississippi",33.7956,-90.8804,31848
+Amherst,Virginia,"Amherst, Virginia",37.6048,-79.1452,31775
+Polk,Missouri,"Polk, Missouri",37.6165,-93.4005,31748
+Coos,New Hampshire,"Coos, New Hampshire",44.6896,-71.3056,31741
+Claiborne,Tennessee,"Claiborne, Tennessee",36.4859,-83.6604,31732
+Wasatch,Utah,"Wasatch, Utah",40.3308,-111.1682,31708
+Pontotoc,Mississippi,"Pontotoc, Mississippi",34.2254,-89.0374,31618
+Stone,Missouri,"Stone, Missouri",36.7469,-93.456,31615
+Adams,Nebraska,"Adams, Nebraska",40.5245,-98.5012,31587
+Polk,Minnesota,"Polk, Minnesota",47.7739,-96.4019,31521
+Washington,Maine,"Washington, Maine",45.0306,-67.6288,31491
+Franklin,Alabama,"Franklin, Alabama",34.4417,-87.8437,31466
+Ottawa,Oklahoma,"Ottawa, Oklahoma",36.8355,-94.8104,31454
+Jefferson Davis,Louisiana,"Jefferson Davis, Louisiana",30.2677,-92.8141,31441
+Hardin,Ohio,"Hardin, Ohio",40.6616,-83.6595,31425
+Wabash,Indiana,"Wabash, Indiana",40.8457,-85.794,31389
+Pickens,Georgia,"Pickens, Georgia",34.4643,-84.4656,31387
+Knox,Kentucky,"Knox, Kentucky",36.8906,-83.854,31365
+Petersburg,Virginia,"Petersburg, Virginia",37.2043,-77.3913,31362
+Huron,Michigan,"Huron, Michigan",43.8334,-83.0232,31349
+Williamsburg,South Carolina,"Williamsburg, South Carolina",33.6199,-79.7277,31324
+Marion,South Carolina,"Marion, South Carolina",34.0801,-79.3625,31308
+Marshall,West Virginia,"Marshall, West Virginia",39.8606,-80.6634,31308
+Jefferson,Washington,"Jefferson, Washington",47.7489,-123.5952,31285
+Adams,Mississippi,"Adams, Mississippi",31.4829,-91.3535,31266
+Schoharie,New York,"Schoharie, New York",42.5882,-74.4421,31222
+Marshall,Kentucky,"Marshall, Kentucky",36.8834,-88.3294,31192
+Stark,North Dakota,"Stark, North Dakota",46.8107,-102.6551,31081
+Kleberg,Texas,"Kleberg, Texas",27.4337,-97.7273,30974
+Muhlenberg,Kentucky,"Muhlenberg, Kentucky",37.2158,-87.142,30951
+Morton,North Dakota,"Morton, North Dakota",46.7161,-101.2811,30868
+Lassen,California,"Lassen, California",40.6736,-120.5943,30818
+Smyth,Virginia,"Smyth, Virginia",36.8438,-81.537,30767
+Mecklenburg,Virginia,"Mecklenburg, Virginia",36.6804,-78.3627,30728
+Dillon,South Carolina,"Dillon, South Carolina",34.3915,-79.3789,30689
+Clare,Michigan,"Clare, Michigan",43.9879,-84.8478,30651
+Summit,Colorado,"Summit, Colorado",39.6342,-106.1164,30649
+Vernon,Wisconsin,"Vernon, Wisconsin",43.5939,-90.8344,30633
+Delta,Colorado,"Delta, Colorado",38.8614,-107.8629,30565
+McDonough,Illinois,"McDonough, Illinois",40.4562,-90.6779,30479
+Freeborn,Minnesota,"Freeborn, Minnesota",43.6738,-93.3488,30463
+Gilmer,Georgia,"Gilmer, Georgia",34.6912,-84.4556,30414
+Malheur,Oregon,"Malheur, Oregon",43.1934,-117.6231,30412
+Caroline,Virginia,"Caroline, Virginia",38.0267,-77.3471,30381
+Obion,Tennessee,"Obion, Tennessee",36.3582,-89.1488,30365
+Elk,Pennsylvania,"Elk, Pennsylvania",41.4252,-78.6491,30340
+Caledonia,Vermont,"Caledonia, Vermont",44.4647,-72.1022,30234
+Sheridan,Wyoming,"Sheridan, Wyoming",44.79,-106.8793,30140
+Gallia,Ohio,"Gallia, Ohio",38.8247,-82.3169,30088
+Sumter,Georgia,"Sumter, Georgia",32.0399,-84.197,30064
+Cass,Texas,"Cass, Texas",33.0775,-94.3436,30059
+Dunklin,Missouri,"Dunklin, Missouri",36.2721,-90.0909,30027
+Lake,Montana,"Lake, Montana",47.6459,-114.0893,30013
+Franklin,Maine,"Franklin, Maine",44.974,-70.444,29982
+Boyle,Kentucky,"Boyle, Kentucky",37.6244,-84.8668,29972
+Marion,Alabama,"Marion, Alabama",34.1366,-87.8871,29866
+Sanpete,Utah,"Sanpete, Utah",39.3739,-111.5763,29850
+Carroll,Virginia,"Carroll, Virginia",36.7316,-80.7339,29801
+Wayne,Georgia,"Wayne, Georgia",31.5514,-81.9167,29788
+Austin,Texas,"Austin, Texas",29.887,-96.2779,29764
+Lee,Georgia,"Lee, Georgia",31.7796,-84.1412,29502
+Trempealeau,Wisconsin,"Trempealeau, Wisconsin",44.304,-91.3585,29499
+White,Georgia,"White, Georgia",34.6464,-83.7471,29489
+Hancock,West Virginia,"Hancock, West Virginia",40.5219,-80.5739,29383
+Stoddard,Missouri,"Stoddard, Missouri",36.8556,-89.9443,29377
+Neshoba,Mississippi,"Neshoba, Mississippi",32.7535,-89.1176,29332
+Giles,Tennessee,"Giles, Tennessee",35.2021,-87.0348,29285
+Cass,Minnesota,"Cass, Minnesota",46.9496,-94.3254,29268
+Caddo,Oklahoma,"Caddo, Oklahoma",35.1744,-98.3751,29242
+Garrett,Maryland,"Garrett, Maryland",39.5289,-79.2729,29235
+Haralson,Georgia,"Haralson, Georgia",33.7942,-85.211,29227
+Pine,Minnesota,"Pine, Minnesota",46.1207,-92.7413,29223
+Leflore,Mississippi,"Leflore, Mississippi",33.5505,-90.3011,29222
+Madison,Georgia,"Madison, Georgia",34.1278,-83.209,29218
+Custer,Oklahoma,"Custer, Oklahoma",35.6388,-99.0015,29152
+Park,Wyoming,"Park, Wyoming",44.5205,-109.5879,29148
+Logan,Illinois,"Logan, Illinois",40.1245,-89.3675,29003
+Mason,Michigan,"Mason, Michigan",43.9952,-86.25,28954
+Randolph,West Virginia,"Randolph, West Virginia",38.7748,-79.8758,28930
+Orange,Vermont,"Orange, Vermont",44.0057,-72.3768,28908
+Jackson,West Virginia,"Jackson, West Virginia",38.8345,-81.6748,28907
+Wythe,Virginia,"Wythe, Virginia",36.9171,-81.0787,28844
+Montgomery,Illinois,"Montgomery, Illinois",39.231,-89.4789,28828
+Powhatan,Virginia,"Powhatan, Virginia",37.5502,-77.9152,28815
+Ellis,Kansas,"Ellis, Kansas",38.9147,-99.3173,28775
+Jasper,South Carolina,"Jasper, South Carolina",32.4367,-81.0315,28657
+Fredericksburg,Virginia,"Fredericksburg, Virginia",38.2992,-77.4872,28622
+Fayette,Ohio,"Fayette, Ohio",39.5599,-83.4561,28620
+Marion,Missouri,"Marion, Missouri",39.8059,-91.6224,28608
+Jones,Georgia,"Jones, Georgia",33.0251,-83.5605,28579
+McPherson,Kansas,"McPherson, Kansas",38.3917,-97.648,28567
+Yazoo,Mississippi,"Yazoo, Mississippi",32.7803,-90.3964,28565
+Palo Pinto,Texas,"Palo Pinto, Texas",32.7532,-98.313,28540
+Marion,Tennessee,"Marion, Tennessee",35.1293,-85.622,28538
+Jefferson,Idaho,"Jefferson, Idaho",43.8201,-112.3113,28534
+Alpena,Michigan,"Alpena, Michigan",45.0349,-83.6258,28520
+Morgan,Colorado,"Morgan, Colorado",40.2626,-103.8097,28517
+Union,Mississippi,"Union, Mississippi",34.4905,-89.0039,28507
+Copiah,Mississippi,"Copiah, Mississippi",31.8693,-90.4488,28501
+Dinwiddie,Virginia,"Dinwiddie, Virginia",37.0759,-77.6323,28485
+Tate,Mississippi,"Tate, Mississippi",34.6503,-89.9448,28404
+Ripley,Indiana,"Ripley, Indiana",39.1035,-85.2624,28391
+Hocking,Ohio,"Hocking, Ohio",39.4971,-82.4793,28390
+Scott,Mississippi,"Scott, Mississippi",32.4064,-89.5376,28332
+Van Wert,Ohio,"Van Wert, Ohio",40.8554,-84.5861,28261
+Le Sueur,Minnesota,"Le Sueur, Minnesota",44.3714,-93.7301,28242
+Baker,Florida,"Baker, Florida",30.3311,-82.2846,28211
+Meade,Kentucky,"Meade, Kentucky",37.9697,-86.217,28182
+San Jacinto,Texas,"San Jacinto, Texas",30.5795,-95.1669,28180
+Codington,South Dakota,"Codington, South Dakota",44.9779,-97.1886,28026
+Wells,Indiana,"Wells, Indiana",40.7292,-85.2212,28011
+Pike,Ohio,"Pike, Ohio",39.0773,-83.0668,28000
+Grimes,Texas,"Grimes, Texas",30.5435,-95.9855,27984
+Henderson,Tennessee,"Henderson, Tennessee",35.6542,-88.388,27977
+Glenn,California,"Glenn, California",39.5982,-122.392,27976
+Cherokee,North Carolina,"Cherokee, North Carolina",35.1339,-84.0635,27969
+Carroll,Arkansas,"Carroll, Arkansas",36.341,-93.5382,27965
+Winchester,Virginia,"Winchester, Virginia",39.1735,-78.1746,27897
+Carroll,Tennessee,"Carroll, Tennessee",35.9732,-88.4503,27886
+Montgomery,Kentucky,"Montgomery, Kentucky",38.0335,-83.9131,27884
+Washington,Indiana,"Washington, Indiana",38.6,-86.1053,27848
+Garvin,Oklahoma,"Garvin, Oklahoma",34.7046,-97.3093,27835
+Iroquois,Illinois,"Iroquois, Illinois",40.7473,-87.8243,27812
+Adams,Ohio,"Adams, Ohio",38.8456,-83.472,27776
+Lincoln,Wisconsin,"Lincoln, Wisconsin",45.3374,-89.7346,27744
+San Miguel,New Mexico,"San Miguel, New Mexico",35.4804,-104.8158,27738
+Meade,South Dakota,"Meade, South Dakota",44.5668,-102.7169,27717
+Jennings,Indiana,"Jennings, Indiana",38.9969,-85.628,27710
+Grant,New Mexico,"Grant, New Mexico",32.7389,-108.3824,27669
+Del Norte,California,"Del Norte, California",41.7431,-123.8972,27495
+Union,South Carolina,"Union, South Carolina",34.6893,-81.6194,27490
+Door,Wisconsin,"Door, Wisconsin",44.9473,-87.3135,27472
+Carroll,Ohio,"Carroll, Ohio",40.5796,-81.0897,27332
+Wyoming,Pennsylvania,"Wyoming, Pennsylvania",41.5184,-76.0166,27327
+Bradford,Florida,"Bradford, Florida",29.9499,-82.1688,27317
+De Soto,Louisiana,"De Soto, Louisiana",32.0554,-93.7372,27289
+Montgomery,North Carolina,"Montgomery, North Carolina",35.3325,-79.9055,27252
+Henry,Ohio,"Henry, Ohio",41.3339,-84.0682,27208
+Monroe,Georgia,"Monroe, Georgia",33.0139,-83.9187,27171
+Mineral,West Virginia,"Mineral, West Virginia",39.4147,-78.9438,27167
+Carter,Kentucky,"Carter, Kentucky",38.3182,-83.0495,27159
+Peach,Georgia,"Peach, Georgia",32.5688,-83.8269,27145
+Russell,Virginia,"Russell, Virginia",36.9339,-82.0954,27141
+Hardee,Florida,"Hardee, Florida",27.4927,-81.81,27131
+Toombs,Georgia,"Toombs, Georgia",32.1216,-82.3312,26972
+Edgefield,South Carolina,"Edgefield, South Carolina",33.7722,-81.9664,26927
+Uvalde,Texas,"Uvalde, Texas",29.3573,-99.7623,26920
+Logan,Kentucky,"Logan, Kentucky",36.8597,-86.8789,26902
+Orleans,Vermont,"Orleans, Vermont",44.8288,-72.2437,26901
+Cibola,New Mexico,"Cibola, New Mexico",34.9125,-107.9997,26891
+Simpson,Mississippi,"Simpson, Mississippi",31.9132,-89.9195,26888
+Ashe,North Carolina,"Ashe, North Carolina",36.4345,-81.5005,26863
+Mason,West Virginia,"Mason, West Virginia",38.7697,-82.0266,26820
+White,Tennessee,"White, Tennessee",35.9264,-85.4552,26800
+Bell,Kentucky,"Bell, Kentucky",36.7306,-83.6741,26791
+Marlboro,South Carolina,"Marlboro, South Carolina",34.602,-79.6786,26753
+Elmore,Idaho,"Elmore, Idaho",43.354,-115.4693,26743
+Harlan,Kentucky,"Harlan, Kentucky",36.8569,-83.218,26699
+Decatur,Georgia,"Decatur, Georgia",30.8783,-84.579,26682
+Perry,Kentucky,"Perry, Kentucky",37.2443,-83.2215,26624
+Fluvanna,Virginia,"Fluvanna, Virginia",37.8419,-78.2773,26594
+Lewis,New York,"Lewis, New York",43.7847,-75.4488,26572
+Decatur,Indiana,"Decatur, Indiana",39.307,-85.5011,26562
+Juneau,Wisconsin,"Juneau, Wisconsin",43.9246,-90.1138,26478
+Gillespie,Texas,"Gillespie, Texas",30.318,-98.9466,26459
+Barton,Kansas,"Barton, Kansas",38.479,-98.7565,26453
+Geneva,Alabama,"Geneva, Alabama",31.0951,-85.8391,26417
+Oceana,Michigan,"Oceana, Michigan",43.6409,-86.2676,26416
+Tillamook,Oregon,"Tillamook, Oregon",45.4637,-123.7127,26389
+Johnson,Arkansas,"Johnson, Arkansas",35.5701,-93.4599,26372
+Boone,Iowa,"Boone, Iowa",42.0365,-93.9316,26370
+Currituck,North Carolina,"Currituck, North Carolina",36.4031,-76.0059,26363
+Union,Oregon,"Union, Oregon",45.3102,-118.0088,26337
+Woodford,Kentucky,"Woodford, Kentucky",38.0424,-84.7436,26318
+Grayson,Kentucky,"Grayson, Kentucky",37.4608,-86.3439,26247
+Upson,Georgia,"Upson, Georgia",32.8813,-84.2993,26236
+Clay,Indiana,"Clay, Indiana",39.3928,-87.1158,26234
+King George,Virginia,"King George, Virginia",38.2733,-77.1572,26229
+Charlevoix,Michigan,"Charlevoix, Michigan",45.3022,-85.1263,26188
+Sunflower,Mississippi,"Sunflower, Mississippi",33.6023,-90.5886,26168
+Wasco,Oregon,"Wasco, Oregon",45.16,-121.1678,26130
+West Baton Rouge,Louisiana,"West Baton Rouge, Louisiana",30.4634,-91.3127,26101
+Montezuma,Colorado,"Montezuma, Colorado",37.3386,-108.5966,26031
+Lauderdale,Tennessee,"Lauderdale, Tennessee",35.761,-89.6315,25989
+Cherokee,Alabama,"Cherokee, Alabama",34.1759,-85.6038,25903
+St. Francis,Arkansas,"St. Francis, Arkansas",35.022,-90.7478,25900
+Cass,Nebraska,"Cass, Nebraska",40.9097,-96.1409,25888
+Mille Lacs,Minnesota,"Mille Lacs, Minnesota",45.938,-93.6301,25865
+McNairy,Tennessee,"McNairy, Tennessee",35.1755,-88.5636,25844
+Hart,Georgia,"Hart, Georgia",34.3508,-82.9642,25773
+Lyon,Minnesota,"Lyon, Minnesota",44.4135,-95.839,25758
+Stephens,Georgia,"Stephens, Georgia",34.5539,-83.2935,25750
+Somerset,Maryland,"Somerset, Maryland",38.1158,-75.7518,25729
+Elbert,Colorado,"Elbert, Colorado",39.2866,-104.136,25717
+Hardin,Tennessee,"Hardin, Tennessee",35.1987,-88.1845,25715
+Audrain,Missouri,"Audrain, Missouri",39.2157,-91.8416,25644
+Benton,Iowa,"Benton, Iowa",42.0802,-92.0657,25636
+Allen,Louisiana,"Allen, Louisiana",30.6529,-92.8279,25618
+Morehouse,Louisiana,"Morehouse, Louisiana",32.8202,-91.8018,25610
+Texas,Missouri,"Texas, Missouri",37.3173,-91.965,25604
+Taylor,Kentucky,"Taylor, Kentucky",37.3665,-85.3279,25571
+Posey,Indiana,"Posey, Indiana",38.0218,-87.8685,25560
+Franklin,Kansas,"Franklin, Kansas",38.5645,-95.2859,25558
+Lawrence,South Dakota,"Lawrence, South Dakota",44.3586,-103.7923,25478
+Hardeman,Tennessee,"Hardeman, Tennessee",35.2068,-88.9931,25443
+Dickinson,Michigan,"Dickinson, Michigan",46.0091,-87.8702,25439
+Cheboygan,Michigan,"Cheboygan, Michigan",45.4465,-84.4999,25418
+Fannin,Georgia,"Fannin, Georgia",34.8641,-84.3198,25395
+Tattnall,Georgia,"Tattnall, Georgia",32.0458,-82.0581,25382
+Adair,Missouri,"Adair, Missouri",40.1906,-92.6007,25369
+Barbour,Alabama,"Barbour, Alabama",31.8696,-85.3932,25361
+Shelby,Texas,"Shelby, Texas",31.7924,-94.145,25349
+Lamoille,Vermont,"Lamoille, Vermont",44.6058,-72.6414,25318
+Salem,Virginia,"Salem, Virginia",37.2864,-80.0555,25317
+Gladwin,Michigan,"Gladwin, Michigan",43.9907,-84.3883,25279
+Prentiss,Mississippi,"Prentiss, Mississippi",34.6183,-88.5201,25255
+Miller,Missouri,"Miller, Missouri",38.2145,-92.4284,25201
+Iosco,Michigan,"Iosco, Michigan",44.3558,-83.6359,25197
+Brown,Minnesota,"Brown, Minnesota",44.2421,-94.7276,25163
+Fayette,Texas,"Fayette, Texas",29.8768,-96.9198,25141
+Cleburne,Arkansas,"Cleburne, Arkansas",35.5381,-92.0267,25100
+Nicholas,West Virginia,"Nicholas, West Virginia",38.2917,-80.7994,25078
+Routt,Colorado,"Routt, Colorado",40.4851,-106.9913,25072
+Plymouth,Iowa,"Plymouth, Iowa",42.7378,-96.2141,25068
+Jackson,Oklahoma,"Jackson, Oklahoma",34.588,-99.4148,25063
+Yates,New York,"Yates, New York",42.6334,-77.1055,25011
+Marion,Mississippi,"Marion, Mississippi",31.2308,-89.8224,24990
+Grant,Kentucky,"Grant, Kentucky",38.6488,-84.6246,24951
+Randolph,Indiana,"Randolph, Indiana",40.1576,-85.0114,24926
+Anson,North Carolina,"Anson, North Carolina",34.9738,-80.1027,24902
+Randolph,Missouri,"Randolph, Missouri",39.4401,-92.4971,24878
+Bremer,Iowa,"Bremer, Iowa",42.7746,-92.3181,24864
+Washington,Missouri,"Washington, Missouri",37.9617,-90.8774,24860
+Seminole,Oklahoma,"Seminole, Oklahoma",35.1675,-96.6155,24832
+Grady,Georgia,"Grady, Georgia",30.8747,-84.2344,24828
+Hickman,Tennessee,"Hickman, Tennessee",35.8032,-87.4733,24813
+Chattooga,Georgia,"Chattooga, Georgia",34.475,-85.3453,24812
+Milam,Texas,"Milam, Texas",30.7863,-96.9768,24770
+Washington,Florida,"Washington, Florida",30.6106,-85.6653,24764
+Abbeville,South Carolina,"Abbeville, South Carolina",34.2226,-82.4592,24627
+Juniata,Pennsylvania,"Juniata, Pennsylvania",40.5311,-77.4022,24624
+Dawson,Georgia,"Dawson, Georgia",34.4443,-84.1706,24536
+Teller,Colorado,"Teller, Colorado",38.8822,-105.1618,24524
+Rowan,Kentucky,"Rowan, Kentucky",38.1963,-83.4211,24507
+Upshur,West Virginia,"Upshur, West Virginia",38.8978,-80.2334,24502
+Todd,Minnesota,"Todd, Minnesota",46.0706,-94.8976,24494
+Otsego,Michigan,"Otsego, Michigan",45.0214,-84.599,24490
+Lincoln,Kentucky,"Lincoln, Kentucky",37.4554,-84.6608,24476
+Aransas,Texas,"Aransas, Texas",28.1249,-96.9934,24462
+Manistee,Michigan,"Manistee, Michigan",44.333,-86.0568,24457
+Staunton,Virginia,"Staunton, Virginia",38.1593,-79.0611,24432
+Mingo,West Virginia,"Mingo, West Virginia",37.7264,-82.1347,24290
+Churchill,Nevada,"Churchill, Nevada",39.5809,-118.3358,24259
+Waushara,Wisconsin,"Waushara, Wisconsin",44.1131,-89.2429,24193
+Crawford,Missouri,"Crawford, Missouri",37.9764,-91.3039,24154
+White,Indiana,"White, Indiana",40.7498,-86.8655,24149
+Clarke,Alabama,"Clarke, Alabama",31.6767,-87.8308,24128
+Butts,Georgia,"Butts, Georgia",33.2879,-83.9572,24090
+Luna,New Mexico,"Luna, New Mexico",32.1822,-107.7498,24083
+Ohio,Kentucky,"Ohio, Kentucky",37.4782,-86.8489,24071
+Hertford,North Carolina,"Hertford, North Carolina",36.3591,-76.982,24012
+Saline,Illinois,"Saline, Illinois",37.7531,-88.5407,23994
+Sabine,Louisiana,"Sabine, Louisiana",31.564,-93.5546,23991
+Lee,Virginia,"Lee, Virginia",36.7054,-83.1286,23948
+George,Mississippi,"George, Mississippi",30.8626,-88.644,23917
+Poinsett,Arkansas,"Poinsett, Arkansas",35.574,-90.663,23896
+Roscommon,Michigan,"Roscommon, Michigan",44.3356,-84.6116,23851
+Pottawatomie,Kansas,"Pottawatomie, Kansas",39.379,-96.3424,23847
+Macon,Tennessee,"Macon, Tennessee",36.532,-86.0073,23842
+Ouachita,Arkansas,"Ouachita, Arkansas",33.5934,-92.8819,23830
+Page,Virginia,"Page, Virginia",38.6194,-78.4844,23788
+Winston,Alabama,"Winston, Alabama",34.1492,-87.3737,23784
+Columbia,Arkansas,"Columbia, Arkansas",33.2143,-93.2273,23776
+Scott,Indiana,"Scott, Indiana",38.6851,-85.7475,23759
+Dawson,Nebraska,"Dawson, Nebraska",40.8699,-99.8196,23733
+Jerome,Idaho,"Jerome, Idaho",42.6899,-114.2639,23730
+Cassia,Idaho,"Cassia, Idaho",42.2839,-113.6001,23690
+Iowa,Wisconsin,"Iowa, Wisconsin",43.0005,-90.1354,23618
+Jefferson,Oregon,"Jefferson, Oregon",44.6294,-121.1762,23607
+Fairfax,Virginia,"Fairfax, Virginia",38.8531,-77.2998,23531
+Itawamba,Mississippi,"Itawamba, Mississippi",34.28,-88.3613,23462
+Limestone,Texas,"Limestone, Texas",31.5455,-96.5805,23417
+Plaquemines,Louisiana,"Plaquemines, Louisiana",29.4405,-89.6097,23338
+Panola,Texas,"Panola, Texas",32.1624,-94.3056,23327
+Hampshire,West Virginia,"Hampshire, West Virginia",39.3171,-78.6141,23309
+Osceola,Michigan,"Osceola, Michigan",43.9898,-85.3253,23290
+Union,Georgia,"Union, Georgia",34.8341,-83.9907,23288
+Teton,Wyoming,"Teton, Wyoming",43.9347,-110.5898,23280
+Payette,Idaho,"Payette, Idaho",44.0067,-116.7608,23260
+Coahoma,Mississippi,"Coahoma, Mississippi",34.2292,-90.6027,23255
+Hood River,Oregon,"Hood River, Oregon",45.519,-121.651,23209
+Antrim,Michigan,"Antrim, Michigan",44.9991,-85.1402,23206
+Fayette,Indiana,"Fayette, Indiana",39.64,-85.1788,23194
+Sumner,Kansas,"Sumner, Kansas",37.2373,-97.4765,23114
+Meeker,Minnesota,"Meeker, Minnesota",45.1231,-94.5273,23105
+Grainger,Tennessee,"Grainger, Tennessee",36.2763,-83.5096,23101
+Meigs,Ohio,"Meigs, Ohio",39.0822,-82.0229,23078
+Menominee,Michigan,"Menominee, Michigan",45.58,-87.5566,23074
+Hockley,Texas,"Hockley, Texas",33.6076,-102.3432,23064
+Crook,Oregon,"Crook, Oregon",44.1422,-120.3566,23011
+Saline,Missouri,"Saline, Missouri",39.1368,-93.2018,22976
+Houston,Texas,"Houston, Texas",31.3177,-95.4227,22954
+Starke,Indiana,"Starke, Indiana",41.2809,-86.6476,22952
+Prince Edward,Virginia,"Prince Edward, Virginia",37.2243,-78.4411,22905
+Ray,Missouri,"Ray, Missouri",39.3524,-93.9899,22875
+Goochland,Virginia,"Goochland, Virginia",37.7217,-77.916,22865
+Martin,North Carolina,"Martin, North Carolina",35.8432,-77.1092,22849
+Leake,Mississippi,"Leake, Mississippi",32.7535,-89.524,22792
+McDonald,Missouri,"McDonald, Missouri",36.6287,-94.3483,22782
+Franklin,Indiana,"Franklin, Indiana",39.4149,-85.0602,22774
+Franklin,Georgia,"Franklin, Georgia",34.3754,-83.2292,22766
+Yankton,South Dakota,"Yankton, South Dakota",43.009,-97.3948,22717
+Crisp,Georgia,"Crisp, Georgia",31.9229,-83.7681,22713
+Caswell,North Carolina,"Caswell, North Carolina",36.3932,-79.3335,22684
+Curry,Oregon,"Curry, Oregon",42.4576,-124.1568,22650
+Randolph,Alabama,"Randolph, Alabama",33.2938,-85.4591,22647
+Johnson,Kentucky,"Johnson, Kentucky",37.8466,-82.8315,22634
+Rockbridge,Virginia,"Rockbridge, Virginia",37.8145,-79.4473,22570
+Fairfield,South Carolina,"Fairfield, South Carolina",34.3951,-81.1212,22565
+Emanuel,Georgia,"Emanuel, Georgia",32.5897,-82.3017,22533
+Burke,Georgia,"Burke, Georgia",33.0611,-82.0009,22520
+Bibb,Alabama,"Bibb, Alabama",32.9986,-87.1265,22493
+Assumption,Louisiana,"Assumption, Louisiana",29.9008,-91.0626,22478
+Brooke,West Virginia,"Brooke, West Virginia",40.2739,-80.5765,22459
+Hopewell,Virginia,"Hopewell, Virginia",37.2915,-77.2985,22456
+Asotin,Washington,"Asotin, Washington",46.1918,-117.203,22421
+Gray,Texas,"Gray, Texas",35.4012,-100.8126,22410
+Anderson,Kentucky,"Anderson, Kentucky",38.0039,-84.991,22409
+Clark,Arkansas,"Clark, Arkansas",34.051,-93.1764,22386
+Logan,Colorado,"Logan, Colorado",40.7247,-103.1101,22380
+Blaine,Idaho,"Blaine, Idaho",43.4119,-113.9802,22373
+Boone,West Virginia,"Boone, West Virginia",38.023,-81.7112,22368
+Nodaway,Missouri,"Nodaway, Missouri",40.3607,-94.8834,22359
+Union,Louisiana,"Union, Louisiana",32.8318,-92.3748,22353
+Seward,Kansas,"Seward, Kansas",37.1933,-100.8513,22349
+Grant,Louisiana,"Grant, Louisiana",31.5997,-92.5595,22340
+Letcher,Kentucky,"Letcher, Kentucky",37.1212,-82.8553,22295
+Beckham,Oklahoma,"Beckham, Oklahoma",35.2687,-99.682,22268
+Mitchell,Georgia,"Mitchell, Georgia",31.2253,-84.1943,22244
+Adair,Oklahoma,"Adair, Oklahoma",35.8839,-94.6587,22220
+Bandera,Texas,"Bandera, Texas",29.7472,-99.2463,22215
+Mahaska,Iowa,"Mahaska, Iowa",41.3352,-92.6409,22164
+Waynesboro,Virginia,"Waynesboro, Virginia",38.0674,-78.9014,22140
+Washington,Iowa,"Washington, Iowa",41.3356,-91.7179,22100
+Overton,Tennessee,"Overton, Tennessee",36.345,-85.2881,22068
+Tippah,Mississippi,"Tippah, Mississippi",34.7684,-88.9089,22018
+Pointe Coupee,Louisiana,"Pointe Coupee, Louisiana",30.7094,-91.6008,22016
+Wyandot,Ohio,"Wyandot, Ohio",40.8424,-83.3044,22000
+Scott,Tennessee,"Scott, Tennessee",36.4285,-84.5035,21969
+Jersey,Illinois,"Jersey, Illinois",39.0855,-90.3565,21937
+Scott,Virginia,"Scott, Virginia",36.7143,-82.6029,21902
+Taylor,Florida,"Taylor, Florida",30.047,-83.6035,21870
+Hempstead,Arkansas,"Hempstead, Arkansas",33.7353,-93.6685,21842
+Buchanan,Virginia,"Buchanan, Virginia",37.2666,-82.036,21788
+Vilas,Wisconsin,"Vilas, Wisconsin",46.0529,-89.5148,21751
+Shelby,Illinois,"Shelby, Illinois",39.3911,-88.8055,21737
+Henry,Missouri,"Henry, Missouri",38.3852,-93.7928,21735
+Nobles,Minnesota,"Nobles, Minnesota",43.6742,-95.7534,21734
+Klickitat,Washington,"Klickitat, Washington",45.8738,-120.7891,21721
+Putnam,Georgia,"Putnam, Georgia",33.3218,-83.3728,21691
+Pacific,Washington,"Pacific, Washington",46.5557,-123.7041,21688
+New Kent,Virginia,"New Kent, Virginia",37.5052,-76.9973,21686
+Calhoun,Texas,"Calhoun, Texas",28.5067,-96.602,21668
+Logan,Arkansas,"Logan, Arkansas",35.2153,-93.7162,21668
+Leelanau,Michigan,"Leelanau, Michigan",44.9386,-85.8118,21652
+Gage,Nebraska,"Gage, Nebraska",40.2619,-96.6894,21594
+Mercer,Kentucky,"Mercer, Kentucky",37.811,-84.8745,21592
+Willacy,Texas,"Willacy, Texas",26.4696,-97.6611,21588
+Jo Daviess,Illinois,"Jo Daviess, Illinois",42.3658,-90.2125,21588
+Fayette,Illinois,"Fayette, Illinois",39.0002,-89.0241,21565
+Morgan,Tennessee,"Morgan, Tennessee",36.135,-84.6492,21545
+Wabasha,Minnesota,"Wabasha, Minnesota",44.2843,-92.2303,21537
+Tyler,Texas,"Tyler, Texas",30.7712,-94.3766,21518
+Madison,North Carolina,"Madison, North Carolina",35.858,-82.7058,21499
+Yell,Arkansas,"Yell, Arkansas",35.0026,-93.4112,21464
+McDuffie,Georgia,"McDuffie, Georgia",33.4829,-82.4814,21455
+Colusa,California,"Colusa, California",39.1775,-122.237,21454
+Moore,Texas,"Moore, Texas",35.8377,-101.893,21399
+Newton,Mississippi,"Newton, Mississippi",32.4002,-89.1188,21360
+Barnwell,South Carolina,"Barnwell, South Carolina",33.266,-81.435,21346
+Hutchinson,Texas,"Hutchinson, Texas",35.84,-101.3547,21344
+St. James,Louisiana,"St. James, Louisiana",30.0263,-90.7963,21308
+Wyoming,West Virginia,"Wyoming, West Virginia",37.6096,-81.5492,21281
+Sevier,Utah,"Sevier, Utah",38.7478,-111.8044,21280
+Monroe,Alabama,"Monroe, Alabama",31.5709,-87.3655,21270
+Perry,Illinois,"Perry, Illinois",38.0837,-89.367,21251
+Colorado,Texas,"Colorado, Texas",29.6208,-96.5263,21224
+Saunders,Nebraska,"Saunders, Nebraska",41.2264,-96.6374,21165
+Buchanan,Iowa,"Buchanan, Iowa",42.4708,-91.8379,21118
+Meriwether,Georgia,"Meriwether, Georgia",33.0407,-84.6883,21106
+Grenada,Mississippi,"Grenada, Mississippi",33.7699,-89.8019,21088
+Llano,Texas,"Llano, Texas",30.7057,-98.6841,21047
+Greene,North Carolina,"Greene, North Carolina",35.485,-77.6758,21033
+Hubbard,Minnesota,"Hubbard, Minnesota",47.1086,-94.9166,21019
+Stutsman,North Dakota,"Stutsman, North Dakota",46.9793,-98.9588,20965
+Fillmore,Minnesota,"Fillmore, Minnesota",43.674,-92.0902,20949
+Allen,Kentucky,"Allen, Kentucky",36.7513,-86.1904,20944
+Ogemaw,Michigan,"Ogemaw, Michigan",44.335,-84.1264,20898
+Lampasas,Texas,"Lampasas, Texas",31.1962,-98.2415,20862
+Conway,Arkansas,"Conway, Arkansas",35.2622,-92.7013,20858
+Lincoln,West Virginia,"Lincoln, West Virginia",38.1753,-82.0704,20850
+Jay,Indiana,"Jay, Indiana",40.438,-85.0057,20840
+Owen,Indiana,"Owen, Indiana",39.3128,-86.8377,20835
+Dodge,Georgia,"Dodge, Georgia",32.1722,-83.1684,20829
+Texas,Oklahoma,"Texas, Oklahoma",36.7479,-101.4901,20805
+La Paz,Arizona,"La Paz, Arizona",33.7294,-113.9816,20793
+Gonzales,Texas,"Gonzales, Texas",29.4567,-97.4925,20731
+Sullivan,Indiana,"Sullivan, Indiana",39.0888,-87.4147,20730
+Woodward,Oklahoma,"Woodward, Oklahoma",36.4227,-99.2651,20727
+Gaines,Texas,"Gaines, Texas",32.7408,-102.6352,20706
+Minidoka,Idaho,"Minidoka, Idaho",42.8543,-113.6375,20705
+Dodge,Minnesota,"Dodge, Minnesota",44.0226,-92.862,20669
+Vernon,Missouri,"Vernon, Missouri",37.8506,-94.3424,20595
+Jones,Iowa,"Jones, Iowa",42.1212,-91.1315,20559
+Polk,North Carolina,"Polk, North Carolina",35.2793,-82.1697,20557
+Wayne,Kentucky,"Wayne, Kentucky",36.8013,-84.8286,20546
+Jackson,Wisconsin,"Jackson, Wisconsin",44.3192,-90.8052,20522
+Clinton,Missouri,"Clinton, Missouri",39.6018,-94.4046,20500
+Worth,Georgia,"Worth, Georgia",31.5515,-83.8509,20494
+Uinta,Wyoming,"Uinta, Wyoming",41.2876,-110.5476,20479
+Spencer,Indiana,"Spencer, Indiana",38.0141,-87.0077,20447
+Washington,Georgia,"Washington, Georgia",32.9695,-82.7959,20436
+Kewaunee,Wisconsin,"Kewaunee, Wisconsin",44.5161,-87.6153,20387
+Wayne,Mississippi,"Wayne, Mississippi",31.6408,-88.6958,20373
+Clay,Kentucky,"Clay, Kentucky",37.1597,-83.7147,20368
+Washington,Nebraska,"Washington, Nebraska",41.5311,-96.222,20361
+Richland,Louisiana,"Richland, Louisiana",32.4178,-91.7635,20350
+DeWitt,Texas,"DeWitt, Texas",29.0821,-97.3567,20340
+Taylor,Wisconsin,"Taylor, Wisconsin",45.2116,-90.5012,20325
+Carbon,Utah,"Carbon, Utah",39.6481,-110.5887,20308
+Saluda,South Carolina,"Saluda, South Carolina",34.0061,-81.7269,20303
+Carroll,Iowa,"Carroll, Iowa",42.0362,-94.8606,20281
+Morgan,Missouri,"Morgan, Missouri",38.4237,-92.886,20271
+Ashley,Arkansas,"Ashley, Arkansas",33.1912,-91.7685,20270
+Winneshiek,Iowa,"Winneshiek, Iowa",43.2906,-91.8437,20262
+Pickens,Alabama,"Pickens, Alabama",33.2808,-88.0888,20243
+Franklin,Louisiana,"Franklin, Louisiana",32.1332,-91.6738,20238
+Cherokee,Kansas,"Cherokee, Kansas",37.1693,-94.8463,20179
+Breckinridge,Kentucky,"Breckinridge, Kentucky",37.7734,-86.4293,20176
+Dakota,Nebraska,"Dakota, Nebraska",42.3911,-96.5646,20173
+Duchesne,Utah,"Duchesne, Utah",40.2982,-110.4252,20148
+Labette,Kansas,"Labette, Kansas",37.1913,-95.2976,20119
+Fulton,Indiana,"Fulton, Indiana",41.047,-86.2635,20096
+Adams,Wisconsin,"Adams, Wisconsin",43.9695,-89.7704,20094
+Polk,Arkansas,"Polk, Arkansas",34.4859,-94.2281,20094
+Carroll,Indiana,"Carroll, Indiana",40.5828,-86.5635,20074
+Buena Vista,Iowa,"Buena Vista, Iowa",42.7355,-95.1511,20058
+Bourbon,Kentucky,"Bourbon, Kentucky",38.2067,-84.2172,20058
+Lavaca,Texas,"Lavaca, Texas",29.3843,-96.9301,20021
+Northampton,North Carolina,"Northampton, North Carolina",36.4178,-77.3969,19946
+Jones,Texas,"Jones, Texas",32.7399,-99.8788,19943
+Henry,Iowa,"Henry, Iowa",40.988,-91.5445,19941
+Warren,North Carolina,"Warren, North Carolina",36.3965,-78.1067,19898
+Frio,Texas,"Frio, Texas",28.8678,-99.1082,19871
+Davison,South Dakota,"Davison, South Dakota",43.6747,-98.146,19871
+Martin,Minnesota,"Martin, Minnesota",43.6743,-94.5512,19852
+DeKalb,Tennessee,"DeKalb, Tennessee",35.9799,-85.8328,19847
+Butler,Alabama,"Butler, Alabama",31.7524,-86.6803,19828
+Fayette,Iowa,"Fayette, Iowa",42.8626,-91.8444,19803
+Concordia,Louisiana,"Concordia, Louisiana",31.4459,-91.6401,19778
+Smith,Tennessee,"Smith, Tennessee",36.2505,-85.9567,19740
+McIntosh,Oklahoma,"McIntosh, Oklahoma",35.3736,-95.6668,19725
+Freestone,Texas,"Freestone, Texas",31.7049,-96.1491,19714
+Clay,Mississippi,"Clay, Mississippi",33.6557,-88.7815,19640
+Douglas,Illinois,"Douglas, Illinois",39.7694,-88.2174,19623
+Adams,Washington,"Adams, Washington",46.9834,-118.5606,19594
+Hampton,South Carolina,"Hampton, South Carolina",32.7763,-81.1407,19564
+Chaffee,Colorado,"Chaffee, Colorado",38.747,-106.1941,19557
+Orange,Indiana,"Orange, Indiana",38.5418,-86.495,19545
+Lincoln,Montana,"Lincoln, Montana",48.5424,-115.4051,19537
+Kent,Maryland,"Kent, Maryland",39.2545,-76.0399,19536
+Greene,Virginia,"Greene, Virginia",38.2976,-78.4669,19519
+Montague,Texas,"Montague, Texas",33.6757,-97.7246,19489
+Union,Tennessee,"Union, Tennessee",36.2879,-83.8375,19488
+Lincoln,New Mexico,"Lincoln, New Mexico",33.7453,-105.4593,19461
+Tishomingo,Mississippi,"Tishomingo, Mississippi",34.7404,-88.2393,19441
+Holmes,Florida,"Holmes, Florida",30.8679,-85.814,19432
+Jackson,Iowa,"Jackson, Iowa",42.1717,-90.5743,19401
+Bertie,North Carolina,"Bertie, North Carolina",36.0662,-76.9787,19380
+East Feliciana,Louisiana,"East Feliciana, Louisiana",30.8451,-91.0455,19371
+Marengo,Alabama,"Marengo, Alabama",32.2477,-87.7895,19321
+Lincoln,Wyoming,"Lincoln, Wyoming",42.2639,-110.656,19274
+Pierce,Georgia,"Pierce, Georgia",31.3588,-82.2128,19250
+Marion,Kentucky,"Marion, Kentucky",37.5525,-85.2696,19244
+Adair,Kentucky,"Adair, Kentucky",37.1042,-85.2806,19222
+Perry,Missouri,"Perry, Missouri",37.7072,-89.8244,19191
+Elbert,Georgia,"Elbert, Georgia",34.1168,-82.8401,19166
+Berrien,Georgia,"Berrien, Georgia",31.276,-83.2296,19152
+Langlade,Wisconsin,"Langlade, Wisconsin",45.2624,-89.0719,19146
+Benton,Missouri,"Benton, Missouri",38.2948,-93.2879,19107
+Perry,Indiana,"Perry, Indiana",38.0796,-86.638,19102
+Covington,Mississippi,"Covington, Mississippi",31.6332,-89.5526,18978
+Crawford,Illinois,"Crawford, Illinois",39.0027,-87.7596,18972
+Jefferson,Kansas,"Jefferson, Kansas",39.2358,-95.3834,18890
+Roosevelt,New Mexico,"Roosevelt, New Mexico",34.0212,-103.48,18888
+Dickinson,Kansas,"Dickinson, Kansas",38.8665,-97.1527,18828
+Paulding,Ohio,"Paulding, Ohio",41.1166,-84.5802,18809
+Brantley,Georgia,"Brantley, Georgia",31.1969,-81.9819,18756
+Green Lake,Wisconsin,"Green Lake, Wisconsin",43.8004,-89.0449,18755
+Waseca,Minnesota,"Waseca, Minnesota",44.0221,-93.5873,18740
+Deaf Smith,Texas,"Deaf Smith, Texas",34.966,-102.605,18736
+Hart,Kentucky,"Hart, Kentucky",37.2999,-85.8847,18729
+Harrison,Kentucky,"Harrison, Kentucky",38.4418,-84.3314,18722
+Macon,Alabama,"Macon, Alabama",32.3859,-85.6927,18708
+Banks,Georgia,"Banks, Georgia",34.3541,-83.4974,18708
+Long,Georgia,"Long, Georgia",31.7526,-81.7457,18692
+Spencer,Kentucky,"Spencer, Kentucky",38.0325,-85.3278,18680
+Lamar,Georgia,"Lamar, Georgia",33.0765,-84.1395,18672
+McDowell,West Virginia,"McDowell, West Virginia",37.3785,-81.6536,18661
+Plumas,California,"Plumas, California",40.0046,-120.8385,18660
+Houston,Minnesota,"Houston, Minnesota",43.6714,-91.4929,18648
+Los Alamos,New Mexico,"Los Alamos, New Mexico",35.8694,-106.3074,18625
+Phillips,Arkansas,"Phillips, Arkansas",34.4283,-90.848,18606
+Morgan,Georgia,"Morgan, Georgia",33.5909,-83.4923,18507
+Madison,Florida,"Madison, Florida",30.4441,-83.4701,18460
+Cedar,Iowa,"Cedar, Iowa",41.7723,-91.1324,18457
+Pike,Missouri,"Pike, Missouri",39.3438,-91.1714,18455
+Appling,Georgia,"Appling, Georgia",31.7492,-82.2889,18440
+Attala,Mississippi,"Attala, Mississippi",33.0863,-89.5815,18437
+Humphreys,Tennessee,"Humphreys, Tennessee",36.0408,-87.7756,18435
+Drew,Arkansas,"Drew, Arkansas",33.5895,-91.72,18417
+Poweshiek,Iowa,"Poweshiek, Iowa",41.6864,-92.5315,18388
+Beadle,South Dakota,"Beadle, South Dakota",44.4145,-98.2781,18346
+Pike,Georgia,"Pike, Georgia",33.0923,-84.3892,18327
+Bosque,Texas,"Bosque, Texas",31.9004,-97.6343,18296
+Otero,Colorado,"Otero, Colorado",37.9026,-103.7165,18282
+Stone,Mississippi,"Stone, Mississippi",30.79,-89.1177,18276
+Eastland,Texas,"Eastland, Texas",32.3271,-98.8323,18273
+Montour,Pennsylvania,"Montour, Pennsylvania",41.0279,-76.6586,18259
+Winston,Mississippi,"Winston, Mississippi",33.0885,-89.0344,18229
+Fentress,Tennessee,"Fentress, Tennessee",36.3805,-84.9324,18213
+Wright,Missouri,"Wright, Missouri",37.2702,-92.4687,18203
+Simpson,Kentucky,"Simpson, Kentucky",36.742,-86.5822,18183
+Jefferson,Iowa,"Jefferson, Iowa",41.0318,-91.9489,18148
+Bethel,Alaska,"Bethel, Alaska",60.9132,-159.818,18134
+Grant,Arkansas,"Grant, Arkansas",34.29,-92.4236,18126
+Burleson,Texas,"Burleson, Texas",30.4925,-96.6214,18058
+Young,Texas,"Young, Texas",33.1766,-98.6878,18036
+Andrews,Texas,"Andrews, Texas",32.305,-102.6377,18036
+Hancock,Illinois,"Hancock, Illinois",40.4037,-91.1647,17983
+Inyo,California,"Inyo, California",36.5111,-117.4107,17977
+Gilchrist,Florida,"Gilchrist, Florida",29.7258,-82.8004,17953
+Pitkin,Colorado,"Pitkin, Colorado",39.2171,-106.9166,17926
+Schuyler,New York,"Schuyler, New York",42.3938,-76.8752,17920
+Arkansas,Arkansas,"Arkansas, Arkansas",34.2908,-91.3749,17914
+Southampton,Virginia,"Southampton, Virginia",36.7204,-77.1061,17880
+Park,Colorado,"Park, Colorado",39.1193,-105.7171,17867
+Ste. Genevieve,Missouri,"Ste. Genevieve, Missouri",37.8944,-90.1945,17848
+Unicoi,Tennessee,"Unicoi, Tennessee",36.1107,-82.4323,17811
+Russell,Kentucky,"Russell, Kentucky",36.9911,-85.0587,17778
+Yancey,North Carolina,"Yancey, North Carolina",35.8989,-82.3076,17760
+Johnson,Tennessee,"Johnson, Tennessee",36.4549,-81.8518,17753
+Westmoreland,Virginia,"Westmoreland, Virginia",38.1119,-76.8041,17751
+Patrick,Virginia,"Patrick, Virginia",36.6783,-80.2844,17748
+Franklin,Arkansas,"Franklin, Arkansas",35.5123,-93.8906,17738
+Holmes,Mississippi,"Holmes, Mississippi",33.1235,-90.0921,17737
+Morgan,West Virginia,"Morgan, West Virginia",39.5604,-78.2578,17709
+Randolph,Arkansas,"Randolph, Arkansas",36.3415,-91.0277,17695
+Radford,Virginia,"Radford, Virginia",37.1229,-80.5587,17691
+Cooper,Missouri,"Cooper, Missouri",38.8435,-92.8101,17660
+Clayton,Iowa,"Clayton, Iowa",42.8447,-91.3414,17625
+Haywood,Tennessee,"Haywood, Tennessee",35.5832,-89.2838,17623
+Benzie,Michigan,"Benzie, Michigan",44.6387,-86.0155,17615
+Hughes,South Dakota,"Hughes, South Dakota",44.389,-99.996,17608
+Kalkaska,Michigan,"Kalkaska, Michigan",44.6847,-85.0902,17585
+New Madrid,Missouri,"New Madrid, Missouri",36.5946,-89.6517,17560
+Avery,North Carolina,"Avery, North Carolina",36.0765,-81.9226,17506
+Andrew,Missouri,"Andrew, Missouri",39.9835,-94.8021,17503
+McCreary,Kentucky,"McCreary, Kentucky",36.7371,-84.4842,17465
+Richland,Wisconsin,"Richland, Wisconsin",43.3756,-90.4295,17459
+Garrard,Kentucky,"Garrard, Kentucky",37.6396,-84.5377,17445
+Colonial Heights,Virginia,"Colonial Heights, Virginia",37.265,-77.3969,17428
+Mariposa,California,"Mariposa, California",37.5815,-119.9054,17420
+Edgar,Illinois,"Edgar, Illinois",39.6786,-87.7456,17407
+Lee,South Carolina,"Lee, South Carolina",34.1633,-80.2545,17365
+Greene,Georgia,"Greene, Georgia",33.5788,-83.1667,17349
+Gem,Idaho,"Gem, Idaho",44.0616,-116.3975,17331
+Dukes,Massachusetts,"Dukes, Massachusetts",41.3961,-70.6501,17312
+Falls,Texas,"Falls, Texas",31.2533,-96.9359,17272
+Leon,Texas,"Leon, Texas",31.2965,-95.9957,17225
+Chickasaw,Mississippi,"Chickasaw, Mississippi",33.9208,-88.9479,17193
+Chester,Tennessee,"Chester, Tennessee",35.4217,-88.6135,17190
+Delaware,Iowa,"Delaware, Iowa",42.4712,-91.3673,17183
+Cook,Georgia,"Cook, Georgia",31.154,-83.4305,17177
+Seward,Nebraska,"Seward, Nebraska",40.8724,-97.1395,17171
+Warren,Illinois,"Warren, Illinois",40.8488,-90.615,17146
+Sharp,Arkansas,"Sharp, Arkansas",36.1612,-91.4799,17139
+Henry,Alabama,"Henry, Alabama",31.5147,-85.2414,17133
+Dickinson,Iowa,"Dickinson, Iowa",43.3779,-95.1509,17127
+Mason,Kentucky,"Mason, Kentucky",38.5952,-83.8241,17112
+Scurry,Texas,"Scurry, Texas",32.7463,-100.9164,17096
+Sevier,Arkansas,"Sevier, Arkansas",33.9972,-94.2412,17081
+Hardin,Iowa,"Hardin, Iowa",42.3839,-93.2404,17061
+Buckingham,Virginia,"Buckingham, Virginia",37.5722,-78.5288,17059
+Lee,Texas,"Lee, Texas",30.3107,-96.9657,17058
+Crawford,Iowa,"Crawford, Iowa",42.0372,-95.382,17034
+Ben Hill,Georgia,"Ben Hill, Georgia",31.7598,-83.2205,17033
+Tama,Iowa,"Tama, Iowa",42.0798,-92.5326,17032
+Jackson,Arkansas,"Jackson, Arkansas",35.5992,-91.2145,17027
+Robertson,Texas,"Robertson, Texas",31.0271,-96.5128,16990
+Manassas Park,Virginia,"Manassas Park, Virginia",38.7719,-77.445,16986
+Union,Illinois,"Union, Illinois",37.4713,-89.2551,16968
+Parke,Indiana,"Parke, Indiana",39.7736,-87.2064,16946
+Bristol,Virginia,"Bristol, Virginia",36.618,-82.1606,16912
+Taylor,West Virginia,"Taylor, West Virginia",39.336,-80.0462,16864
+Socorro,New Mexico,"Socorro, New Mexico",34.0072,-106.9302,16858
+Piscataquis,Maine,"Piscataquis, Maine",45.8373,-69.2846,16836
+Humboldt,Nevada,"Humboldt, Nevada",41.4068,-118.112,16828
+Cross,Arkansas,"Cross, Arkansas",35.2957,-90.7712,16824
+Rockcastle,Kentucky,"Rockcastle, Kentucky",37.3651,-84.316,16820
+Polk,Tennessee,"Polk, Tennessee",35.1199,-84.5233,16814
+Potter,Pennsylvania,"Potter, Pennsylvania",41.7449,-77.8958,16806
+Gunnison,Colorado,"Gunnison, Colorado",38.6668,-107.0316,16802
+San Juan,Washington,"San Juan, Washington",48.5782,-122.965,16788
+Giles,Virginia,"Giles, Virginia",37.3142,-80.7029,16772
+Lafayette,Wisconsin,"Lafayette, Wisconsin",42.6605,-90.1317,16715
+Wayne,Tennessee,"Wayne, Tennessee",35.2399,-87.7881,16693
+King William,Virginia,"King William, Virginia",37.7066,-77.0886,16688
+Pemiscot,Missouri,"Pemiscot, Missouri",36.2114,-89.7854,16663
+Rabun,Georgia,"Rabun, Georgia",34.8817,-83.4021,16645
+Van Buren,Arkansas,"Van Buren, Arkansas",35.5806,-92.5157,16642
+Rush,Indiana,"Rush, Indiana",39.62,-85.4658,16641
+Barbour,West Virginia,"Barbour, West Virginia",39.133,-80.003,16633
+Dallas,Missouri,"Dallas, Missouri",37.6804,-93.0237,16617
+Dixie,Florida,"Dixie, Florida",29.6082,-83.1588,16589
+Bond,Illinois,"Bond, Illinois",38.8868,-89.4356,16589
+Lawrence,Arkansas,"Lawrence, Arkansas",36.0412,-91.1071,16549
+Washington,Alabama,"Washington, Alabama",31.4076,-88.2078,16541
+Brunswick,Virginia,"Brunswick, Virginia",36.7648,-77.859,16520
+Marshall,Oklahoma,"Marshall, Oklahoma",34.0245,-96.7691,16505
+Jasper,Mississippi,"Jasper, Mississippi",32.0191,-89.1188,16505
+Fayette,Alabama,"Fayette, Alabama",33.7212,-87.7389,16494
+Marion,Arkansas,"Marion, Arkansas",36.2684,-92.6842,16476
+Hill,Montana,"Hill, Montana",48.6282,-110.1112,16436
+Fountain,Indiana,"Fountain, Indiana",40.1209,-87.242,16430
+Pawnee,Oklahoma,"Pawnee, Oklahoma",36.3169,-96.6992,16412
+Idaho,Idaho,"Idaho, Idaho",45.8441,-115.4675,16411
+Wayne,Illinois,"Wayne, Illinois",38.4296,-88.4256,16402
+Piatt,Illinois,"Piatt, Illinois",40.0103,-88.5911,16401
+Sawyer,Wisconsin,"Sawyer, Wisconsin",45.88,-91.1445,16399
+Park,Montana,"Park, Montana",45.4884,-110.5267,16352
+Bates,Missouri,"Bates, Missouri",38.2573,-94.34,16296
+Atchison,Kansas,"Atchison, Kansas",39.5318,-95.3135,16268
+Richland,North Dakota,"Richland, North Dakota",46.2646,-96.9483,16254
+Crawford,Wisconsin,"Crawford, Wisconsin",43.2395,-90.931,16235
+Clay,Iowa,"Clay, Iowa",43.0826,-95.1509,16211
+Madison,Arkansas,"Madison, Arkansas",36.011,-93.7245,16211
+Dade,Georgia,"Dade, Georgia",34.8546,-85.5045,16197
+Iowa,Iowa,"Iowa, Iowa",41.6863,-92.0655,16189
+Lewis,West Virginia,"Lewis, West Virginia",38.9959,-80.5022,16166
+Benton,Tennessee,"Benton, Tennessee",36.0698,-88.0683,16140
+Neosho,Kansas,"Neosho, Kansas",37.5585,-95.3068,16108
+Alamosa,Colorado,"Alamosa, Colorado",37.5729,-105.7883,16107
+Kanabec,Minnesota,"Kanabec, Minnesota",45.9452,-93.2934,16089
+Moniteau,Missouri,"Moniteau, Missouri",38.6328,-92.5831,16046
+Telfair,Georgia,"Telfair, Georgia",31.9298,-82.939,16035
+Lawrence,Illinois,"Lawrence, Illinois",38.72,-87.7268,16033
+Baker,Oregon,"Baker, Oregon",44.7092,-117.6753,16019
+Madison,Iowa,"Madison, Iowa",41.3307,-94.0155,16012
+Smith,Mississippi,"Smith, Mississippi",32.0177,-89.5067,16009
+Claiborne,Louisiana,"Claiborne, Louisiana",32.8226,-92.9958,15985
+Otoe,Nebraska,"Otoe, Nebraska",40.6485,-96.1348,15949
+De Witt,Illinois,"De Witt, Illinois",40.1746,-88.9041,15932
+Henry,Kentucky,"Henry, Kentucky",38.4485,-85.1189,15911
+Casey,Kentucky,"Casey, Kentucky",37.3223,-84.9283,15885
+Osage,Kansas,"Osage, Kansas",38.6523,-95.7269,15881
+Jackson,Louisiana,"Jackson, Louisiana",32.3021,-92.5578,15879
+Aitkin,Minnesota,"Aitkin, Minnesota",46.6082,-93.4154,15834
+Pecos,Texas,"Pecos, Texas",30.781,-102.7235,15815
+Floyd,Iowa,"Floyd, Iowa",43.0599,-92.789,15786
+Clarke,Mississippi,"Clarke, Mississippi",32.0414,-88.6894,15770
+Richland,Illinois,"Richland, Illinois",38.7124,-88.0851,15766
+Grayson,Virginia,"Grayson, Virginia",36.6566,-81.2248,15742
+Clark,Illinois,"Clark, Illinois",39.3336,-87.7877,15716
+Appomattox,Virginia,"Appomattox, Virginia",37.3723,-78.8126,15707
+Floyd,Virginia,"Floyd, Virginia",36.9316,-80.3625,15704
+Kingfisher,Oklahoma,"Kingfisher, Oklahoma",35.9454,-97.9421,15694
+Washburn,Wisconsin,"Washburn, Wisconsin",45.8992,-91.7912,15688
+Pike,Illinois,"Pike, Illinois",39.6225,-90.8863,15672
+Lawrence,Kentucky,"Lawrence, Kentucky",38.0679,-82.7348,15671
+Jefferson,Georgia,"Jefferson, Georgia",33.0549,-82.4182,15618
+Ashland,Wisconsin,"Ashland, Wisconsin",46.3161,-90.6779,15617
+Brooks,Georgia,"Brooks, Georgia",30.842,-83.5802,15590
+Mercer,Illinois,"Mercer, Illinois",41.2053,-90.7414,15589
+Gulf,Florida,"Gulf, Florida",29.9555,-85.2266,15576
+Dent,Missouri,"Dent, Missouri",37.6066,-91.5079,15545
+Karnes,Texas,"Karnes, Texas",28.9057,-97.8594,15545
+Vermillion,Indiana,"Vermillion, Indiana",39.8538,-87.464,15539
+Torrance,New Mexico,"Torrance, New Mexico",34.6405,-105.8508,15519
+Reeves,Texas,"Reeves, Texas",31.323,-103.693,15492
+Wetzel,West Virginia,"Wetzel, West Virginia",39.6053,-80.6391,15436
+Nottoway,Virginia,"Nottoway, Virginia",37.143,-78.0513,15433
+West Feliciana,Louisiana,"West Feliciana, Louisiana",30.8798,-91.42,15428
+Union,South Dakota,"Union, South Dakota",42.8326,-96.656,15368
+Roseau,Minnesota,"Roseau, Minnesota",48.7751,-95.8108,15361
+Marquette,Wisconsin,"Marquette, Wisconsin",43.8196,-89.3987,15304
+Grand,Colorado,"Grand, Colorado",40.1026,-106.1183,15303
+Union,Florida,"Union, Florida",30.0439,-82.3714,15303
+San Juan,Utah,"San Juan, Utah",37.626,-109.8045,15302
+Burnett,Wisconsin,"Burnett, Wisconsin",45.8627,-92.3676,15289
+Page,Iowa,"Page, Iowa",40.7391,-95.1502,15268
+Redwood,Minnesota,"Redwood, Minnesota",44.4037,-95.2538,15261
+Knott,Kentucky,"Knott, Kentucky",37.354,-82.9541,15260
+Carbon,Wyoming,"Carbon, Wyoming",41.6944,-106.9307,15247
+Harrison,Ohio,"Harrison, Ohio",40.2938,-81.0911,15211
+Macon,Missouri,"Macon, Missouri",39.8308,-92.5646,15199
+Tipton,Indiana,"Tipton, Indiana",40.3113,-86.0519,15162
+Alleghany,Virginia,"Alleghany, Virginia",37.7878,-80.0062,15157
+Gooding,Idaho,"Gooding, Idaho",42.971,-114.8115,15148
+Livingston,Missouri,"Livingston, Missouri",39.7821,-93.5483,15126
+Arenac,Michigan,"Arenac, Michigan",44.0647,-83.894,15070
+Brown,Indiana,"Brown, Indiana",39.1962,-86.2274,15064
+Gogebic,Michigan,"Gogebic, Michigan",46.4089,-89.6944,15061
+Jeff Davis,Georgia,"Jeff Davis, Georgia",31.8056,-82.6368,15036
+Mills,Iowa,"Mills, Iowa",41.0334,-95.6213,15034
+Missaukee,Michigan,"Missaukee, Michigan",44.3374,-85.0947,15028
+Mitchell,North Carolina,"Mitchell, North Carolina",36.0133,-82.1636,15004
+Hamilton,Iowa,"Hamilton, Iowa",42.3838,-93.7068,14997
+Bayfield,Wisconsin,"Bayfield, Wisconsin",46.5238,-91.2008,14993
+Kossuth,Iowa,"Kossuth, Iowa",43.2042,-94.2067,14978
+LaSalle,Louisiana,"LaSalle, Louisiana",31.6768,-92.1605,14936
+Oglethorpe,Georgia,"Oglethorpe, Georgia",33.8807,-83.0807,14931
+Williamsburg,Virginia,"Williamsburg, Virginia",37.2692,-76.7076,14927
+Cleburne,Alabama,"Cleburne, Alabama",33.6745,-85.5188,14916
+Nolan,Texas,"Nolan, Texas",32.3035,-100.406,14904
+Sibley,Minnesota,"Sibley, Minnesota",44.5795,-94.2321,14892
+Clay,Arkansas,"Clay, Arkansas",36.3683,-90.4175,14889
+Bledsoe,Tennessee,"Bledsoe, Tennessee",35.5964,-85.2052,14836
+Nelson,Virginia,"Nelson, Virginia",37.7874,-78.8868,14831
+Jackson,Texas,"Jackson, Texas",28.9542,-96.5776,14816
+Sequatchie,Tennessee,"Sequatchie, Tennessee",35.3712,-85.4106,14816
+Hale,Alabama,"Hale, Alabama",32.7627,-87.6291,14809
+Choctaw,Oklahoma,"Choctaw, Oklahoma",34.0266,-95.5522,14807
+Dickenson,Virginia,"Dickenson, Virginia",37.1258,-82.3504,14756
+Gasconade,Missouri,"Gasconade, Missouri",38.4409,-91.5079,14711
+Calhoun,South Carolina,"Calhoun, South Carolina",33.6749,-80.7803,14663
+Renville,Minnesota,"Renville, Minnesota",44.7268,-94.9471,14652
+Moultrie,Illinois,"Moultrie, Illinois",39.6415,-88.6193,14641
+Morgan,Ohio,"Morgan, Ohio",39.6204,-81.8527,14640
+Union,Kentucky,"Union, Kentucky",37.6585,-87.9453,14638
+Butler,Iowa,"Butler, Iowa",42.7316,-92.7902,14628
+Trinity,Texas,"Trinity, Texas",31.0888,-95.1355,14620
+Bourbon,Kansas,"Bourbon, Kansas",37.8552,-94.8493,14608
+Pendleton,Kentucky,"Pendleton, Kentucky",38.6956,-84.3603,14572
+Fleming,Kentucky,"Fleming, Kentucky",38.3701,-83.6967,14513
+Rolette,North Dakota,"Rolette, North Dakota",48.7724,-99.8409,14511
+Fulton,Pennsylvania,"Fulton, Pennsylvania",39.9254,-78.1127,14506
+Calhoun,Mississippi,"Calhoun, Mississippi",33.9365,-89.3365,14499
+Walthall,Mississippi,"Walthall, Mississippi",31.1484,-90.1061,14477
+Carroll,Illinois,"Carroll, Illinois",42.0687,-89.9343,14466
+Trigg,Kentucky,"Trigg, Kentucky",36.8064,-87.8734,14449
+Clarke,Virginia,"Clarke, Virginia",39.1123,-77.9967,14423
+Noble,Ohio,"Noble, Ohio",39.766,-81.4556,14416
+Crockett,Tennessee,"Crockett, Tennessee",35.8135,-89.1395,14399
+Craig,Oklahoma,"Craig, Oklahoma",36.7618,-95.2085,14390
+Bamberg,South Carolina,"Bamberg, South Carolina",33.2148,-81.0542,14376
+Calhoun,Florida,"Calhoun, Florida",30.406,-85.1972,14362
+Oglala Lakota,South Dakota,"Oglala Lakota, South Dakota",43.3355,-102.5516,14335
+Hamilton,Florida,"Hamilton, Florida",30.4964,-82.9479,14326
+Winn,Louisiana,"Winn, Louisiana",31.9443,-92.6367,14313
+Mono,California,"Mono, California",37.9391,-118.8868,14310
+Zapata,Texas,"Zapata, Texas",27.0008,-99.1686,14304
+Saline,Nebraska,"Saline, Nebraska",40.5241,-97.1409,14270
+Las Animas,Colorado,"Las Animas, Colorado",37.3158,-104.0386,14266
+Swain,North Carolina,"Swain, North Carolina",35.4868,-83.4928,14260
+Estill,Kentucky,"Estill, Kentucky",37.6924,-83.9643,14224
+Massac,Illinois,"Massac, Illinois",37.219,-88.7077,14219
+Larue,Kentucky,"Larue, Kentucky",37.5458,-85.6979,14204
+Madison,Texas,"Madison, Texas",30.9655,-95.9284,14197
+Braxton,West Virginia,"Braxton, West Virginia",38.6999,-80.7193,14190
+Pennington,Minnesota,"Pennington, Minnesota",48.0662,-96.0367,14183
+Cannon,Tennessee,"Cannon, Tennessee",35.8087,-86.0618,14178
+McIntosh,Georgia,"McIntosh, Georgia",31.4967,-81.4085,14174
+Jefferson,Florida,"Jefferson, Florida",30.4375,-83.8953,14161
+Tallahatchie,Mississippi,"Tallahatchie, Mississippi",33.9505,-90.1732,14158
+Rusk,Wisconsin,"Rusk, Wisconsin",45.4751,-91.1332,14132
+Falls Church,Virginia,"Falls Church, Virginia",38.8847,-77.1751,14128
+Chowan,North Carolina,"Chowan, North Carolina",36.1508,-76.6079,14097
+Harrison,Iowa,"Harrison, Iowa",41.6829,-95.8168,14089
+Washington,Illinois,"Washington, Illinois",38.3522,-89.4105,14058
+Cedar,Missouri,"Cedar, Missouri",37.7239,-93.8566,14043
+Roane,West Virginia,"Roane, West Virginia",38.714,-81.3483,14020
+Newton,Indiana,"Newton, Indiana",40.9558,-87.3976,13992
+Screven,Georgia,"Screven, Georgia",32.7506,-81.6119,13989
+Clay,South Dakota,"Clay, South Dakota",42.9147,-96.9756,13957
+Murray,Oklahoma,"Murray, Oklahoma",34.4823,-97.0679,13946
+Monroe,Ohio,"Monroe, Ohio",39.7274,-81.0829,13942
+Converse,Wyoming,"Converse, Wyoming",42.9723,-105.5072,13921
+Jasper,Georgia,"Jasper, Georgia",33.3165,-83.688,13916
+Newton,Texas,"Newton, Texas",30.7863,-93.7448,13914
+Crawford,Michigan,"Crawford, Michigan",44.6837,-84.6103,13892
+Lamar,Alabama,"Lamar, Alabama",33.7791,-88.097,13885
+White,Illinois,"White, Illinois",38.0875,-88.1796,13868
+Callahan,Texas,"Callahan, Texas",32.2976,-99.3735,13856
+Crenshaw,Alabama,"Crenshaw, Alabama",31.7315,-86.3135,13844
+O'Brien,Iowa,"O'Brien, Iowa",43.0838,-95.6249,13835
+Atoka,Oklahoma,"Atoka, Oklahoma",34.3736,-96.0378,13823
+Allamakee,Iowa,"Allamakee, Iowa",43.2843,-91.3781,13813
+Hardy,West Virginia,"Hardy, West Virginia",39.0075,-78.8579,13805
+Faribault,Minnesota,"Faribault, Minnesota",43.6739,-93.9479,13801
+Ketchikan Gateway,Alaska,"Ketchikan Gateway, Alaska",55.5852,-130.9288,13800
+York,Nebraska,"York, Nebraska",40.8727,-97.5971,13745
+Dooly,Georgia,"Dooly, Georgia",32.1572,-83.7988,13736
+Glacier,Montana,"Glacier, Montana",48.7051,-112.9947,13732
+Wadena,Minnesota,"Wadena, Minnesota",46.5858,-94.9694,13654
+Greene,Mississippi,"Greene, Mississippi",31.2142,-88.6392,13645
+Mason,Illinois,"Mason, Illinois",40.2396,-89.9168,13621
+Osage,Missouri,"Osage, Missouri",38.4604,-91.8618,13615
+Mississippi,Missouri,"Mississippi, Missouri",36.8281,-89.2911,13574
+Izard,Arkansas,"Izard, Arkansas",36.0949,-91.9134,13570
+Ripley,Missouri,"Ripley, Missouri",36.6528,-90.8638,13567
+Bienville,Louisiana,"Bienville, Louisiana",32.3472,-93.056,13564
+Comanche,Texas,"Comanche, Texas",31.948,-98.5582,13529
+Glades,Florida,"Glades, Florida",26.9564,-81.1891,13516
+Franklin,Idaho,"Franklin, Idaho",42.1811,-111.8132,13464
+Lincoln,Arkansas,"Lincoln, Arkansas",33.9575,-91.7333,13455
+Kodiak Island,Alaska,"Kodiak Island, Alaska",57.677,-153.7806,13451
+Perquimans,North Carolina,"Perquimans, North Carolina",36.2058,-76.4411,13430
+Stewart,Tennessee,"Stewart, Tennessee",36.5012,-87.8384,13427
+Lewis,Kentucky,"Lewis, Kentucky",38.5316,-83.3781,13417
+Price,Wisconsin,"Price, Wisconsin",45.6804,-90.3614,13416
+Monroe,West Virginia,"Monroe, West Virginia",37.5604,-80.5505,13401
+Big Horn,Montana,"Big Horn, Montana",45.4234,-107.4898,13387
+Pend Oreille,Washington,"Pend Oreille, Washington",48.5323,-117.274,13377
+Hughes,Oklahoma,"Hughes, Oklahoma",35.0484,-96.2502,13372
+Jackson,Kentucky,"Jackson, Kentucky",37.4198,-84.0058,13369
+Grundy,Tennessee,"Grundy, Tennessee",35.3884,-85.7226,13344
+Goshen,Wyoming,"Goshen, Wyoming",42.0879,-104.3533,13342
+Clay,Alabama,"Clay, Alabama",33.269,-85.8606,13337
+McKenzie,North Dakota,"McKenzie, North Dakota",47.7402,-103.3953,13334
+Howard,Arkansas,"Howard, Arkansas",34.0888,-93.9935,13311
+Douglas,Missouri,"Douglas, Missouri",36.9326,-92.4988,13306
+Macon,Georgia,"Macon, Georgia",32.3584,-84.0425,13305
+Morgan,Kentucky,"Morgan, Kentucky",37.9223,-83.2589,13288
+Clay,Illinois,"Clay, Illinois",38.7542,-88.4902,13287
+Ford,Illinois,"Ford, Illinois",40.5972,-88.2233,13270
+Jackson,Kansas,"Jackson, Kansas",39.4168,-95.7937,13266
+Archuleta,Colorado,"Archuleta, Colorado",37.1935,-107.0483,13253
+Wayne,Missouri,"Wayne, Missouri",37.1126,-90.4614,13195
+Madison,Virginia,"Madison, Virginia",38.4137,-78.2792,13170
+Greene,Illinois,"Greene, Illinois",39.3562,-90.3905,13132
+Moffat,Colorado,"Moffat, Colorado",40.6184,-108.2074,13127
+Buffalo,Wisconsin,"Buffalo, Wisconsin",44.3798,-91.7545,13126
+Lamb,Texas,"Lamb, Texas",34.0686,-102.3517,13123
+Cass,Iowa,"Cass, Iowa",41.3315,-94.9278,13091
+Vinton,Ohio,"Vinton, Ohio",39.251,-82.4853,13083
+Webster,Kentucky,"Webster, Kentucky",37.5184,-87.6832,13068
+Charlton,Georgia,"Charlton, Georgia",30.7817,-82.1379,13040
+Fremont,Idaho,"Fremont, Idaho",44.2288,-111.4819,13020
+Breathitt,Kentucky,"Breathitt, Kentucky",37.5216,-83.3241,12977
+Amelia,Virginia,"Amelia, Virginia",37.336,-77.9761,12953
+Choctaw,Alabama,"Choctaw, Alabama",32.0198,-88.2632,12925
+Camp,Texas,"Camp, Texas",32.9732,-94.9785,12878
+Millard,Utah,"Millard, Utah",39.0732,-113.1006,12854
+Martinsville,Virginia,"Martinsville, Virginia",36.6827,-79.8636,12852
+Summers,West Virginia,"Summers, West Virginia",37.6559,-80.8586,12848
+Wilbarger,Texas,"Wilbarger, Texas",34.0808,-99.241,12833
+Dawson,Texas,"Dawson, Texas",32.7426,-101.9476,12813
+Bleckley,Georgia,"Bleckley, Georgia",32.4344,-83.3279,12807
+Sumter,Alabama,"Sumter, Alabama",32.5911,-88.1988,12797
+Butler,Kentucky,"Butler, Kentucky",37.2073,-86.6816,12764
+Wright,Iowa,"Wright, Iowa",42.7331,-93.7351,12739
+Lake,South Dakota,"Lake, South Dakota",44.0221,-97.1294,12717
+Presque Isle,Michigan,"Presque Isle, Michigan",45.3402,-83.9176,12714
+Caldwell,Kentucky,"Caldwell, Kentucky",37.1454,-87.8679,12702
+Pamlico,North Carolina,"Pamlico, North Carolina",35.1435,-76.7407,12701
+Trinity,California,"Trinity, California",40.6507,-123.1126,12700
+Haskell,Oklahoma,"Haskell, Oklahoma",35.2248,-95.1166,12687
+Lawrence,Mississippi,"Lawrence, Mississippi",31.5502,-90.107,12633
+Shoshone,Idaho,"Shoshone, Idaho",47.3529,-115.8924,12609
+Pulaski,Indiana,"Pulaski, Indiana",41.0419,-86.6988,12559
+Allen,Kansas,"Allen, Kansas",37.8857,-95.3014,12556
+Terry,Texas,"Terry, Texas",33.1738,-102.3352,12528
+DeKalb,Missouri,"DeKalb, Missouri",39.8932,-94.4047,12526
+Koochiching,Minnesota,"Koochiching, Minnesota",48.2453,-93.7834,12515
+Johnson,Illinois,"Johnson, Illinois",37.4597,-88.8809,12494
+Cass,Illinois,"Cass, Illinois",39.9735,-90.2474,12493
+Magoffin,Kentucky,"Magoffin, Kentucky",37.7065,-83.0649,12491
+Stone,Arkansas,"Stone, Arkansas",35.8599,-92.1567,12475
+Appanoose,Iowa,"Appanoose, Iowa",40.7432,-92.8686,12452
+Amite,Mississippi,"Amite, Mississippi",31.1744,-90.8044,12412
+Conecuh,Alabama,"Conecuh, Alabama",31.4292,-86.9937,12394
+Pike,Indiana,"Pike, Indiana",38.3988,-87.2322,12378
+Morris,Texas,"Morris, Texas",33.1135,-94.7327,12373
+Yalobusha,Mississippi,"Yalobusha, Mississippi",34.0282,-89.7077,12367
+Union,Iowa,"Union, Iowa",41.0277,-94.2424,12358
+Bath,Kentucky,"Bath, Kentucky",38.145,-83.7427,12355
+Little River,Arkansas,"Little River, Arkansas",33.7005,-94.2343,12347
+Crawford,Georgia,"Crawford, Georgia",32.7145,-83.9863,12325
+Todd,Kentucky,"Todd, Kentucky",36.8357,-87.1792,12316
+Menard,Illinois,"Menard, Illinois",40.0274,-89.8022,12306
+Powell,Kentucky,"Powell, Kentucky",37.8311,-83.8237,12304
+Grundy,Iowa,"Grundy, Iowa",42.4019,-92.7914,12299
+Lunenburg,Virginia,"Lunenburg, Virginia",36.9462,-78.2406,12282
+Fulton,Arkansas,"Fulton, Arkansas",36.3817,-91.8182,12231
+Bollinger,Missouri,"Bollinger, Missouri",37.3222,-90.0259,12225
+Northumberland,Virginia,"Northumberland, Virginia",37.8876,-76.4197,12190
+Madison,Missouri,"Madison, Missouri",37.478,-90.345,12179
+Red River,Texas,"Red River, Texas",33.6207,-95.0503,12171
+Colfax,New Mexico,"Colfax, New Mexico",36.6061,-104.6468,12168
+Live Oak,Texas,"Live Oak, Texas",28.3514,-98.1248,12139
+Edmonson,Kentucky,"Edmonson, Kentucky",37.2088,-86.2384,12138
+Linn,Missouri,"Linn, Missouri",39.8702,-93.1072,12113
+Meigs,Tennessee,"Meigs, Tennessee",35.5128,-84.8134,12104
+Poquoson,Virginia,"Poquoson, Virginia",37.1318,-76.3569,12090
+Okfuskee,Oklahoma,"Okfuskee, Oklahoma",35.4655,-96.3228,12067
+Charlotte,Virginia,"Charlotte, Virginia",37.0116,-78.6616,12040
+Zavala,Texas,"Zavala, Texas",28.8662,-99.7606,12039
+Lewis,Tennessee,"Lewis, Tennessee",35.5273,-87.4931,12027
+Chickasaw,Iowa,"Chickasaw, Iowa",43.0601,-92.3177,12026
+Washington,Kentucky,"Washington, Kentucky",37.7534,-85.1748,12023
+Prowers,Colorado,"Prowers, Colorado",37.9552,-102.3934,12022
+Blackford,Indiana,"Blackford, Indiana",40.4736,-85.3248,12013
+Perry,Mississippi,"Perry, Mississippi",31.172,-88.9924,12006
+Marion,Kansas,"Marion, Kansas",38.3589,-97.0969,11964
+Chippewa,Minnesota,"Chippewa, Minnesota",45.0224,-95.5667,11953
+Washington,North Carolina,"Washington, North Carolina",35.8226,-76.5775,11922
+Jefferson,Montana,"Jefferson, Montana",46.1485,-112.0938,11917
+Northampton,Virginia,"Northampton, Virginia",37.343,-75.877,11885
+Big Horn,Wyoming,"Big Horn, Wyoming",44.5267,-107.9952,11882
+Lake,Michigan,"Lake, Michigan",43.9901,-85.8016,11852
+Boundary,Idaho,"Boundary, Idaho",48.7669,-116.4629,11845
+Franklin,Florida,"Franklin, Florida",29.8765,-84.814,11811
+Barton,Missouri,"Barton, Missouri",37.5023,-94.3471,11797
+Lyon,Iowa,"Lyon, Iowa",43.3805,-96.2102,11776
+Rains,Texas,"Rains, Texas",32.8703,-95.7934,11766
+Skamania,Washington,"Skamania, Washington",46.023,-121.9147,11753
+Heard,Georgia,"Heard, Georgia",33.297,-85.1283,11736
+Custer,Montana,"Custer, Montana",46.2527,-105.5717,11729
+Desha,Arkansas,"Desha, Arkansas",33.8333,-91.254,11709
+Decatur,Tennessee,"Decatur, Tennessee",35.603,-88.1088,11686
+Jackson,Tennessee,"Jackson, Tennessee",36.3592,-85.6732,11682
+Sanders,Montana,"Sanders, Montana",47.6748,-115.1333,11681
+Marshall,Illinois,"Marshall, Illinois",41.0332,-89.3448,11679
+Morgan,Utah,"Morgan, Utah",41.0893,-111.5732,11664
+Ward,Texas,"Ward, Texas",31.5095,-103.1025,11658
+Martin,Kentucky,"Martin, Kentucky",37.8016,-82.5132,11648
+Towns,Georgia,"Towns, Georgia",34.9167,-83.7373,11617
+Grant,West Virginia,"Grant, West Virginia",39.1051,-79.1956,11616
+Shelby,Iowa,"Shelby, Iowa",41.6851,-95.3102,11606
+Ramsey,North Dakota,"Ramsey, North Dakota",48.2689,-98.7201,11583
+Owyhee,Idaho,"Owyhee, Idaho",42.5815,-116.1699,11552
+Gates,North Carolina,"Gates, North Carolina",36.4449,-76.7005,11548
+Wabash,Illinois,"Wabash, Illinois",38.4461,-87.8443,11546
+Greensville,Virginia,"Greensville, Virginia",36.6759,-77.5596,11525
+Montgomery,Missouri,"Montgomery, Missouri",38.9415,-91.4702,11487
+Blanco,Texas,"Blanco, Texas",30.2664,-98.3999,11478
+Teton,Idaho,"Teton, Idaho",43.7594,-111.2076,11426
+Sussex,Virginia,"Sussex, Virginia",36.9217,-77.2618,11377
+Cherokee,Iowa,"Cherokee, Iowa",42.7356,-95.6238,11343
+Jefferson Davis,Mississippi,"Jefferson Davis, Mississippi",31.5697,-89.823,11339
+Noble,Oklahoma,"Noble, Oklahoma",36.3886,-97.2305,11335
+Madison,Louisiana,"Madison, Louisiana",32.3644,-91.2426,11306
+Rio Grande,Colorado,"Rio Grande, Colorado",37.5825,-106.3832,11305
+Morrow,Oregon,"Morrow, Oregon",45.4189,-119.5844,11303
+Juab,Utah,"Juab, Utah",39.7027,-112.7848,11301
+Cottonwood,Minnesota,"Cottonwood, Minnesota",44.0071,-95.1812,11299
+Duval,Texas,"Duval, Texas",27.6814,-98.5089,11268
+Washita,Oklahoma,"Washita, Oklahoma",35.2904,-98.9922,11225
+Fergus,Montana,"Fergus, Montana",47.2636,-109.2245,11221
+Pulaski,Georgia,"Pulaski, Georgia",32.2323,-83.476,11216
+Bacon,Georgia,"Bacon, Georgia",31.5537,-82.4527,11201
+Richland,Montana,"Richland, Montana",47.7879,-104.5614,11199
+Louisa,Iowa,"Louisa, Iowa",41.2185,-91.2596,11178
+Roosevelt,Montana,"Roosevelt, Montana",48.2945,-105.0164,11175
+Nantucket,Massachusetts,"Nantucket, Massachusetts",41.2831,-70.0692,11168
+Iron,Michigan,"Iron, Michigan",46.2087,-88.5305,11152
+Pushmataha,Oklahoma,"Pushmataha, Oklahoma",34.4162,-95.3759,11128
+Johnston,Oklahoma,"Johnston, Oklahoma",34.3165,-96.6606,11064
+Pope,Minnesota,"Pope, Minnesota",45.586,-95.4445,11048
+West Carroll,Louisiana,"West Carroll, Louisiana",32.7885,-91.4568,11041
+Sierra,New Mexico,"Sierra, New Mexico",33.1305,-107.1924,11031
+Alleghany,North Carolina,"Alleghany, North Carolina",36.4913,-81.1279,11008
+Essex,Virginia,"Essex, Virginia",37.9434,-76.9514,10998
+Green,Kentucky,"Green, Kentucky",37.264,-85.5531,10979
+Watonwan,Minnesota,"Watonwan, Minnesota",43.9784,-94.6141,10972
+Box Butte,Nebraska,"Box Butte, Nebraska",42.2198,-103.0857,10970
+Clay,North Carolina,"Clay, North Carolina",35.0572,-83.7502,10946
+Bradley,Arkansas,"Bradley, Arkansas",33.4664,-92.1624,10874
+Cumberland,Illinois,"Cumberland, Illinois",39.2734,-88.2402,10836
+Custer,Nebraska,"Custer, Nebraska",41.3943,-99.7261,10826
+Candler,Georgia,"Candler, Georgia",32.4034,-82.0737,10812
+Hancock,Iowa,"Hancock, Iowa",43.0819,-93.7343,10802
+Owen,Kentucky,"Owen, Kentucky",38.5197,-84.8281,10796
+Mackinac,Michigan,"Mackinac, Michigan",46.0802,-85.0868,10780
+Red Willow,Nebraska,"Red Willow, Nebraska",40.1758,-100.4769,10768
+Coosa,Alabama,"Coosa, Alabama",32.9362,-86.2477,10757
+Pike,Arkansas,"Pike, Arkansas",34.1635,-93.6563,10756
+Walsh,North Dakota,"Walsh, North Dakota",48.3695,-97.7213,10751
+Lancaster,Virginia,"Lancaster, Virginia",37.7345,-76.4632,10724
+Franklin,Texas,"Franklin, Texas",33.1755,-95.2184,10716
+Colfax,Nebraska,"Colfax, Nebraska",41.574,-97.0865,10714
+Valley,Idaho,"Valley, Idaho",44.7666,-115.5663,10709
+Barnes,North Dakota,"Barnes, North Dakota",46.9361,-98.0716,10706
+Noxubee,Mississippi,"Noxubee, Mississippi",33.1101,-88.5697,10700
+Evans,Georgia,"Evans, Georgia",32.1568,-81.8869,10687
+Switzerland,Indiana,"Switzerland, Indiana",38.8262,-85.037,10685
+Wilcox,Alabama,"Wilcox, Alabama",31.9893,-87.3082,10681
+Middlesex,Virginia,"Middlesex, Virginia",37.6303,-76.5697,10675
+Carroll,Kentucky,"Carroll, Kentucky",38.6678,-85.1236,10671
+Guthrie,Iowa,"Guthrie, Iowa",41.6837,-94.5011,10669
+Oregon,Missouri,"Oregon, Missouri",36.6867,-91.4033,10647
+Monroe,Kentucky,"Monroe, Kentucky",36.7122,-85.7165,10627
+Chicot,Arkansas,"Chicot, Arkansas",33.2672,-91.294,10615
+Mitchell,Iowa,"Mitchell, Iowa",43.3564,-92.789,10608
+Carbon,Montana,"Carbon, Montana",45.2274,-109.0281,10597
+Lincoln,Washington,"Lincoln, Washington",47.5763,-118.4187,10574
+Crawford,Indiana,"Crawford, Indiana",38.2924,-86.4517,10569
+Lake,Minnesota,"Lake, Minnesota",47.6409,-91.4457,10560
+Chattahoochee,Georgia,"Chattahoochee, Georgia",32.347,-84.787,10560
+Camden,North Carolina,"Camden, North Carolina",36.3877,-76.2064,10551
+Winnebago,Iowa,"Winnebago, Iowa",43.3775,-93.7341,10534
+Sabine,Texas,"Sabine, Texas",31.3432,-93.8517,10471
+Dimmit,Texas,"Dimmit, Texas",28.4225,-99.7566,10438
+Clay,Texas,"Clay, Texas",33.7855,-98.2085,10403
+Lanier,Georgia,"Lanier, Georgia",31.0379,-83.0628,10380
+Scott,Arkansas,"Scott, Arkansas",34.8608,-94.0633,10376
+Perry,Arkansas,"Perry, Arkansas",34.9474,-92.9315,10355
+Alcona,Michigan,"Alcona, Michigan",44.6854,-83.5937,10353
+Latimer,Oklahoma,"Latimer, Oklahoma",34.876,-95.2504,10348
+Nowata,Oklahoma,"Nowata, Oklahoma",36.7985,-95.6174,10322
+Mountrail,North Dakota,"Mountrail, North Dakota",48.2013,-102.3557,10321
+Early,Georgia,"Early, Georgia",31.3228,-84.9037,10312
+St. Helena,Louisiana,"St. Helena, Louisiana",30.822,-90.7103,10297
+Roberts,South Dakota,"Roberts, South Dakota",45.6296,-96.9461,10287
+Leslie,Kentucky,"Leslie, Kentucky",37.0941,-83.3811,10283
+Runnels,Texas,"Runnels, Texas",31.8311,-99.9762,10277
+Bullock,Alabama,"Bullock, Alabama",32.1005,-85.7157,10248
+Ralls,Missouri,"Ralls, Missouri",39.5277,-91.522,10234
+Trousdale,Tennessee,"Trousdale, Tennessee",36.3921,-86.1568,10231
+Butte,South Dakota,"Butte, South Dakota",44.9058,-103.5079,10225
+Martin,Indiana,"Martin, Indiana",38.708,-86.8031,10212
+Todd,South Dakota,"Todd, South Dakota",43.1934,-100.7185,10195
+Clinton,Kentucky,"Clinton, Kentucky",36.7274,-85.1362,10193
+Keokuk,Iowa,"Keokuk, Iowa",41.3365,-92.1786,10188
+Holt,Nebraska,"Holt, Nebraska",42.4557,-98.7838,10177
+Iron,Missouri,"Iron, Missouri",37.5552,-90.7735,10164
+Franklin,Iowa,"Franklin, Iowa",42.7325,-93.2625,10162
+Ochiltree,Texas,"Ochiltree, Texas",36.2784,-100.8157,10131
+Nemaha,Kansas,"Nemaha, Kansas",39.7834,-96.0141,10121
+Emery,Utah,"Emery, Utah",38.9968,-110.7006,10117
+Lowndes,Alabama,"Lowndes, Alabama",32.1547,-86.6501,10079
+Carroll,Mississippi,"Carroll, Mississippi",33.4485,-89.9202,10070
+Montgomery,Mississippi,"Montgomery, Mississippi",33.494,-89.6164,10068
+Love,Oklahoma,"Love, Oklahoma",33.9499,-97.2441,10063
+Howard,Missouri,"Howard, Missouri",39.1425,-92.6963,10058
+Washington,Idaho,"Washington, Idaho",44.4524,-116.7847,10057
+Montgomery,Iowa,"Montgomery, Iowa",41.0302,-95.1564,10053
+Metcalfe,Kentucky,"Metcalfe, Kentucky",36.9905,-85.6292,10036
+Marion,Texas,"Marion, Texas",32.798,-94.3572,10017
+Yuma,Colorado,"Yuma, Colorado",40.0029,-102.4242,10003
+Caldwell,Louisiana,"Caldwell, Louisiana",32.0923,-92.1166,9992
+Grundy,Missouri,"Grundy, Missouri",40.1139,-93.5653,9992
+Nome,Alaska,"Nome, Alaska",64.9111,-164.0272,9988
+Tunica,Mississippi,"Tunica, Mississippi",34.652,-90.3755,9988
+Lewis,Missouri,"Lewis, Missouri",40.0969,-91.7221,9955
+Jackson,Minnesota,"Jackson, Minnesota",43.6741,-95.154,9954
+Kemper,Mississippi,"Kemper, Mississippi",32.7546,-88.6412,9943
+Sublette,Wyoming,"Sublette, Wyoming",42.7669,-109.9147,9880
+Ritchie,West Virginia,"Ritchie, West Virginia",39.1783,-81.063,9844
+Wilkes,Georgia,"Wilkes, Georgia",33.7819,-82.7432,9844
+Cumberland,Virginia,"Cumberland, Virginia",37.5121,-78.2449,9824
+Yellow Medicine,Minnesota,"Yellow Medicine, Minnesota",44.7163,-95.8684,9814
+Sac,Iowa,"Sac, Iowa",42.3862,-95.1054,9802
+North Slope,Alaska,"North Slope, Alaska",69.3122,-153.481,9792
+Stevens,Minnesota,"Stevens, Minnesota",45.5861,-96.0003,9789
+Webster,Mississippi,"Webster, Mississippi",33.6131,-89.2848,9768
+Catahoula,Louisiana,"Catahoula, Louisiana",31.6661,-91.8471,9766
+Marshall,Kansas,"Marshall, Kansas",39.7836,-96.5229,9749
+Calhoun,Iowa,"Calhoun, Iowa",42.3852,-94.6404,9744
+Parmer,Texas,"Parmer, Texas",34.5301,-102.7845,9718
+Johnson,Georgia,"Johnson, Georgia",32.7015,-82.6601,9691
+White Pine,Nevada,"White Pine, Nevada",39.4421,-114.9016,9679
+Linn,Kansas,"Linn, Kansas",38.2123,-94.843,9671
+Rice,Kansas,"Rice, Kansas",38.3472,-98.201,9658
+Grand,Utah,"Grand, Utah",38.982,-109.5699,9640
+Brown,Kansas,"Brown, Kansas",39.8265,-95.5642,9626
+Cheyenne,Nebraska,"Cheyenne, Nebraska",41.2198,-102.995,9604
+Jones,North Carolina,"Jones, North Carolina",35.0217,-77.3552,9594
+Jasper,Illinois,"Jasper, Illinois",39.0101,-88.1538,9594
+McLean,North Dakota,"McLean, North Dakota",47.6069,-101.3218,9584
+Blaine,Oklahoma,"Blaine, Oklahoma",35.8752,-98.4334,9556
+Humboldt,Iowa,"Humboldt, Iowa",42.7765,-94.2072,9554
+McCormick,South Carolina,"McCormick, South Carolina",33.8996,-82.3099,9531
+Greenlee,Arizona,"Greenlee, Arizona",33.2152,-109.2402,9522
+Clear Creek,Colorado,"Clear Creek, Colorado",39.6891,-105.6444,9495
+Stillwater,Montana,"Stillwater, Montana",45.669,-109.3952,9466
+Pratt,Kansas,"Pratt, Kansas",37.6477,-98.7396,9452
+Emmet,Iowa,"Emmet, Iowa",43.3779,-94.6784,9438
+Beaverhead,Montana,"Beaverhead, Montana",45.1327,-112.8988,9415
+Hickory,Missouri,"Hickory, Missouri",37.9408,-93.3207,9404
+Rock,Minnesota,"Rock, Minnesota",43.6747,-96.2532,9402
+Marshall,Minnesota,"Marshall, Minnesota",48.3581,-96.3685,9372
+St. Clair,Missouri,"St. Clair, Missouri",38.0372,-93.776,9370
+Stephens,Texas,"Stephens, Texas",32.7359,-98.8362,9364
+Clarke,Iowa,"Clarke, Iowa",41.029,-93.7852,9360
+Swift,Minnesota,"Swift, Minnesota",45.2827,-95.6814,9359
+Charles Mix,South Dakota,"Charles Mix, South Dakota",43.2079,-98.5879,9349
+Wayne,Nebraska,"Wayne, Nebraska",42.2093,-97.1193,9332
+Irwin,Georgia,"Irwin, Georgia",31.6022,-83.2764,9320
+Perry,Alabama,"Perry, Alabama",32.6385,-87.2944,9293
+McLean,Kentucky,"McLean, Kentucky",37.5292,-87.2636,9283
+Montmorency,Michigan,"Montmorency, Michigan",45.0276,-84.1272,9265
+Valdez-Cordova,Alaska,"Valdez-Cordova, Alaska",61.562,-144.4686,9243
+Livingston,Kentucky,"Livingston, Kentucky",37.2096,-88.3537,9235
+Brewster,Texas,"Brewster, Texas",29.8119,-103.2517,9231
+Howard,Iowa,"Howard, Iowa",43.3568,-92.3172,9226
+Hamilton,Nebraska,"Hamilton, Nebraska",40.873,-98.0229,9215
+Ozark,Missouri,"Ozark, Missouri",36.6493,-92.4447,9207
+Lee,Arkansas,"Lee, Arkansas",34.7806,-90.7821,9194
+Pipestone,Minnesota,"Pipestone, Minnesota",44.023,-96.2586,9191
+Rosebud,Montana,"Rosebud, Montana",46.2297,-106.7307,9152
+Alger,Michigan,"Alger, Michigan",46.4086,-86.604,9151
+Benewah,Idaho,"Benewah, Idaho",47.2176,-116.6587,9138
+Deer Lodge,Montana,"Deer Lodge, Montana",46.0607,-113.0679,9106
+Phelps,Nebraska,"Phelps, Nebraska",40.5111,-99.4145,9100
+Claiborne,Mississippi,"Claiborne, Mississippi",31.9737,-90.9118,9089
+Montgomery,Georgia,"Montgomery, Georgia",32.1734,-82.5348,9058
+Woods,Oklahoma,"Woods, Oklahoma",36.7669,-98.8651,9043
+Caldwell,Missouri,"Caldwell, Missouri",39.6557,-93.9827,9039
+Allendale,South Carolina,"Allendale, South Carolina",32.9881,-81.3583,9024
+Dawson,Montana,"Dawson, Montana",47.2664,-104.8995,9017
+Wilkinson,Georgia,"Wilkinson, Georgia",32.8024,-83.1712,9010
+Palo Alto,Iowa,"Palo Alto, Iowa",43.0821,-94.6781,9003
+Crittenden,Kentucky,"Crittenden, Kentucky",37.3527,-88.0972,9000
+Forest,Wisconsin,"Forest, Wisconsin",45.6673,-88.7704,8995
+Cuming,Nebraska,"Cuming, Nebraska",41.9164,-96.7874,8952
+Montgomery,Arkansas,"Montgomery, Arkansas",34.5388,-93.6596,8950
+Greene,Iowa,"Greene, Iowa",42.0362,-94.3968,8950
+Cloud,Kansas,"Cloud, Kansas",39.4803,-97.6493,8938
+Davis,Iowa,"Davis, Iowa",40.7477,-92.4097,8920
+Modoc,California,"Modoc, California",41.5898,-120.725,8907
+Kiowa,Oklahoma,"Kiowa, Oklahoma",34.9164,-98.9809,8886
+Richmond,Virginia,"Richmond, Virginia",37.9434,-76.7269,8884
+Wilkinson,Mississippi,"Wilkinson, Mississippi",31.1611,-91.3109,8875
+Somervell,Texas,"Somervell, Texas",32.2223,-97.7744,8860
+Jack,Texas,"Jack, Texas",33.2335,-98.1725,8852
+Wilcox,Georgia,"Wilcox, Georgia",31.9729,-83.4323,8824
+Clearwater,Minnesota,"Clearwater, Minnesota",47.5775,-95.379,8821
+Tyler,West Virginia,"Tyler, West Virginia",39.4653,-80.8848,8811
+Dawes,Nebraska,"Dawes, Nebraska",42.7197,-103.1354,8810
+Maries,Missouri,"Maries, Missouri",38.1616,-91.9249,8803
+Jenkins,Georgia,"Jenkins, Georgia",32.7924,-81.9635,8793
+Mathews,Virginia,"Mathews, Virginia",37.4354,-76.3436,8788
+Carroll,Missouri,"Carroll, Missouri",39.427,-93.5052,8781
+Terrell,Georgia,"Terrell, Georgia",31.777,-84.437,8737
+Gallatin,Kentucky,"Gallatin, Kentucky",38.7569,-84.8593,8737
+Monona,Iowa,"Monona, Iowa",42.0516,-95.9599,8730
+Hancock,Kentucky,"Hancock, Kentucky",37.8415,-86.7779,8720
+Custer,South Dakota,"Custer, South Dakota",43.6776,-103.4515,8719
+Archer,Texas,"Archer, Texas",33.6153,-98.6877,8716
+Clay,West Virginia,"Clay, West Virginia",38.4625,-81.0751,8709
+Wilson,Kansas,"Wilson, Kansas",37.5593,-95.7434,8688
+Benton,Indiana,"Benton, Indiana",40.6063,-87.3109,8677
+Clearwater,Idaho,"Clearwater, Idaho",46.6736,-115.6567,8673
+Sitka,Alaska,"Sitka, Alaska",57.2401,-135.3153,8640
+Lafayette,Florida,"Lafayette, Florida",29.9855,-83.1811,8637
+Yoakum,Texas,"Yoakum, Texas",33.173,-102.8278,8631
+Monroe,Missouri,"Monroe, Missouri",39.4955,-92.0007,8629
+Lucas,Iowa,"Lucas, Iowa",41.0294,-93.3277,8583
+Platte,Wyoming,"Platte, Wyoming",42.1331,-104.9659,8582
+Red River,Louisiana,"Red River, Louisiana",32.0931,-93.3399,8565
+Doddridge,West Virginia,"Doddridge, West Virginia",39.2692,-80.707,8560
+Trimble,Kentucky,"Trimble, Kentucky",38.613,-85.3375,8558
+Mitchell,Texas,"Mitchell, Texas",32.3062,-100.9211,8523
+Hancock,Georgia,"Hancock, Georgia",33.2704,-83.0007,8515
+Graham,North Carolina,"Graham, North Carolina",35.3502,-83.8335,8509
+Cedar,Nebraska,"Cedar, Nebraska",42.5993,-97.2524,8498
+Harrison,Missouri,"Harrison, Missouri",40.3547,-93.992,8491
+Johnson,Wyoming,"Johnson, Wyoming",44.0388,-106.5846,8487
+Mercer,North Dakota,"Mercer, North Dakota",47.3092,-101.8315,8462
+Pocahontas,West Virginia,"Pocahontas, West Virginia",38.3318,-80.0078,8450
+Marion,Georgia,"Marion, Georgia",32.3534,-84.5247,8432
+Knox,Nebraska,"Knox, Nebraska",42.6368,-97.8919,8426
+Baraga,Michigan,"Baraga, Michigan",46.6626,-88.3652,8421
+Humphreys,Mississippi,"Humphreys, Mississippi",33.1287,-90.5266,8389
+Webster,West Virginia,"Webster, West Virginia",38.4947,-80.4219,8386
+Nevada,Arkansas,"Nevada, Arkansas",33.664,-93.3072,8351
+Liberty,Florida,"Liberty, Florida",30.2414,-84.8829,8345
+Coleman,Texas,"Coleman, Texas",31.7732,-99.4536,8334
+Hamilton,Texas,"Hamilton, Texas",31.7048,-98.1107,8332
+Quay,New Mexico,"Quay, New Mexico",35.1043,-103.5498,8326
+Greene,Alabama,"Greene, Alabama",32.8531,-87.9522,8324
+Seminole,Georgia,"Seminole, Georgia",30.9388,-84.8688,8321
+Bracken,Kentucky,"Bracken, Kentucky",38.6888,-84.0901,8305
+Madison,Montana,"Madison, Montana",45.3007,-111.9203,8302
+Turner,South Dakota,"Turner, South Dakota",43.3109,-97.1487,8300
+Murray,Minnesota,"Murray, Minnesota",44.0222,-95.7633,8296
+Daviess,Missouri,"Daviess, Missouri",39.9608,-93.9855,8295
+San Augustine,Texas,"San Augustine, Texas",31.3942,-94.1682,8286
+Choctaw,Mississippi,"Choctaw, Mississippi",33.3473,-89.2484,8277
+Lyon,Kentucky,"Lyon, Kentucky",37.0191,-88.0832,8271
+Coffey,Kansas,"Coffey, Kansas",38.2369,-95.7341,8254
+Kusilvak,Alaska,"Kusilvak, Alaska",62.155,-163.3826,8250
+Oscoda,Michigan,"Oscoda, Michigan",44.6818,-84.1298,8248
+Atkinson,Georgia,"Atkinson, Georgia",31.2971,-82.8801,8239
+Warren,Indiana,"Warren, Indiana",40.3469,-87.3533,8237
+Benton,Mississippi,"Benton, Mississippi",34.8173,-89.1885,8232
+Twiggs,Georgia,"Twiggs, Georgia",32.6672,-83.4271,8229
+Shannon,Missouri,"Shannon, Missouri",37.1574,-91.4005,8217
+Prairie,Arkansas,"Prairie, Arkansas",34.8298,-91.5528,8189
+Hamilton,Illinois,"Hamilton, Illinois",38.0815,-88.5391,8176
+Houston,Tennessee,"Houston, Tennessee",36.286,-87.717,8164
+Franklin,Virginia,"Franklin, Virginia",36.6831,-76.9386,8147
+Cleveland,Arkansas,"Cleveland, Arkansas",33.8984,-92.1852,8128
+Conejos,Colorado,"Conejos, Colorado",37.2007,-106.1916,8128
+Taylor,Georgia,"Taylor, Georgia",32.5555,-84.2505,8116
+Clay,Kansas,"Clay, Kansas",39.3497,-97.1652,8082
+Keith,Nebraska,"Keith, Nebraska",41.1989,-101.6613,8068
+McCulloch,Texas,"McCulloch, Texas",31.1989,-99.3476,8057
+San Miguel,Colorado,"San Miguel, Colorado",38.0038,-108.4057,8049
+Schoolcraft,Michigan,"Schoolcraft, Michigan",46.1966,-86.1997,8048
+Gilmer,West Virginia,"Gilmer, West Virginia",38.924,-80.8571,8041
+Ballard,Kentucky,"Ballard, Kentucky",37.0585,-88.9993,8032
+Butler,Nebraska,"Butler, Nebraska",41.2261,-97.1318,8029
+Washakie,Wyoming,"Washakie, Wyoming",43.905,-107.6827,8027
+Traill,North Dakota,"Traill, North Dakota",47.4542,-97.1616,8008
+Decatur,Iowa,"Decatur, Iowa",40.7377,-93.7863,7979
+Perry,Tennessee,"Perry, Tennessee",35.6426,-87.8589,7962
+Richardson,Nebraska,"Richardson, Nebraska",40.125,-95.7175,7961
+Turner,Georgia,"Turner, Georgia",31.7164,-83.6241,7943
+Wheeler,Georgia,"Wheeler, Georgia",32.1171,-82.7246,7928
+Searcy,Arkansas,"Searcy, Arkansas",35.9109,-92.6996,7908
+Winkler,Texas,"Winkler, Texas",31.85,-103.0483,7867
+Lincoln,Georgia,"Lincoln, Georgia",33.7936,-82.4512,7856
+Lemhi,Idaho,"Lemhi, Idaho",44.9433,-113.9333,7847
+Lake,Oregon,"Lake, Oregon",42.7935,-120.3874,7837
+Anderson,Kansas,"Anderson, Kansas",38.2142,-95.2933,7835
+Newton,Arkansas,"Newton, Arkansas",35.92,-93.2179,7812
+Thomas,Kansas,"Thomas, Kansas",39.3509,-101.0556,7810
+Monroe,Iowa,"Monroe, Iowa",41.0298,-92.869,7807
+Merrick,Nebraska,"Merrick, Nebraska",41.169,-98.038,7798
+Lake,Colorado,"Lake, Colorado",39.2025,-106.3448,7751
+Franklin,Mississippi,"Franklin, Mississippi",31.4772,-90.8979,7733
+Northwest Arctic,Alaska,"Northwest Arctic, Alaska",67.053,-159.721,7715
+Major,Oklahoma,"Major, Oklahoma",36.3116,-98.5359,7692
+Doniphan,Kansas,"Doniphan, Kansas",39.7881,-95.1468,7684
+Castro,Texas,"Castro, Texas",34.5299,-102.2617,7673
+Power,Idaho,"Power, Idaho",42.6937,-112.8407,7671
+Clay,Tennessee,"Clay, Tennessee",36.5511,-85.5439,7654
+Dade,Missouri,"Dade, Missouri",37.4321,-93.8503,7578
+Ferry,Washington,"Ferry, Washington",48.4703,-118.5166,7578
+Goliad,Texas,"Goliad, Texas",28.6571,-97.4264,7565
+Elliott,Kentucky,"Elliott, Kentucky",38.1179,-83.0976,7510
+Kane,Utah,"Kane, Utah",37.2851,-111.8878,7484
+Chariton,Missouri,"Chariton, Missouri",39.5151,-92.9626,7483
+Pleasants,West Virginia,"Pleasants, West Virginia",39.371,-81.1606,7482
+Crook,Wyoming,"Crook, Wyoming",44.5885,-104.5699,7472
+Valley,Montana,"Valley, Montana",48.3653,-106.6674,7471
+Grant,Kansas,"Grant, Kansas",37.5623,-101.308,7467
+Kit Carson,Colorado,"Kit Carson, Colorado",39.3055,-102.603,7447
+Worth,Iowa,"Worth, Iowa",43.3774,-93.2608,7445
+Swisher,Texas,"Swisher, Texas",34.5304,-101.735,7432
+La Salle,Texas,"La Salle, Texas",28.3451,-99.0996,7416
+Tillman,Oklahoma,"Tillman, Oklahoma",34.3728,-98.9242,7413
+Lake,Tennessee,"Lake, Tennessee",36.3352,-89.4935,7401
+Boise,Idaho,"Boise, Idaho",43.9891,-115.7304,7378
+Rappahannock,Virginia,"Rappahannock, Virginia",38.6848,-78.1592,7378
+Kingman,Kansas,"Kingman, Kansas",37.5589,-98.1363,7340
+Forest,Pennsylvania,"Forest, Pennsylvania",41.513,-79.236,7313
+Hutchinson,South Dakota,"Hutchinson, South Dakota",43.3349,-97.7544,7308
+Dallam,Texas,"Dallam, Texas",36.2779,-102.6022,7304
+Calhoun,West Virginia,"Calhoun, West Virginia",38.8445,-81.1176,7295
+Dallas,Arkansas,"Dallas, Arkansas",33.9698,-92.6544,7279
+Harney,Oregon,"Harney, Oregon",43.0641,-118.968,7267
+Pepin,Wisconsin,"Pepin, Wisconsin",44.5829,-92.0016,7265
+Childress,Texas,"Childress, Texas",34.5291,-100.2076,7253
+Lexington,Virginia,"Lexington, Virginia",37.7825,-79.444,7241
+Jefferson,Mississippi,"Jefferson, Mississippi",31.7343,-91.0373,7225
+Wolfe,Kentucky,"Wolfe, Kentucky",37.7393,-83.4932,7207
+Grant,Oregon,"Grant, Oregon",44.4916,-119.0073,7189
+Quitman,Mississippi,"Quitman, Mississippi",34.2514,-90.2891,7187
+Thurston,Nebraska,"Thurston, Nebraska",42.1582,-96.544,7181
+Nicholas,Kentucky,"Nicholas, Kentucky",38.3356,-84.0153,7153
+Van Buren,Iowa,"Van Buren, Iowa",40.7532,-91.95,7150
+Grant,South Dakota,"Grant, South Dakota",45.1719,-96.7677,7149
+Refugio,Texas,"Refugio, Texas",28.3253,-97.1657,7145
+Jefferson,Nebraska,"Jefferson, Nebraska",40.1757,-97.1427,7144
+Pierce,Nebraska,"Pierce, Nebraska",42.2644,-97.6013,7144
+Brooks,Texas,"Brooks, Texas",27.0316,-98.2187,7141
+Union,Indiana,"Union, Indiana",39.6256,-84.9251,7113
+Bailey,Texas,"Bailey, Texas",34.0686,-102.8299,7100
+East Carroll,Louisiana,"East Carroll, Louisiana",32.7325,-91.2351,7096
+Adair,Iowa,"Adair, Iowa",41.3307,-94.471,7085
+Monroe,Arkansas,"Monroe, Arkansas",34.6778,-91.2039,7050
+Weston,Wyoming,"Weston, Wyoming",43.8404,-104.5676,7049
+King and Queen,Virginia,"King and Queen, Virginia",37.7186,-76.8953,7042
+Grand Isle,Vermont,"Grand Isle, Vermont",44.7968,-73.2949,7022
+Charles City,Virginia,"Charles City, Virginia",37.3567,-77.0622,7014
+Wallowa,Oregon,"Wallowa, Oregon",45.5799,-117.1811,7004
+Pendleton,West Virginia,"Pendleton, West Virginia",38.6807,-79.3509,7001
+Tucker,West Virginia,"Tucker, West Virginia",39.1136,-79.565,6982
+Presidio,Texas,"Presidio, Texas",29.9998,-104.2405,6975
+Nemaha,Nebraska,"Nemaha, Nebraska",40.3877,-95.8498,6973
+Randolph,Georgia,"Randolph, Georgia",31.7626,-84.7542,6973
+Schuyler,Illinois,"Schuyler, Illinois",40.158,-90.6151,6953
+Caribou,Idaho,"Caribou, Idaho",42.7705,-111.5623,6953
+Russell,Kansas,"Russell, Kansas",38.9148,-98.7624,6948
+Pembina,North Dakota,"Pembina, North Dakota",48.7675,-97.5518,6947
+Fremont,Iowa,"Fremont, Iowa",40.7456,-95.6047,6946
+Cameron,Louisiana,"Cameron, Louisiana",29.8754,-93.1938,6930
+Bon Homme,South Dakota,"Bon Homme, South Dakota",42.9885,-97.8846,6929
+Ida,Iowa,"Ida, Iowa",42.3869,-95.5135,6901
+Wabaunsee,Kansas,"Wabaunsee, Kansas",38.9533,-96.205,6889
+Lee,Kentucky,"Lee, Kentucky",37.5948,-83.7162,6881
+Southeast Fairbanks,Alaska,"Southeast Fairbanks, Alaska",63.8763,-143.2118,6878
+Benson,North Dakota,"Benson, North Dakota",48.0694,-99.366,6873
+Powell,Montana,"Powell, Montana",46.8564,-112.9361,6854
+Henderson,Illinois,"Henderson, Illinois",40.818,-90.9251,6809
+Lafayette,Arkansas,"Lafayette, Arkansas",33.2409,-93.6071,6800
+Pocahontas,Iowa,"Pocahontas, Iowa",42.7342,-94.6787,6797
+Treutlen,Georgia,"Treutlen, Georgia",32.4039,-82.5673,6795
+Clark,Missouri,"Clark, Missouri",40.4103,-91.7384,6779
+Fall River,South Dakota,"Fall River, South Dakota",43.2394,-103.5275,6747
+Lac qui Parle,Minnesota,"Lac qui Parle, Minnesota",44.9955,-96.1735,6719
+Blaine,Montana,"Blaine, Montana",48.4327,-108.9586,6719
+Cumberland,Kentucky,"Cumberland, Kentucky",36.7866,-85.3885,6697
+Clinch,Georgia,"Clinch, Georgia",30.915,-82.7063,6686
+Huerfano,Colorado,"Huerfano, Colorado",37.6847,-104.9606,6679
+Pawnee,Kansas,"Pawnee, Kansas",38.1813,-99.2367,6629
+Brown,Illinois,"Brown, Illinois",39.9618,-90.7504,6628
+Gentry,Missouri,"Gentry, Missouri",40.2121,-94.4099,6616
+Pershing,Nevada,"Pershing, Nevada",40.4404,-118.4044,6615
+Saguache,Colorado,"Saguache, Colorado",38.0805,-106.2815,6592
+Hancock,Tennessee,"Hancock, Tennessee",36.5236,-83.2219,6587
+Woodruff,Arkansas,"Woodruff, Arkansas",35.1863,-91.2431,6533
+Kearney,Nebraska,"Kearney, Nebraska",40.5067,-98.948,6529
+Surry,Virginia,"Surry, Virginia",37.1098,-76.9002,6523
+Norman,Minnesota,"Norman, Minnesota",47.3265,-96.4553,6520
+Beaver,Utah,"Beaver, Utah",38.357,-113.2355,6517
+Galax,Virginia,"Galax, Virginia",36.6661,-80.9176,6517
+Burt,Nebraska,"Burt, Nebraska",41.8515,-96.3286,6510
+Moody,South Dakota,"Moody, South Dakota",44.022,-96.6709,6507
+Bottineau,North Dakota,"Bottineau, North Dakota",48.7922,-100.8333,6502
+Buena Vista,Virginia,"Buena Vista, Virginia",37.7319,-79.3569,6484
+Spink,South Dakota,"Spink, South Dakota",44.938,-98.3462,6483
+Edwards,Illinois,"Edwards, Illinois",38.4165,-88.0533,6455
+Menifee,Kentucky,"Menifee, Kentucky",37.9414,-83.5989,6443
+Wayne,Iowa,"Wayne, Iowa",40.7395,-93.3274,6429
+Howard,Nebraska,"Howard, Nebraska",41.2201,-98.5171,6417
+Prince of Wales-Hyder,Alaska,"Prince of Wales-Hyder, Alaska",55.7997,-133.0192,6407
+Bland,Virginia,"Bland, Virginia",37.134,-81.1302,6388
+Rio Blanco,Colorado,"Rio Blanco, Colorado",39.9798,-108.2171,6384
+Moore,Tennessee,"Moore, Tennessee",35.2846,-86.3587,6378
+Calhoun,Georgia,"Calhoun, Georgia",31.5292,-84.6245,6365
+Antelope,Nebraska,"Antelope, Nebraska",42.1769,-98.0667,6341
+Luce,Michigan,"Luce, Michigan",46.4707,-85.5444,6338
+Talbot,Georgia,"Talbot, Georgia",32.6995,-84.533,6321
+Stewart,Georgia,"Stewart, Georgia",32.0785,-84.8352,6293
+Wilkin,Minnesota,"Wilkin, Minnesota",46.3571,-96.4683,6291
+Reynolds,Missouri,"Reynolds, Missouri",37.3623,-90.9691,6290
+Alexander,Illinois,"Alexander, Illinois",37.1915,-89.3375,6260
+Sullivan,Missouri,"Sullivan, Missouri",40.2106,-93.1115,6247
+Ellsworth,Kansas,"Ellsworth, Kansas",38.6966,-98.2047,6231
+Clay,Nebraska,"Clay, Nebraska",40.5244,-98.0513,6203
+Essex,Vermont,"Essex, Vermont",44.728,-71.7362,6200
+Taylor,Iowa,"Taylor, Iowa",40.7374,-94.6964,6167
+Jefferson,Oklahoma,"Jefferson, Oklahoma",34.111,-97.8358,6158
+Carter,Missouri,"Carter, Missouri",36.9412,-90.9623,6147
+Mitchell,Kansas,"Mitchell, Kansas",39.3933,-98.2094,6145
+Sullivan,Pennsylvania,"Sullivan, Pennsylvania",41.4462,-76.5122,6135
+Fulton,Kentucky,"Fulton, Kentucky",36.554,-89.1873,6130
+Teton,Montana,"Teton, Montana",47.8371,-112.2409,6086
+Greenwood,Kansas,"Greenwood, Kansas",37.8778,-96.2326,6081
+Garza,Texas,"Garza, Texas",33.1799,-101.2985,6070
+Osceola,Iowa,"Osceola, Iowa",43.3786,-95.6237,6052
+Gray,Kansas,"Gray, Kansas",37.7382,-100.4379,6039
+Hamlin,South Dakota,"Hamlin, South Dakota",44.6738,-97.1883,6025
+Gilpin,Colorado,"Gilpin, Colorado",39.8575,-105.5226,6018
+Shelby,Missouri,"Shelby, Missouri",39.7978,-92.0766,6013
+Carson,Texas,"Carson, Texas",35.4035,-101.3542,6009
+Bear Lake,Idaho,"Bear Lake, Idaho",42.2848,-111.3297,6000
+Pondera,Montana,"Pondera, Montana",48.2277,-112.2263,5994
+San Saba,Texas,"San Saba, Texas",31.1552,-98.8176,5991
+Stanton,Nebraska,"Stanton, Nebraska",41.9169,-97.1939,5957
+Broadwater,Montana,"Broadwater, Montana",46.3324,-111.4955,5945
+Sherman,Kansas,"Sherman, Kansas",39.3514,-101.72,5938
+Grant,Minnesota,"Grant, Minnesota",45.9341,-96.0122,5935
+McHenry,North Dakota,"McHenry, North Dakota",48.2346,-100.6363,5878
+Ontonagon,Michigan,"Ontonagon, Michigan",46.6645,-89.3149,5877
+Ohio,Indiana,"Ohio, Indiana",38.9501,-84.9651,5874
+Greer,Oklahoma,"Greer, Oklahoma",34.9357,-99.5608,5861
+Cotton,Oklahoma,"Cotton, Oklahoma",34.2902,-98.3722,5858
+Alfalfa,Oklahoma,"Alfalfa, Oklahoma",36.7311,-98.324,5847
+Crosby,Texas,"Crosby, Texas",33.6147,-101.3,5836
+Dewey,South Dakota,"Dewey, South Dakota",45.1566,-100.8718,5833
+Lynn,Texas,"Lynn, Texas",33.1768,-101.8161,5830
+Ottawa,Kansas,"Ottawa, Kansas",39.1325,-97.6502,5822
+Floyd,Texas,"Floyd, Texas",34.0724,-101.3032,5803
+Wirt,West Virginia,"Wirt, West Virginia",39.0224,-81.3787,5798
+Miller,Georgia,"Miller, Georgia",31.164,-84.7308,5787
+Bent,Colorado,"Bent, Colorado",37.9551,-103.0717,5787
+Cherry,Nebraska,"Cherry, Nebraska",42.545,-101.1186,5779
+Van Buren,Tennessee,"Van Buren, Tennessee",35.696,-85.4526,5760
+Crowley,Colorado,"Crowley, Colorado",38.3266,-103.7845,5754
+Chouteau,Montana,"Chouteau, Montana",47.8806,-110.4352,5732
+Haskell,Texas,"Haskell, Texas",33.1782,-99.7303,5726
+Putnam,Illinois,"Putnam, Illinois",41.2045,-89.2858,5721
+Dixon,Nebraska,"Dixon, Nebraska",42.4932,-96.8678,5719
+Aleutians West,Alaska,"Aleutians West, Alaska",52.798,-106.6061,5698
+Iron,Wisconsin,"Iron, Wisconsin",46.2623,-90.2421,5687
+Lincoln,Minnesota,"Lincoln, Minnesota",44.4126,-96.2671,5677
+Hartley,Texas,"Hartley, Texas",35.84,-102.6029,5669
+Martin,Texas,"Martin, Texas",32.306,-101.9513,5649
+Lander,Nevada,"Lander, Nevada",39.9337,-117.038,5643
+Stevens,Kansas,"Stevens, Kansas",37.1923,-101.3121,5603
+Covington,Virginia,"Covington, Virginia",37.7785,-79.9868,5598
+Harper,Kansas,"Harper, Kansas",37.1916,-98.0755,5594
+Lincoln,Colorado,"Lincoln, Colorado",38.9881,-103.514,5585
+Coal,Oklahoma,"Coal, Oklahoma",34.5882,-96.2978,5581
+Audubon,Iowa,"Audubon, Iowa",41.6846,-94.9058,5571
+Morris,Kansas,"Morris, Kansas",38.6874,-96.6499,5566
+McCook,South Dakota,"McCook, South Dakota",43.6743,-97.3685,5548
+Fillmore,Nebraska,"Fillmore, Nebraska",40.5247,-97.5965,5547
+Hansford,Texas,"Hansford, Texas",36.2774,-101.3546,5520
+Pulaski,Illinois,"Pulaski, Illinois",37.223,-89.1266,5510
+Mahnomen,Minnesota,"Mahnomen, Minnesota",47.3253,-95.809,5501
+Washington,Kansas,"Washington, Kansas",39.7842,-97.0875,5493
+Day,South Dakota,"Day, South Dakota",45.3671,-97.6074,5486
+Tripp,South Dakota,"Tripp, South Dakota",43.3459,-99.884,5458
+Walworth,South Dakota,"Walworth, South Dakota",45.4299,-100.0315,5457
+Stark,Illinois,"Stark, Illinois",41.0934,-89.7975,5447
+Norton,Kansas,"Norton, Kansas",39.7844,-99.9035,5446
+Emporia,Virginia,"Emporia, Virginia",36.6953,-77.5356,5442
+Yukon-Koyukuk,Alaska,"Yukon-Koyukuk, Alaska",65.5086,-151.3896,5377
+Beaver,Oklahoma,"Beaver, Oklahoma",36.7496,-100.4768,5377
+Cook,Minnesota,"Cook, Minnesota",47.9026,-90.5346,5376
+Lincoln,Idaho,"Lincoln, Idaho",43.0024,-114.1383,5350
+Phillips,Kansas,"Phillips, Kansas",39.7846,-99.347,5340
+Wheeler,Texas,"Wheeler, Texas",35.4012,-100.2698,5338
+Ransom,North Dakota,"Ransom, North Dakota",46.4562,-97.6574,5314
+Warren,Georgia,"Warren, Georgia",33.4089,-82.6768,5297
+Boone,Nebraska,"Boone, Nebraska",41.7068,-98.0672,5279
+Brule,South Dakota,"Brule, South Dakota",43.7181,-99.0809,5258
+Delta,Texas,"Delta, Texas",33.3863,-95.6724,5249
+Jim Hogg,Texas,"Jim Hogg, Texas",27.0434,-98.6973,5231
+Sheridan,Nebraska,"Sheridan, Nebraska",42.5048,-102.4089,5231
+Atchison,Missouri,"Atchison, Missouri",40.4308,-95.4281,5229
+Polk,Nebraska,"Polk, Nebraska",41.1869,-97.5684,5225
+Schley,Georgia,"Schley, Georgia",32.2617,-84.3148,5221
+Hyde,North Carolina,"Hyde, North Carolina",35.5305,-76.2508,5213
+Calhoun,Arkansas,"Calhoun, Arkansas",33.558,-92.503,5192
+Lincoln,Nevada,"Lincoln, Nevada",37.6433,-114.8775,5180
+Johnson,Nebraska,"Johnson, Nebraska",40.3926,-96.2651,5161
+Craig,Virginia,"Craig, Virginia",37.4817,-80.2114,5110
+Pickett,Tennessee,"Pickett, Tennessee",36.5584,-85.0749,5079
+Gallatin,Illinois,"Gallatin, Illinois",37.7627,-88.2304,5064
+Thayer,Nebraska,"Thayer, Nebraska",40.1762,-97.595,5057
+Rooks,Kansas,"Rooks, Kansas",39.3502,-99.325,5053
+Scott,Illinois,"Scott, Illinois",39.6441,-90.4747,5005
+Garfield,Utah,"Garfield, Utah",37.8549,-111.4431,4998
+Big Stone,Minnesota,"Big Stone, Minnesota",45.4261,-96.4109,4996
+Ringgold,Iowa,"Ringgold, Iowa",40.7352,-94.244,4964
+Dillingham,Alaska,"Dillingham, Alaska",59.7991,-158.2351,4961
+Kingsbury,South Dakota,"Kingsbury, South Dakota",44.3696,-97.4915,4944
+Dickey,North Dakota,"Dickey, North Dakota",46.1102,-98.5047,4938
+Dewey,Oklahoma,"Dewey, Oklahoma",35.9876,-99.0079,4922
+Scott,Kansas,"Scott, Kansas",38.4822,-100.9069,4917
+Scotland,Missouri,"Scotland, Missouri",40.4526,-92.1471,4902
+Toole,Montana,"Toole, Montana",48.6554,-111.6956,4892
+Marshall,South Dakota,"Marshall, South Dakota",45.7586,-97.5986,4891
+Mills,Texas,"Mills, Texas",31.4952,-98.5955,4889
+Washington,Colorado,"Washington, Colorado",39.971,-103.2012,4868
+Calhoun,Illinois,"Calhoun, Illinois",39.1693,-90.6676,4830
+Crane,Texas,"Crane, Texas",31.4286,-102.5156,4802
+Ouray,Colorado,"Ouray, Colorado",38.1555,-107.7693,4796
+Carlisle,Kentucky,"Carlisle, Kentucky",36.8532,-88.971,4784
+Putnam,Missouri,"Putnam, Missouri",40.4789,-93.0162,4781
+Morrill,Nebraska,"Morrill, Nebraska",41.716,-103.0106,4781
+Custer,Colorado,"Custer, Colorado",38.1087,-105.3675,4776
+Musselshell,Montana,"Musselshell, Montana",46.4966,-108.3981,4766
+Furnas,Nebraska,"Furnas, Nebraska",40.1764,-99.9123,4747
+Republic,Kansas,"Republic, Kansas",39.8278,-97.6506,4658
+Barber,Kansas,"Barber, Kansas",37.2289,-98.6848,4624
+Cameron,Pennsylvania,"Cameron, Pennsylvania",41.4368,-78.2039,4611
+Hot Springs,Wyoming,"Hot Springs, Wyoming",43.719,-108.4422,4607
+Tensas,Louisiana,"Tensas, Louisiana",32.0017,-91.3401,4561
+Menominee,Wisconsin,"Menominee, Wisconsin",45.0044,-88.71,4558
+Schuyler,Missouri,"Schuyler, Missouri",40.4703,-92.521,4555
+Mora,New Mexico,"Mora, New Mexico",36.0104,-104.9448,4536
+Hamilton,New York,"Hamilton, New York",43.6611,-74.4974,4515
+Hickman,Kentucky,"Hickman, Kentucky",36.6781,-88.9762,4510
+Mineral,Nevada,"Mineral, Nevada",38.5388,-118.4351,4460
+Owsley,Kentucky,"Owsley, Kentucky",37.4192,-83.6831,4442
+Holt,Missouri,"Holt, Missouri",40.0944,-95.2155,4432
+Hudspeth,Texas,"Hudspeth, Texas",31.4562,-105.3865,4415
+Sharkey,Mississippi,"Sharkey, Mississippi",32.8799,-90.8132,4404
+Grant,Oklahoma,"Grant, Oklahoma",36.7961,-97.7861,4397
+Dunn,North Dakota,"Dunn, North Dakota",47.3568,-102.6182,4395
+Oneida,Idaho,"Oneida, Idaho",42.195,-112.5394,4385
+Kimble,Texas,"Kimble, Texas",30.4868,-99.7487,4373
+Sioux,North Dakota,"Sioux, North Dakota",46.1127,-101.0404,4373
+Guadalupe,New Mexico,"Guadalupe, New Mexico",34.8633,-104.7907,4353
+Deuel,South Dakota,"Deuel, South Dakota",44.76,-96.668,4318
+Florence,Wisconsin,"Florence, Wisconsin",45.8485,-88.3981,4314
+Kittson,Minnesota,"Kittson, Minnesota",48.7766,-96.7829,4311
+Bath,Virginia,"Bath, Virginia",38.0587,-79.7411,4307
+Hidalgo,New Mexico,"Hidalgo, New Mexico",31.914,-108.7148,4297
+Phillips,Colorado,"Phillips, Colorado",40.594,-102.3576,4290
+Wahkiakum,Washington,"Wahkiakum, Washington",46.2918,-123.4244,4268
+Mineral,Montana,"Mineral, Montana",47.1472,-114.9983,4251
+Nuckolls,Nebraska,"Nuckolls, Nebraska",40.1764,-98.0472,4244
+Valley,Nebraska,"Valley, Nebraska",41.5673,-98.9819,4206
+Pope,Illinois,"Pope, Illinois",37.4127,-88.5615,4203
+Mason,Texas,"Mason, Texas",30.7177,-99.2261,4186
+Gregory,South Dakota,"Gregory, South Dakota",43.1924,-99.1856,4186
+Stafford,Kansas,"Stafford, Kansas",38.031,-98.7174,4181
+Meade,Kansas,"Meade, Kansas",37.2381,-100.3663,4180
+Custer,Idaho,"Custer, Idaho",44.2411,-114.2817,4169
+Corson,South Dakota,"Corson, South Dakota",45.7086,-101.1969,4150
+Union,New Mexico,"Union, New Mexico",36.4816,-103.471,4133
+Pierce,North Dakota,"Pierce, North Dakota",48.2496,-99.9718,4126
+LaMoure,North Dakota,"LaMoure, North Dakota",46.4569,-98.5355,4125
+Adams,Idaho,"Adams, Idaho",44.8896,-116.4538,4097
+Tyrrell,North Carolina,"Tyrrell, North Carolina",35.8172,-76.209,4095
+Phillips,Montana,"Phillips, Montana",48.2592,-107.9132,4077
+Haskell,Kansas,"Haskell, Kansas",37.5622,-100.8712,4018
+Red Lake,Minnesota,"Red Lake, Minnesota",47.8717,-96.0953,4015
+Ellis,Oklahoma,"Ellis, Oklahoma",36.2183,-99.7546,4015
+Hemphill,Texas,"Hemphill, Texas",35.8375,-100.2706,3994
+Columbia,Washington,"Columbia, Washington",46.2975,-117.9078,3992
+Storey,Nevada,"Storey, Nevada",39.4469,-119.5293,3988
+Echols,Georgia,"Echols, Georgia",30.7101,-82.894,3981
+Wells,North Dakota,"Wells, North Dakota",47.5875,-99.6609,3976
+Norton,Virginia,"Norton, Virginia",36.9314,-82.6262,3970
+Knox,Missouri,"Knox, Missouri",40.1282,-92.1481,3947
+Hardeman,Texas,"Hardeman, Texas",34.2902,-99.7457,3945
+Hardin,Illinois,"Hardin, Illinois",37.5182,-88.2668,3939
+Edmunds,South Dakota,"Edmunds, South Dakota",45.4188,-99.2153,3909
+Kearny,Kansas,"Kearny, Kansas",38.0003,-101.3199,3907
+Sargent,North Dakota,"Sargent, North Dakota",46.1078,-97.6306,3872
+Fisher,Texas,"Fisher, Texas",32.7428,-100.4022,3856
+Lyman,South Dakota,"Lyman, South Dakota",43.8958,-99.8474,3848
+Lewis,Idaho,"Lewis, Idaho",46.237,-116.4263,3838
+Sutton,Texas,"Sutton, Texas",30.4984,-100.5382,3824
+Cavalier,North Dakota,"Cavalier, North Dakota",48.7723,-98.4648,3803
+Chase,Nebraska,"Chase, Nebraska",40.5242,-101.698,3783
+Lake of the Woods,Minnesota,"Lake of the Woods, Minnesota",48.7712,-94.9046,3771
+Reagan,Texas,"Reagan, Texas",31.3661,-101.5231,3766
+Harper,Oklahoma,"Harper, Oklahoma",36.7888,-99.6674,3760
+Costilla,Colorado,"Costilla, Colorado",37.2781,-105.4282,3745
+Knox,Texas,"Knox, Texas",33.6061,-99.7414,3705
+Clark,South Dakota,"Clark, South Dakota",44.8582,-97.7295,3685
+Adams,Iowa,"Adams, Iowa",41.029,-94.6992,3670
+Sweet Grass,Montana,"Sweet Grass, Montana",45.8139,-109.941,3670
+Roger Mills,Oklahoma,"Roger Mills, Oklahoma",35.6883,-99.6958,3667
+Upton,Texas,"Upton, Texas",31.3688,-102.0431,3659
+Kinney,Texas,"Kinney, Texas",29.3501,-100.418,3659
+Mercer,Missouri,"Mercer, Missouri",40.4223,-93.5686,3644
+Kimball,Nebraska,"Kimball, Nebraska",41.1978,-103.7149,3633
+Smith,Kansas,"Smith, Kansas",39.7852,-98.7855,3627
+Baylor,Texas,"Baylor, Texas",33.6165,-99.2135,3577
+Baca,Colorado,"Baca, Colorado",37.3192,-102.5604,3561
+Nance,Nebraska,"Nance, Nebraska",41.3973,-97.9922,3544
+Webster,Nebraska,"Webster, Nebraska",40.1764,-98.5,3537
+Osborne,Kansas,"Osborne, Kansas",39.3503,-98.7679,3530
+Catron,New Mexico,"Catron, New Mexico",33.9152,-108.4046,3526
+Crockett,Texas,"Crockett, Texas",30.7231,-101.412,3484
+Sheridan,Montana,"Sheridan, Montana",48.7212,-104.5047,3483
+Bennett,South Dakota,"Bennett, South Dakota",43.195,-101.664,3425
+Harlan,Nebraska,"Harlan, Nebraska",40.1765,-99.4046,3415
+Real,Texas,"Real, Texas",29.8318,-99.8222,3408
+Hanson,South Dakota,"Hanson, South Dakota",43.6748,-97.7873,3399
+Lipscomb,Texas,"Lipscomb, Texas",36.2776,-100.2731,3398
+Aleutians East,Alaska,"Aleutians East, Alaska",55.3665,-161.9813,3385
+Donley,Texas,"Donley, Texas",34.9654,-100.814,3342
+Chautauqua,Kansas,"Chautauqua, Kansas",37.15,-96.2454,3323
+Granite,Montana,"Granite, Montana",46.4045,-113.4403,3311
+Traverse,Minnesota,"Traverse, Minnesota",45.7722,-96.4716,3311
+Emmons,North Dakota,"Emmons, North Dakota",46.2851,-100.2387,3310
+Coke,Texas,"Coke, Texas",31.8886,-100.5299,3303
+Shackelford,Texas,"Shackelford, Texas",32.7359,-99.3541,3296
+Jackson,South Dakota,"Jackson, South Dakota",43.6943,-101.6281,3290
+Concho,Texas,"Concho, Texas",31.3266,-99.864,3266
+Foster,North Dakota,"Foster, North Dakota",47.4571,-98.883,3260
+Petersburg,Alaska,"Petersburg, Alaska",57.1195,-132.9345,3257
+Hand,South Dakota,"Hand, South Dakota",44.5478,-99.0049,3256
+Woodson,Kansas,"Woodson, Kansas",37.8867,-95.7401,3157
+Bowman,North Dakota,"Bowman, North Dakota",46.1126,-103.5206,3148
+Baker,Georgia,"Baker, Georgia",31.3262,-84.4447,3132
+Sherman,Texas,"Sherman, Texas",36.2777,-101.8934,3059
+Hall,Texas,"Hall, Texas",34.5308,-100.6811,3048
+Lincoln,Kansas,"Lincoln, Kansas",39.0453,-98.2077,3044
+Sierra,California,"Sierra, California",39.5803,-120.516,3040
+Sherman,Nebraska,"Sherman, Nebraska",41.2206,-98.9762,3033
+Rush,Kansas,"Rush, Kansas",38.5231,-99.3092,3022
+Stanley,South Dakota,"Stanley, South Dakota",44.4123,-100.7359,3017
+Brown,Nebraska,"Brown, Nebraska",42.43,-99.9295,3015
+Glascock,Georgia,"Glascock, Georgia",33.2293,-82.6107,2996
+Franklin,Nebraska,"Franklin, Nebraska",40.1763,-98.9528,2987
+Schleicher,Texas,"Schleicher, Texas",30.8974,-100.5383,2983
+Collingsworth,Texas,"Collingsworth, Texas",34.9648,-100.27,2969
+Clay,Georgia,"Clay, Georgia",31.6263,-84.9801,2951
+Douglas,South Dakota,"Douglas, South Dakota",43.3869,-98.3661,2929
+Fallon,Montana,"Fallon, Montana",46.334,-104.4174,2921
+Perkins,Nebraska,"Perkins, Nebraska",40.851,-101.6497,2901
+Perkins,South Dakota,"Perkins, South Dakota",45.4905,-102.4757,2897
+Nelson,North Dakota,"Nelson, North Dakota",47.9217,-98.192,2894
+Cochran,Texas,"Cochran, Texas",33.6042,-102.8285,2887
+Jewell,Kansas,"Jewell, Kansas",39.7847,-98.2183,2885
+Ness,Kansas,"Ness, Kansas",38.4794,-99.9161,2876
+Edwards,Kansas,"Edwards, Kansas",37.8876,-99.3122,2869
+Decatur,Kansas,"Decatur, Kansas",39.7847,-100.4599,2860
+Trego,Kansas,"Trego, Kansas",38.9143,-99.8728,2840
+Hitchcock,Nebraska,"Hitchcock, Nebraska",40.1763,-101.0423,2815
+Logan,Kansas,"Logan, Kansas",38.9173,-101.1484,2805
+Ziebach,South Dakota,"Ziebach, South Dakota",44.9804,-101.6658,2791
+Aurora,South Dakota,"Aurora, South Dakota",43.718,-98.5616,2763
+Morton,Kansas,"Morton, Kansas",37.1914,-101.7992,2754
+Harmon,Oklahoma,"Harmon, Oklahoma",34.7441,-99.8462,2710
+Wayne,Utah,"Wayne, Utah",38.3244,-110.9039,2689
+Cheyenne,Kansas,"Cheyenne, Kansas",39.7859,-101.7313,2665
+Pawnee,Nebraska,"Pawnee, Nebraska",40.1315,-96.2371,2649
+Gove,Kansas,"Gove, Kansas",38.9161,-100.483,2644
+Frontier,Nebraska,"Frontier, Nebraska",40.5301,-100.3942,2640
+Chase,Kansas,"Chase, Kansas",38.302,-96.5939,2637
+Webster,Georgia,"Webster, Georgia",32.0466,-84.551,2610
+McIntosh,North Dakota,"McIntosh, North Dakota",46.1118,-99.4412,2597
+Hamilton,Kansas,"Hamilton, Kansas",37.9991,-101.7912,2591
+Butte,Idaho,"Butte, Idaho",43.7229,-113.1721,2581
+Hettinger,North Dakota,"Hettinger, North Dakota",46.4325,-102.4603,2547
+Elk,Kansas,"Elk, Kansas",37.4537,-96.2441,2523
+Graham,Kansas,"Graham, Kansas",39.3497,-99.8832,2519
+Haines,Alaska,"Haines, Alaska",59.1199,-135.5,2518
+Sheridan,Kansas,"Sheridan, Kansas",39.3503,-100.4418,2506
+Kiowa,Kansas,"Kiowa, Kansas",37.5582,-99.2861,2505
+Wrangell,Alaska,"Wrangell, Alaska",56.3317,-132.0223,2502
+Rawlins,Kansas,"Rawlins, Kansas",39.7852,-101.0759,2502
+Kidder,North Dakota,"Kidder, North Dakota",46.9801,-99.7801,2466
+Renville,North Dakota,"Renville, North Dakota",48.719,-101.6578,2442
+Niobrara,Wyoming,"Niobrara, Wyoming",43.0564,-104.4754,2422
+Griggs,North Dakota,"Griggs, North Dakota",47.4573,-98.237,2409
+Rich,Utah,"Rich, Utah",41.6323,-111.2445,2389
+Greeley,Nebraska,"Greeley, Nebraska",41.5674,-98.5212,2382
+Sanborn,South Dakota,"Sanborn, South Dakota",44.0234,-98.0913,2379
+Grant,North Dakota,"Grant, North Dakota",46.3583,-101.6397,2353
+Liberty,Montana,"Liberty, Montana",48.5617,-111.0246,2351
+Divide,North Dakota,"Divide, North Dakota",48.8149,-103.4872,2335
+Sedgwick,Colorado,"Sedgwick, Colorado",40.8759,-102.3518,2322
+Potter,South Dakota,"Potter, South Dakota",45.0645,-99.9572,2315
+Faulk,South Dakota,"Faulk, South Dakota",45.071,-99.1453,2312
+Adams,North Dakota,"Adams, North Dakota",46.0968,-102.5284,2311
+Eddy,North Dakota,"Eddy, North Dakota",47.7176,-98.9016,2301
+McPherson,South Dakota,"McPherson, South Dakota",45.7664,-99.2214,2297
+Quitman,Georgia,"Quitman, Georgia",31.8673,-85.0188,2289
+Denali,Alaska,"Denali, Alaska",63.6716,-150.0117,2246
+Jeff Davis,Texas,"Jeff Davis, Texas",30.7154,-104.14,2241
+Garfield,Washington,"Garfield, Washington",46.4316,-117.5452,2230
+Towner,North Dakota,"Towner, North Dakota",48.6855,-99.2457,2224
+Culberson,Texas,"Culberson, Texas",31.4471,-104.5173,2214
+Miner,South Dakota,"Miner, South Dakota",44.0219,-97.6102,2211
+Highland,Virginia,"Highland, Virginia",38.3623,-79.5686,2204
+Dickens,Texas,"Dickens, Texas",33.6165,-100.7789,2203
+Burke,North Dakota,"Burke, North Dakota",48.791,-102.5182,2182
+Cimarron,Oklahoma,"Cimarron, Oklahoma",36.7483,-102.5177,2174
+Wheatland,Montana,"Wheatland, Montana",46.4663,-109.8446,2142
+Hoonah-Angoon,Alaska,"Hoonah-Angoon, Alaska",58.2884,-135.643,2139
+Wichita,Kansas,"Wichita, Kansas",38.4821,-101.3474,2130
+Robertson,Kentucky,"Robertson, Kentucky",38.5188,-84.052,2123
+Menard,Texas,"Menard, Texas",30.8898,-99.8206,2119
+Keweenaw,Michigan,"Keweenaw, Michigan",47.6279,-88.4346,2111
+Oldham,Texas,"Oldham, Texas",35.405,-102.6028,2094
+Mellette,South Dakota,"Mellette, South Dakota",43.5813,-100.76,2052
+Stanton,Kansas,"Stanton, Kansas",37.563,-101.7842,2052
+De Baca,New Mexico,"De Baca, New Mexico",34.3425,-104.412,2040
+Worth,Missouri,"Worth, Missouri",40.4791,-94.4221,2027
+Cheyenne,Colorado,"Cheyenne, Colorado",38.828,-102.6035,2026
+Clark,Kansas,"Clark, Kansas",37.2355,-99.8203,2026
+Buffalo,South Dakota,"Buffalo, South Dakota",44.0763,-99.2048,2026
+Haakon,South Dakota,"Haakon, South Dakota",44.2945,-101.5399,2018
+Jerauld,South Dakota,"Jerauld, South Dakota",44.0663,-98.6296,2018
+Gosper,Nebraska,"Gosper, Nebraska",40.5148,-99.8307,2013
+Garfield,Nebraska,"Garfield, Nebraska",41.9144,-98.9914,2001
+Armstrong,Texas,"Armstrong, Texas",34.9649,-101.3574,1973
+Judith Basin,Montana,"Judith Basin, Montana",47.0454,-110.266,1954
+Boyd,Nebraska,"Boyd, Nebraska",42.8997,-98.7665,1937
+Edwards,Texas,"Edwards, Texas",29.9827,-100.3048,1918
+Dundy,Nebraska,"Dundy, Nebraska",40.1762,-101.6879,1913
+Meagher,Montana,"Meagher, Montana",46.5982,-110.8857,1888
+Gilliam,Oregon,"Gilliam, Oregon",45.3783,-120.2108,1878
+Hodgeman,Kansas,"Hodgeman, Kansas",38.0875,-99.8979,1876
+Logan,North Dakota,"Logan, North Dakota",46.4573,-99.4774,1872
+Piute,Utah,"Piute, Utah",38.3367,-112.1274,1866
+Garden,Nebraska,"Garden, Nebraska",41.6194,-102.3355,1864
+Eureka,Nevada,"Eureka, Nevada",39.9839,-116.2686,1859
+Dolores,Colorado,"Dolores, Colorado",37.7517,-108.5174,1857
+Golden Valley,North Dakota,"Golden Valley, North Dakota",46.9402,-103.8466,1845
+Oliver,North Dakota,"Oliver, North Dakota",47.1153,-101.3403,1842
+Deuel,Nebraska,"Deuel, Nebraska",41.1116,-102.3338,1831
+McCone,Montana,"McCone, Montana",47.6452,-105.7954,1790
+Steele,North Dakota,"Steele, North Dakota",47.4562,-97.7246,1744
+Comanche,Kansas,"Comanche, Kansas",37.1913,-99.2718,1740
+Daniels,Montana,"Daniels, Montana",48.7838,-105.5485,1730
+Sherman,Oregon,"Sherman, Oregon",45.4052,-120.6894,1642
+Cottle,Texas,"Cottle, Texas",34.0776,-100.2788,1642
+Irion,Texas,"Irion, Texas",31.3039,-100.9824,1620
+Taliaferro,Georgia,"Taliaferro, Georgia",33.5661,-82.8788,1611
+Powder River,Montana,"Powder River, Montana",45.395,-105.6302,1607
+Wallace,Kansas,"Wallace, Kansas",38.9167,-101.7636,1574
+Lane,Kansas,"Lane, Kansas",38.4813,-100.4664,1564
+Glasscock,Texas,"Glasscock, Texas",31.8694,-101.5208,1510
+Kiowa,Colorado,"Kiowa, Colorado",38.4327,-102.7403,1489
+Campbell,South Dakota,"Campbell, South Dakota",45.7712,-100.0516,1485
+Stonewall,Texas,"Stonewall, Texas",33.1792,-100.2534,1476
+Briscoe,Texas,"Briscoe, Texas",34.5303,-101.2086,1457
+Throckmorton,Texas,"Throckmorton, Texas",33.1775,-99.2124,1436
+Wheeler,Oregon,"Wheeler, Oregon",44.726,-120.0275,1415
+Rock,Nebraska,"Rock, Nebraska",42.4213,-99.4499,1414
+Sheridan,North Dakota,"Sheridan, North Dakota",47.5755,-100.3456,1409
+Lake and Peninsula,Alaska,"Lake and Peninsula, Alaska",58.6529,-156.1868,1393
+Issaquena,Mississippi,"Issaquena, Mississippi",32.7414,-90.9892,1361
+Carter,Montana,"Carter, Montana",45.5168,-104.5362,1331
+Hyde,South Dakota,"Hyde, South Dakota",44.5473,-99.4871,1319
+Harding,South Dakota,"Harding, South Dakota",45.5803,-103.4958,1306
+Sully,South Dakota,"Sully, South Dakota",44.7156,-100.1322,1305
+Foard,Texas,"Foard, Texas",33.9746,-99.778,1275
+Jackson,Colorado,"Jackson, Colorado",40.6664,-106.3428,1261
+Motley,Texas,"Motley, Texas",34.0741,-100.7798,1252
+Prairie,Montana,"Prairie, Montana",46.8605,-105.378,1252
+Sterling,Texas,"Sterling, Texas",31.8278,-101.05,1231
+Sioux,Nebraska,"Sioux, Nebraska",42.4876,-103.7589,1219
+Greeley,Kansas,"Greeley, Kansas",38.4806,-101.806,1185
+Wibaux,Montana,"Wibaux, Montana",46.9653,-104.249,1122
+Skagway,Alaska,"Skagway, Alaska",59.563,-135.3363,1107
+Camas,Idaho,"Camas, Idaho",43.4633,-114.8058,1048
+Alpine,California,"Alpine, California",38.5972,-119.8207,1039
+Garfield,Montana,"Garfield, Montana",47.2776,-106.9929,1036
+Esmeralda,Nevada,"Esmeralda, Nevada",37.7847,-117.6323,969
+Logan,Nebraska,"Logan, Nebraska",41.5665,-100.4829,927
+Billings,North Dakota,"Billings, North Dakota",47.0236,-103.3763,922
+Clark,Idaho,"Clark, Idaho",44.2839,-112.3512,913
+Terrell,Texas,"Terrell, Texas",30.225,-102.0765,896
+Hayes,Nebraska,"Hayes, Nebraska",40.5248,-101.0619,893
+Bristol Bay,Alaska,"Bristol Bay, Alaska",58.7439,-156.7,875
+Hinsdale,Colorado,"Hinsdale, Colorado",37.8213,-107.3003,857
+Mineral,Colorado,"Mineral, Colorado",37.6689,-106.9241,824
+Roberts,Texas,"Roberts, Texas",35.8384,-100.8136,805
+Jones,South Dakota,"Jones, South Dakota",43.9606,-100.6897,793
+Wheeler,Nebraska,"Wheeler, Nebraska",41.9148,-98.5282,783
+McMullen,Texas,"McMullen, Texas",28.3527,-98.5679,774
+Keya Paha,Nebraska,"Keya Paha, Nebraska",42.8789,-99.7124,760
+Slope,North Dakota,"Slope, North Dakota",46.4472,-103.4599,742
+Golden Valley,Montana,"Golden Valley, Montana",46.3812,-109.1752,728
+Grant,Nebraska,"Grant, Nebraska",41.915,-101.7405,722
+Banner,Nebraska,"Banner, Nebraska",41.546,-103.7105,722
+Hooker,Nebraska,"Hooker, Nebraska",41.9161,-101.1353,693
+Treasure,Montana,"Treasure, Montana",46.2115,-107.2716,668
+Yakutat,Alaska,"Yakutat, Alaska",59.8889,-140.3577,649
+Kent,Texas,"Kent, Texas",33.1813,-100.7776,647
+Thomas,Nebraska,"Thomas, Nebraska",41.9136,-100.5558,645
+Borden,Texas,"Borden, Texas",32.7436,-101.4317,613
+Daggett,Utah,"Daggett, Utah",40.8873,-109.5077,613
+Loup,Nebraska,"Loup, Nebraska",41.9139,-99.4544,605
+San Juan,Colorado,"San Juan, Colorado",37.764,-107.6762,589
+Kenedy,Texas,"Kenedy, Texas",26.9285,-97.7017,568
+Blaine,Nebraska,"Blaine, Nebraska",41.9128,-99.9768,477
+Petroleum,Montana,"Petroleum, Montana",47.1175,-108.2502,453
+Harding,New Mexico,"Harding, New Mexico",35.8579,-103.8203,441
+Arthur,Nebraska,"Arthur, Nebraska",41.5689,-101.6958,427
+McPherson,Nebraska,"McPherson, Nebraska",41.5682,-101.0605,395
+King,Texas,"King, Texas",33.6166,-100.2558,237
+Loving,Texas,"Loving, Texas",31.8493,-103.5799,98
+Kalawao,Hawaii,"Kalawao, Hawaii",21.1709,-156.9475,66
