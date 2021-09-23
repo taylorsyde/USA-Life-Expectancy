@@ -4,7 +4,9 @@ This visualization was created as part of a larger collaborative analysis of lif
 
 ### Overview
 
-This visualization shows the average change in life expectancy from 1985 - 2010 in each county.  
+This [interactive visualization](index.html)  shows the average change in life expectancy from 1985 - 2010 in each county.  
+
+![Heatmap](Resources/heatmap_img.jpg).
 
 ### Overall US Life Expectancy
 * Both genders life expectancy increased 
