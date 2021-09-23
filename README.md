@@ -20,6 +20,11 @@ This [interactive visualization](https://taylorsyde.github.io/us_life_expectancy
 ### Data Limitations
 * Life Expectancy data was from  1985- 2010
 
+### Future Improvements
+- Invert colors to show red as areas of low growth and blue as areas of high growth.
+- Color key with vaules.
+- Smaller data point radius for great resolution when zooming into targeted areas
+
 ### Sources
 (http://www.healthdata.org/)
 (https://simplemaps.com/data/us-counties)
