@@ -6,7 +6,7 @@ This visualization was created as part of a larger collaborative analysis of lif
 
 This [interactive visualization](https://taylorsyde.github.io/us_life_expectancy_by_region/)  shows the average change in life expectancy from 1985 - 2010 in each county.  
 
-![Heatmap](/Resources/heatmap_img.jpg)
+![Heatmap](Resources/heatmap_img.jpg)
 
 ### Overall US Life Expectancy
 * Both genders life expectancy increased 
